@@ -8,6 +8,10 @@ repo_name: huatoanduong/huatoanduong.github.io
 repo_url: https://github.com/huatoanduong/huatoanduong.github.io
 edit_uri: edit/main/docs/
 
+docs_dir: docs
+site_dir: dist
+dev_addr: localhost:5000
+
 # Theme configuration
 theme:
   name: material
