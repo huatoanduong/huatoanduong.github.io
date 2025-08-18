@@ -143,12 +143,12 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-# # Extra CSS and JavaScript
-# extra_css:
-#   - stylesheets/extra.css
+# Extra CSS and JavaScript
+extra_css:
+  - style/pdf-button.css
 
-# extra_javascript:
-#   - javascripts/extra.js
+extra_javascript:
+  - js/pdf-button.js
 
 # Social links
 social:
