@@ -7,7 +7,10 @@ lastUpdated: "2024-01-15"
 
 ## Expert Software Developer
 
-With 14 years working in IT industry, also in charge of some positions from analyzing to developing, team managing, deploying system, I have a deep understanding about software architecture & SDLC, which enables me to learn new technologies fast and easily. And 90% of my working lifetime is for startups, so I would love to work in a result-oriented and innovative environment. Along with high-demanded fullstack environment, I have forged myself a self-teaching skill that enables me to be adaptive with a changeable and high-demand environment.
+Experienced IT professional with 15+ years in the industry, primarily in dynamic startup environments. Proven track record of delivering end-to-end solutions across the full software development lifecycle - including system analysis, architecture design, full-stack development, team leadership, and production deployment.
+
+Having spent 90% of my career in startups, I thrive in fast-paced, high-demand environments that require adaptability, self-learning, and end-to-end ownership. I’m highly proficient in designing scalable software architectures and cloud-native solutions, and I'm quick to adopt new technologies when needed. The nature of startup work has also forged my ability to wear multiple hats—whether it's coding, architecting, or managing cross-functional teams—with a focus on delivering real value to customers.
+
 
 <!-- [Get PDF version](#){ .md-button .md-button--primary } -->
 
@@ -23,7 +26,6 @@ With 14 years working in IT industry, also in charge of some positions from anal
 </div>
 
 ---
-
 
 ## Contact Information
 
@@ -59,80 +61,32 @@ With 14 years working in IT industry, also in charge of some positions from anal
 
 ## Work Experience
 
+### Expert Software Engineer
+**Zuhlke Group**
+
+---
+
 ### Team Leader, Senior Engineer
-**GIC Singapore** | Singapore | Sep 2023 - Now
+**GIC Singapore** | ***Singapore*** | *Sep 2023 - Sep 2024*
 
-#### About Project
-Provide a tool for external EIPs to submit data into internal system. Be the first step to validate all the input all the external in notify all stakeholders.
-
-#### Responsibilities
-- Closely work with BA and QA team to provide system design before sprint start.
-- Maintain 6 year old project without any upgrade to the latest tech stack.
-- Provide a plan and arrange resource for upcoming releases.
-- Be oncall support for partners when needed.
-- Support for every release schedule.
-- Tracing logs & support partners for production issue.
-- Write Engineer specs for new features.
-- Preparing the migration plan for integration with new system.
-- Propose an upgrade plan for all obsolete features.
-- Be Owner Engineer for every feature that team work on.
-
-#### Achievements
-- Improve client-first mindset.
-- Redesign & improve the developer team workflow.
-- Improve leadership and team bonding skills.
-- Paid lot of tech debt, restructured lot of components to keep the code base more human-readable.
-- Enhance experience on upgrading an extreme obsolete system to the latest stack.
-- Researching skill in an environment that demand us to be quick adaptive.
-- Self taught many tech platforms.
-- Consolidate knowledge with an enterprise system.
-
-#### Technologies
-- .NET Framework
-- .NET Core
-- Kibana with Elastic search for log
-- DataDog
-- Kubernetes
-- CloudBees
-- Gitlab CICD
+| **Aspect** | **Details** |
+|------------|-------------|
+| **Project** | Provide a tool for external EIPs to submit data into internal system. Be the first step to validate all the input all the external in notify all stakeholders. |
+| **Responsibilities** | • Closely work with BA and QA team to provide system design before sprint start.<br>• Maintain 6 year old project without any upgrade to the latest tech stack.<br>• Provide a plan and arrange resource for upcoming releases.<br>• Be oncall support for partners when needed.<br>• Support for every release schedule.<br>• Tracing logs & support partners for production issue.<br>• Write Engineer specs for new features.<br>• Preparing the migration plan for integration with new system.<br>• Propose an upgrade plan for all obsolete features.<br>• Be Owner Engineer for every feature that team work on. |
+| **Achievements** | • Improve client-first mindset.<br>• Redesign & improve the developer team workflow.<br>• Improve leadership and team bonding skills.<br>• Paid lot of tech debt, restructured lot of components to keep the code base more human-readable.<br>• Enhance experience on upgrading an extreme obsolete system to the latest stack.<br>• Researching skill in an environment that demand us to be quick adaptive.<br>• Self taught many tech platforms.<br>• Consolidate knowledge with an enterprise system. |
+| **Technologies** | .NET Framework<br>.NET Core<br>Kibana with Elastic search for log<br>DataDog<br>Kubernetes<br>CloudBees<br>Gitlab CICD |
 
 ---
 
 ### Team Leader, Fullstack Engineer
-**Grab** | Oct 2021 - Sep 2023
+**Grab** | *Oct 2021 - Sep 2023*
 
-#### About Project
-Express Web is a Web portal that mainly focus about Grab for Business which need a place to process a large amount of orders everyday. Provide tools like: Shopify connect, Bulk Upload & Route Optimization for partners, Order tracing on Web.
-
-**URL:** [https://express.grab.com/en](https://express.grab.com/en)
-
-#### Responsibilities
-- Closely work with PO and QA team to provide system design before sprint start.
-- Be oncall support for stakeholder when needed.
-- Tracing logs & support team members whenever there is an issue.
-- Write Engineer specs for new features.
-- Be Owner Engineer for every feature that team work on.
-
-#### Achievements
-- Improve client-first mindset.
-- Improve leadership and team bonding skills.
-- Paid lot of tech debt that be there for long time already.
-- Consolidate knowledge with an enterprise system.
-- Great experience of building up a team from zero.
-- Contribute to the raise of >5% usage of using Grab Express Web. constantly every month, the peek is 20%, after Bulk Upload launch.
-- Researching skill in an environment that demand us to be quick adaptive.
-- Self taught many tech platforms.
-
-#### Technologies
-- Golang
-- gRPC
-- React with Observable
-- Mono repo structure
-- Kibana with Elastic search for log
-- DataDog
-- Kubernetes
-- Gitlab CICD
-- Docusaurus for Open API documentation
+| **Aspect** | **Details** |
+|------------|-------------|
+| **Project** | Express Web is a Web portal that mainly focus about Grab for Business which need a place to process a large amount of orders everyday. Provide tools like: Shopify connect, Bulk Upload & Route Optimization for partners, Order tracing on Web.<br><br>**URL:** [https://express.grab.com/en](https://express.grab.com/en) |
+| **Responsibilities** | • Closely work with PO and QA team to provide system design before sprint start.<br>• Be oncall support for stakeholder when needed.<br>• Tracing logs & support team members whenever there is an issue.<br>• Write Engineer specs for new features.<br>• Be Owner Engineer for every feature that team work on. |
+| **Achievements** | • Improve client-first mindset.<br>• Improve leadership and team bonding skills.<br>• Paid lot of tech debt that be there for long time already.<br>• Consolidate knowledge with an enterprise system.<br>• Great experience of building up a team from zero.<br>• Contribute to the raise of >5% usage of using Grab Express Web. constantly every month, the peek is 20%, after Bulk Upload launch.<br>• Researching skill in an environment that demand us to be quick adaptive.<br>• Self taught many tech platforms. |
+| **Technologies** | Golang, gRPC, React with Observable, Mono repo structure, Kibana with Elastic search for log, DataDog, Kubernetes, Gitlab CICD, Docusaurus for Open API documentation |
 
 ---
 
