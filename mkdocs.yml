@@ -75,9 +75,11 @@ theme:
 plugins:
   - search
   - tags
-  # - with-pdf
+  - extra-sass
   - minify:
       minify_html: true
+      minify_js: true
+      minify_css: true
 
 # Markdown extensions
 markdown_extensions:
@@ -142,10 +144,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
-# Extra CSS and JavaScript
-extra_css:
-  - style/pdf-button.scss
 
 extra_javascript:
   - js/pdf-button.js
