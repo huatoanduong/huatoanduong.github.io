@@ -99,46 +99,23 @@ Having spent 90% of my career in startups, I thrive in fast-paced, high-demand e
 | **Technologies**     | Golang, gRPC, React with Observable, Mono repo structure, Kibana with Elastic search for log, DataDog, Kubernetes, Gitlab CICD, Docusaurus for Open API documentation                                                                                                                                                                                                                                                                                                                                                     |
 
 ---
-### Kassom
-Tech Architect, Team Leader, Fullstack Engineer
-Jun 2021 – Now
-About project:
-•	A online-learning platform for children, which connect the tutor with the parents
-•	We provide an environment for tutors for advertise their courses, scheduling classes, interacting with their learners
-Main responsibilities:
-•	Because it's a startup team with a startup project, we have to be involve in every aspect from hiring people, deal with financial issue, coop with sale team, deal with the needs of market.
-•	Supporting & raising as well as recruiting & interviewing new members.
-•	Observing team's performance, and do financial reports for sponsors & investors
-•	Making technical decisions.
-Achievements and skills gained:
-•	Build a product from Zero to Hero.
-•	This is one big milestone in my career with an opportunity to involve in a project as a team leader for its own lifespan.
-•	In charge of recruiting & mentoring new members for team.
-•	We have to deal with some situations when dealing with a practical issue.
-•	Build up a project from scratch.
-•	Great experience of building up a team from zero.
-Tech stacks:
-•	Web API .NET Core.
-•	SQL Server.
-•	Entity Framework.
-•	Angular 12.
-•	Azure function/Azure platform.
-•	Azure AD OAuth integration.
-•	Zoom integration.
-•	Stripe payment integration.
-•	Lokalise
-•	Crowdin
-•	WordPress
-•	Github pipeline
-•	RabitMQ
- 
 
+### Kassom
+
+**Tech Architect, Team Leader, Fullstack Engineer** | _Jun 2021 – Now_
+
+| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project**                        | A online-learning platform for children, which connect the tutor with the parents. We provide an environment for tutors for advertise their courses, scheduling classes, interacting with their learners.                                                                                                                                                                                                      |
+| **Responsibilities**               | • Because it's a startup team with a startup project, we have to be involve in every aspect from hiring people, deal with financial issue, coop with sale team, deal with the needs of market.<br>• Supporting & raising as well as recruiting & interviewing new members.<br>• Observing team's performance, and do financial reports for sponsors & investors<br>• Making technical decisions.               |
+| **Achievements and skills gained** | • Build a product from Zero to Hero.<br>• This is one big milestone in my career with an opportunity to involve in a project as a team leader for its own lifespan.<br>• In charge of recruiting & mentoring new members for team.<br>• We have to deal with some situations when dealing with a practical issue.<br>• Build up a project from scratch.<br>• Great experience of building up a team from zero. |
+| **Tech stacks**                    | Web API .NET Core, SQL Server, Entity Framework, Angular 12, Azure function/Azure platform, Azure AD OAuth integration, Zoom integration, Stripe payment integration, Lokalise, Crowdin, WordPress, Github pipeline, RabitMQ                                                                                                                                                                                   |
 
 ## Certificates & Education
 
-| **Certificate/Education**                                              | **Institution**                                    | **Year** | **Details**       |
-| ---------------------------------------------------------------------- | -------------------------------------------------- | -------- | ----------------- |
-| **Bachelor Degree of Information Technology**                          | Hoa Sen University                                 | 2012     | GPA: 3.12 / 4     |
-| **TOEIC Certificate**                                                  | University of Science, Vietnam National University | 2009     | 700 points        |
-| **Consolation prize of Hoa Sen University Scientific Research Awards** | Hoa Sen University                                 | Aug 2012 | Consolation Prize |
-| **Fundamental of Engineering (FE) (Japanese) Certificate**             | Hoa Sen University                                 | Oct 2012 | 1295 pts          |
+| **Certificate/Education**                                              | **Institution**    | **Year** | **Details**       |
+| ---------------------------------------------------------------------- | ------------------ | -------- | ----------------- |
+| **Bachelor Degree of Information Technology**                          | Hoa Sen University | 2012     | GPA: 3.12 / 4     |
+| **TOEIC Certificate**                                                  | IIG Vietnam        | 2009     | 700 points        |
+| **Consolation prize of Hoa Sen University Scientific Research Awards** | Hoa Sen University | Aug 2012 | Consolation Prize |
+| **Fundamental of Engineering (FE) (Japanese) Certificate**             | Hoa Sen University | Oct 2012 | 1295 pts          |
