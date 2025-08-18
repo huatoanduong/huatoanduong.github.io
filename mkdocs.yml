@@ -75,11 +75,13 @@ theme:
 plugins:
   - search
   - tags
+  # - with-pdf
   - minify:
       minify_html: true
 
 # Markdown extensions
 markdown_extensions:
+  - attr_list
   - pymdownx.superfences
   - pymdownx.tabbed
   - pymdownx.arithmatex
