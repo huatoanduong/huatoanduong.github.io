@@ -14,7 +14,9 @@ With 14 years working in IT industry, also in charge of some positions from anal
 <!-- PDF Export Button -->
 <!-- <div style="text-align: right; margin-bottom: 2rem;"> -->
 <div>
-  <button class="pdf-export-btn" onclick="exportToPDF()">
+  <button id="pdf-export-btn" class="md-button md-button--primary pdf-export-btn" onclick="window.print()">
+  <!-- <button id="pdf-export-btn" class="md-button md-button--primary" onclick="exportToPDF()"> -->
+  <!-- <button id="pdf-export-btn" class="md-button md-button--primary"> -->
     <span class="icon">📄</span>
     <span>Export PDF</span>
   </button>

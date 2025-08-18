@@ -145,7 +145,7 @@ markdown_extensions:
 
 # Extra CSS and JavaScript
 extra_css:
-  - style/pdf-button.css
+  - style/pdf-button.scss
 
 extra_javascript:
   - js/pdf-button.js
