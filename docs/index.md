@@ -70,7 +70,14 @@ Having spent 90% of my career in startups, I thrive in fast-paced, high-demand e
 
 ### Zuhlke Group
 
-**Expert Software Engineer**
+**Expert Software Engineer** | _Sep 2024 - Now_
+
+| **Aspect**           | **Details** |
+| -------------------- | --- |
+| **Project**          | **Zurich Neo** |
+| **Responsibilities** | <ul><li>Closely work with BA and QA team to provide system design before sprint start.</li><li>Maintain 6 year old project without any upgrade to the latest tech stack.</li><li>Provide a plan and arrange resource for upcoming releases.</li><li>Be oncall support for partners when needed.</li><li>Support for every release schedule.</li><li>Tracing logs & support partners for production issue.</li><li>Write Engineer specs for new features.</li><li>Preparing the migration plan for integration with new system.</li><li>Propose an upgrade plan for all obsolete features.</li><li>Be Owner Engineer for every feature that team work on.</li></ul> |
+| **Achievements**     | <ul><li>Improve client-first mindset.</li><li>Redesign & improve the developer team workflow.</li><li>Improve leadership and team bonding skills.</li><li>Paid lot of tech debt, restructured lot of components to keep the code base more human-readable.</li><li>Enhance experience on upgrading an extreme obsolete system to the latest stack.</li><li>Researching skill in an environment that demand us to be quick adaptive.</li><li>Self taught many tech platforms.</li><li>Consolidate knowledge with an enterprise system.</li></ul>                                                                                                                    |
+| **Technologies**     | <ul><li>.NET Framework</li><li>.NET Core</li><li>Kibana with Elastic search for log</li><li>DataDog</li><li>Kubernetes</li><li>CloudBees</li><li>Gitlab CICD</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ---
 
