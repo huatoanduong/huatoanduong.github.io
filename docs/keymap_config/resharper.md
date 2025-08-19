@@ -15,7 +15,7 @@ This section contains configuration files for ReSharper, a powerful .NET develop
 ### ReSharper DotSettings
 **File:** `keymaps/resharper/Resharper.DotSettings`
 
-??? Resharper.DotSettings
+??? Resharper DotSettings
     
     ```xml
     --8<-- "keymaps/resharper/Resharper.DotSettings"

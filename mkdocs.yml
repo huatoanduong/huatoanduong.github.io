@@ -16,14 +16,13 @@ dev_addr: localhost:5001
 nav:
   - Resume: index.md
   - Keymap & Config:
-    - "CCleaner": keymap_config/ccleaner.md
     - "Cursor": keymap_config/cursor.md
     - "Karabiner": keymap_config/karabiner.md
-    - "Local Ignore": keymap_config/localignore.md
     - "ReSharper": keymap_config/resharper.md
     - "Sublime Text 4": keymap_config/sublime-4.md
     - "Visual Studio": keymap_config/visual-studio.md
     - "Visual Studio Code": keymap_config/visual-studio-code.md
+    - "CCleaner": keymap_config/ccleaner.md
 
 
 # Theme configuration

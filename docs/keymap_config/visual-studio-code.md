@@ -15,16 +15,16 @@ This section contains configuration files for Visual Studio Code, a lightweight 
 ### macOS Keybindings
 **File:** `keymaps/visual-studio-code/keybindings-mac.json`
 
-??? keybindings-mac.json
+??? keybindings-mac json
     
-    ```json
+    ```xml
     --8<-- "keymaps/visual-studio-code/keybindings-mac.json"
     ```
 
 ### Windows Keybindings
 **File:** `keymaps/visual-studio-code/keybindings-windows.json`
 
-??? keybindings-windows.json
+??? keybindings-windows json
     
     ```json
     --8<-- "keymaps/visual-studio-code/keybindings-windows.json"
@@ -37,7 +37,7 @@ This section contains configuration files for Visual Studio Code, a lightweight 
 ### Windows Settings
 **File:** `keymaps/visual-studio-code/settings-windows.json`
 
-??? settings-windows.json
+??? settings-windows json
     
     ```json
     --8<-- "keymaps/visual-studio-code/settings-windows.json"

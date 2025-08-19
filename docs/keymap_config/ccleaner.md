@@ -15,7 +15,7 @@ This section contains configuration files for CCleaner, a system optimization an
 ### ccleaner.ini
 **File:** `keymaps/ccleaner/ccleaner.ini`
 
-??? ccleaner.ini
+??? ccleaner ini
     
     ```ini
     --8<-- "keymaps/ccleaner/ccleaner.ini"
@@ -24,7 +24,7 @@ This section contains configuration files for CCleaner, a system optimization an
 ### ccleaner_2.ini
 **File:** `keymaps/ccleaner/ccleaner_2.ini`
 
-??? ccleaner_2.ini
+??? ccleaner_2 ini
     
     ```ini
     --8<-- "keymaps/ccleaner/ccleaner_2.ini"
@@ -33,7 +33,7 @@ This section contains configuration files for CCleaner, a system optimization an
 ### readme.txt
 **File:** `keymaps/ccleaner/readme.txt`
 
-??? readme.txt
+??? readme txt
     
     ```txt
     --8<-- "keymaps/ccleaner/readme.txt"
