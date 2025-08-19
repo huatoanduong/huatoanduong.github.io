@@ -5,7 +5,7 @@ lastUpdated: '2024-01-15'
 
 # Dương Hứa Toàn (Tony)
 
-## Expert Software Engineer
+## 🚀 Expert Software Engineer
 
 Accomplished IT professional with over 15 years of experience in the technology industry, specializing in dynamic startup environments. Demonstrated expertise in delivering comprehensive end-to-end solutions throughout the complete software development lifecycle, encompassing system analysis, architectural design, full-stack development, team leadership, and production deployment.
 
@@ -26,9 +26,9 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ---
 
-## Contact Information
+## 📞 Contact Information
 
-- **Phone:** +84.395.212.532 (VN)
+- **Phone:** [+84.395.212.532 (VN)](https://zalo.me/0395212532)
 - **Email:** [huatoan.duong@gmail.com](mailto:huatoan.duong@gmail.com)
 - **Facebook:** [https://www.facebook.com/huatoan.duong](https://www.facebook.com/huatoan.duong)
 - **LinkedIn:** [https://www.linkedin.com/in/huatoanduong/](https://www.linkedin.com/in/huatoanduong/)
@@ -36,7 +36,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 - **C#** - 15 years
 - **MVC & Web API** - 11 years
@@ -67,7 +67,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 ### Zuhlke Group
 
@@ -212,7 +212,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ---
 
-## Certificates & Education
+## 🎓 Certificates & Education
 
 | **Certificate/Education**                                              | **Institution**    | **Year** | **Details**       |
 | ---------------------------------------------------------------------- | ------------------ | -------- | ----------------- |
