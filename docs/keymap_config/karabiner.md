@@ -16,9 +16,15 @@ This section contains configuration files for Karabiner, a powerful keyboard cus
 **File:** `keymaps/karabiner/Karabiner_rule_1.png`
 **Description:** Screenshot of the first Karabiner rule configuration showing key mapping setup.
 
+![Karabiner_rule_1](images/Karabiner_rule_1.png)
+
+
+
 ### Rule Configuration 2
 **File:** `keymaps/karabiner/Karabiner_rule_2.png`
 **Description:** Screenshot of the second Karabiner rule configuration showing additional key mapping setup.
+
+![Karabiner_rule_2](images/Karabiner_rule_2.png)
 
 ---
 

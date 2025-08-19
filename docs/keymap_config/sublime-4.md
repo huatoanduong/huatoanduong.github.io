@@ -15,16 +15,20 @@ This section contains configuration files for Sublime Text 4, a sophisticated te
 ### macOS Keybindings
 **File:** `keymaps/sublime-4/keymap-mac.json`
 
-```json
---8<-- "keymaps/sublime-4/keymap-mac.json"
-```
+??? keymap-mac.json
+    
+    ```json
+    --8<-- "keymaps/sublime-4/keymap-mac.json"
+    ```
 
 ### Windows Keybindings
 **File:** `keymaps/sublime-4/keymap-windows.json`
 
-```json
---8<-- "keymaps/sublime-4/keymap-windows.json"
-```
+??? keymap-windows.json
+    
+    ```json
+    --8<-- "keymaps/sublime-4/keymap-windows.json"
+    ```
 
 ---
 
@@ -33,9 +37,11 @@ This section contains configuration files for Sublime Text 4, a sophisticated te
 ### Windows Settings
 **File:** `keymaps/sublime-4/settings-windows.json`
 
-```json
---8<-- "keymaps/sublime-4/settings-windows.json"
-```
+??? settings-windows.json
+    
+    ```json
+    --8<-- "keymaps/sublime-4/settings-windows.json"
+    ```
 
 ---
 
