@@ -1,0 +1,642 @@
+﻿{
+  "conflicts": [
+    {
+      "cursorCommands": [
+        "-decreaseSearchEditorContextLines",
+        "workbench.action.navigateBack"
+      ],
+      "key": "alt+-",
+      "vscodeCommands": [
+        "-decreaseSearchEditorContextLines",
+        "workbench.action.navigateBack"
+      ]
+    },
+    {
+      "cursorCommands": [
+        "-increaseSearchEditorContextLines",
+        "workbench.action.navigateForward"
+      ],
+      "key": "alt+=",
+      "vscodeCommands": [
+        "-increaseSearchEditorContextLines",
+        "workbench.action.navigateForward"
+      ]
+    },
+    {
+      "cursorCommands": [
+        "-editor.action.jumpToBracket",
+        "terminal.focus"
+      ],
+      "key": "ctrl+shift+\\",
+      "vscodeCommands": "terminal.focus"
+    },
+    {
+      "cursorCommands": [
+        "workbench.action.tasks.runTask",
+        "-workbench.action.tasks.build"
+      ],
+      "key": "ctrl+shift+b",
+      "vscodeCommands": [
+        "workbench.action.tasks.runTask",
+        "-workbench.action.tasks.build"
+      ]
+    },
+    {
+      "cursorCommands": [
+        "-mssql.disconnect",
+        "-workbench.view.debug",
+        "editor.action.deleteLines"
+      ],
+      "key": "ctrl+shift+d",
+      "vscodeCommands": [
+        "-mssql.disconnect",
+        "-workbench.view.debug",
+        "editor.action.deleteLines"
+      ]
+    },
+    {
+      "cursorCommands": [
+        "workbench.action.files.saveAll",
+        "-workbench.action.files.saveAs"
+      ],
+      "key": "ctrl+shift+s",
+      "vscodeCommands": [
+        "workbench.action.files.saveAll",
+        "-workbench.action.files.saveAs"
+      ]
+    },
+    {
+      "cursorCommands": [
+        "-workbench.view.extensions",
+        "editor.action.deleteLines"
+      ],
+      "key": "ctrl+shift+x",
+      "vscodeCommands": [
+        "-workbench.view.extensions",
+        "editor.action.deleteLines"
+      ]
+    },
+    {
+      "cursorCommands": [
+        "-workbench.action.showAllSymbols",
+        "workbench.action.quickOpen"
+      ],
+      "key": "ctrl+t",
+      "vscodeCommands": [
+        "-workbench.action.showAllSymbols",
+        "workbench.action.quickOpen"
+      ]
+    }
+  ],
+  "cursorOnly": [
+    {
+      "command": "composerMode.background",
+      "key": "ctrl+e"
+    },
+    {
+      "command": "editor.action.addCommentLine",
+      "key": "ctrl+k ctrl+c",
+      "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+    },
+    {
+      "command": "editor.action.removeCommentLine",
+      "key": "ctrl+k ctrl+u",
+      "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+    },
+    {
+      "command": "-editor.action.addCommentLine",
+      "key": "ctrl+m ctrl+c",
+      "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+    }
+  ],
+  "matchingKeys": [
+    {
+      "cursorBindings": [
+        {
+          "command": "-decreaseSearchEditorContextLines",
+          "key": "alt+-",
+          "when": "inSearchEditor"
+        },
+        {
+          "command": "workbench.action.navigateBack",
+          "key": "alt+-",
+          "when": "canNavigateBack"
+        }
+      ],
+      "cursorDisabled": "-decreaseSearchEditorContextLines",
+      "key": "alt+-",
+      "vscodeBindings": [
+        {
+          "command": "-decreaseSearchEditorContextLines",
+          "key": "alt+-",
+          "when": "inSearchEditor"
+        },
+        {
+          "command": "workbench.action.navigateBack",
+          "key": "alt+-",
+          "when": "canNavigateBack"
+        }
+      ],
+      "vscodeDisabled": "-decreaseSearchEditorContextLines"
+    },
+    {
+      "cursorBindings": {
+        "command": "editor.action.triggerSuggest",
+        "key": "alt+.",
+        "when": "editorHasCompletionItemProvider \u0026\u0026 textInputFocus \u0026\u0026 !editorReadonly \u0026\u0026 !suggestWidgetVisible"
+      },
+      "cursorDisabled": {},
+      "key": "alt+.",
+      "vscodeBindings": {
+        "command": "editor.action.triggerSuggest",
+        "key": "alt+.",
+        "when": "editorHasCompletionItemProvider \u0026\u0026 textInputFocus \u0026\u0026 !editorReadonly \u0026\u0026 !suggestWidgetVisible"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": [
+        {
+          "command": "-increaseSearchEditorContextLines",
+          "key": "alt+=",
+          "when": "inSearchEditor"
+        },
+        {
+          "command": "workbench.action.navigateForward",
+          "key": "alt+=",
+          "when": "canNavigateForward"
+        }
+      ],
+      "cursorDisabled": "-increaseSearchEditorContextLines",
+      "key": "alt+=",
+      "vscodeBindings": [
+        {
+          "command": "-increaseSearchEditorContextLines",
+          "key": "alt+=",
+          "when": "inSearchEditor"
+        },
+        {
+          "command": "workbench.action.navigateForward",
+          "key": "alt+=",
+          "when": "canNavigateForward"
+        }
+      ],
+      "vscodeDisabled": "-increaseSearchEditorContextLines"
+    },
+    {
+      "cursorBindings": {
+        "command": "editor.action.quickFix",
+        "key": "alt+enter",
+        "when": "editorHasCodeActionsProvider \u0026\u0026 editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "cursorDisabled": {},
+      "key": "alt+enter",
+      "vscodeBindings": {
+        "command": "editor.action.quickFix",
+        "key": "alt+enter",
+        "when": "editorHasCodeActionsProvider \u0026\u0026 editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": {
+        "command": "-editor.action.quickFix",
+        "key": "ctrl+.",
+        "when": "editorHasCodeActionsProvider \u0026\u0026 editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "cursorDisabled": "-editor.action.quickFix",
+      "key": "ctrl+.",
+      "vscodeBindings": {
+        "command": "-editor.action.quickFix",
+        "key": "ctrl+.",
+        "when": "editorHasCodeActionsProvider \u0026\u0026 editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "vscodeDisabled": "-editor.action.quickFix"
+    },
+    {
+      "cursorBindings": {
+        "command": "editor.action.copyLinesDownAction",
+        "key": "ctrl+d",
+        "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+d",
+      "vscodeBindings": {
+        "command": "editor.action.copyLinesDownAction",
+        "key": "ctrl+d",
+        "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": [
+        {
+          "command": "editor.action.formatDocument",
+          "key": "ctrl+e ctrl+f",
+          "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+        },
+        {
+          "command": "editor.action.formatDocument",
+          "key": "ctrl+e ctrl+f",
+          "when": "editorHasDocumentFormattingProvider \u0026\u0026 editorTextFocus \u0026\u0026 !editorReadonly \u0026\u0026 !inCompositeEditor"
+        }
+      ],
+      "cursorDisabled": {},
+      "key": "ctrl+e ctrl+f",
+      "vscodeBindings": {
+        "command": "editor.action.formatDocument",
+        "key": "ctrl+e ctrl+f",
+        "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": {
+        "command": "workbench.action.files.saveAs",
+        "key": "ctrl+k ctrl+s"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+k ctrl+s",
+      "vscodeBindings": {
+        "command": "workbench.action.files.saveAs",
+        "key": "ctrl+k ctrl+s"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": {
+        "command": "-workbench.action.keepEditor",
+        "key": "ctrl+k enter"
+      },
+      "cursorDisabled": "-workbench.action.keepEditor",
+      "key": "ctrl+k enter",
+      "vscodeBindings": {
+        "command": "-workbench.action.keepEditor",
+        "key": "ctrl+k enter"
+      },
+      "vscodeDisabled": "-workbench.action.keepEditor"
+    },
+    {
+      "cursorBindings": {
+        "command": "-workbench.action.files.saveAll",
+        "key": "ctrl+k s"
+      },
+      "cursorDisabled": "-workbench.action.files.saveAll",
+      "key": "ctrl+k s",
+      "vscodeBindings": {
+        "command": "-workbench.action.files.saveAll",
+        "key": "ctrl+k s"
+      },
+      "vscodeDisabled": "-workbench.action.files.saveAll"
+    },
+    {
+      "cursorBindings": {
+        "command": "editor.unfold",
+        "key": "ctrl+l ctrl+l",
+        "when": "editorTextFocus"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+l ctrl+l",
+      "vscodeBindings": {
+        "command": "editor.unfold",
+        "key": "ctrl+l ctrl+l",
+        "when": "editorTextFocus"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": {
+        "command": "editor.unfoldAll",
+        "key": "ctrl+m ctrl+l",
+        "when": "editorTextFocus"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+m ctrl+l",
+      "vscodeBindings": {
+        "command": "editor.unfoldAll",
+        "key": "ctrl+m ctrl+l",
+        "when": "editorTextFocus"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": {
+        "command": "editor.fold",
+        "key": "ctrl+m ctrl+m",
+        "when": "editorTextFocus"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+m ctrl+m",
+      "vscodeBindings": {
+        "command": "editor.fold",
+        "key": "ctrl+m ctrl+m",
+        "when": "editorTextFocus"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": {
+        "command": "editor.foldAll",
+        "key": "ctrl+m ctrl+o",
+        "when": "editorTextFocus"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+m ctrl+o",
+      "vscodeBindings": {
+        "command": "editor.foldAll",
+        "key": "ctrl+m ctrl+o",
+        "when": "editorTextFocus"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": {
+        "command": "workbench.action.keepEditor",
+        "key": "ctrl+q"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+q",
+      "vscodeBindings": {
+        "command": "workbench.action.keepEditor",
+        "key": "ctrl+q"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": [
+        {
+          "command": "-editor.action.jumpToBracket",
+          "key": "ctrl+shift+\\",
+          "when": "editorTextFocus"
+        },
+        {
+          "command": "terminal.focus",
+          "key": "ctrl+shift+\\",
+          "when": "!terminalFocus \u0026\u0026 terminalProcessSupported || terminalHasBeenCreated \u0026\u0026 terminalTabsFocus || terminalHasBeenCreated \u0026\u0026 !terminalFocus || terminalProcessSupported \u0026\u0026 terminalTabsFocus"
+        }
+      ],
+      "cursorDisabled": "-editor.action.jumpToBracket",
+      "key": "ctrl+shift+\\",
+      "vscodeBindings": {
+        "command": "terminal.focus",
+        "key": "ctrl+shift+\\",
+        "when": "!terminalFocus \u0026\u0026 terminalProcessSupported || terminalHasBeenCreated \u0026\u0026 terminalTabsFocus || terminalHasBeenCreated \u0026\u0026 !terminalFocus || terminalProcessSupported \u0026\u0026 terminalTabsFocus"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": [
+        {
+          "command": "workbench.action.tasks.runTask",
+          "key": "ctrl+shift+b"
+        },
+        {
+          "command": "-workbench.action.tasks.build",
+          "key": "ctrl+shift+b"
+        }
+      ],
+      "cursorDisabled": "-workbench.action.tasks.build",
+      "key": "ctrl+shift+b",
+      "vscodeBindings": [
+        {
+          "command": "workbench.action.tasks.runTask",
+          "key": "ctrl+shift+b"
+        },
+        {
+          "command": "-workbench.action.tasks.build",
+          "key": "ctrl+shift+b"
+        }
+      ],
+      "vscodeDisabled": "-workbench.action.tasks.build"
+    },
+    {
+      "cursorBindings": [
+        {
+          "command": "-mssql.disconnect",
+          "key": "ctrl+shift+d",
+          "when": "editorTextFocus \u0026\u0026 editorLangId == \u0027sql\u0027"
+        },
+        {
+          "command": "-workbench.view.debug",
+          "key": "ctrl+shift+d",
+          "when": "viewContainer.workbench.view.debug.enabled"
+        },
+        {
+          "command": "editor.action.deleteLines",
+          "key": "ctrl+shift+d",
+          "when": "textInputFocus \u0026\u0026 !editorReadonly"
+        }
+      ],
+      "cursorDisabled": [
+        "-mssql.disconnect",
+        "-workbench.view.debug"
+      ],
+      "key": "ctrl+shift+d",
+      "vscodeBindings": [
+        {
+          "command": "-mssql.disconnect",
+          "key": "ctrl+shift+d",
+          "when": "editorTextFocus \u0026\u0026 editorLangId == \u0027sql\u0027"
+        },
+        {
+          "command": "-workbench.view.debug",
+          "key": "ctrl+shift+d",
+          "when": "viewContainer.workbench.view.debug.enabled"
+        },
+        {
+          "command": "editor.action.deleteLines",
+          "key": "ctrl+shift+d",
+          "when": "textInputFocus \u0026\u0026 !editorReadonly"
+        }
+      ],
+      "vscodeDisabled": [
+        "-mssql.disconnect",
+        "-workbench.view.debug"
+      ]
+    },
+    {
+      "cursorBindings": {
+        "command": "workbench.view.scm",
+        "key": "ctrl+shift+g",
+        "when": "workbench.scm.active \u0026\u0026 !gitlens:disabled \u0026\u0026 config.gitlens.keymap == \u0027chorded\u0027"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+shift+g",
+      "vscodeBindings": {
+        "command": "workbench.view.scm",
+        "key": "ctrl+shift+g",
+        "when": "workbench.scm.active \u0026\u0026 !gitlens:disabled \u0026\u0026 config.gitlens.keymap == \u0027chorded\u0027"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": {
+        "command": "-workbench.view.scm",
+        "key": "ctrl+shift+g g",
+        "when": "workbench.scm.active \u0026\u0026 !gitlens:disabled \u0026\u0026 config.gitlens.keymap == \u0027chorded\u0027"
+      },
+      "cursorDisabled": "-workbench.view.scm",
+      "key": "ctrl+shift+g g",
+      "vscodeBindings": {
+        "command": "-workbench.view.scm",
+        "key": "ctrl+shift+g g",
+        "when": "workbench.scm.active \u0026\u0026 !gitlens:disabled \u0026\u0026 config.gitlens.keymap == \u0027chorded\u0027"
+      },
+      "vscodeDisabled": "-workbench.view.scm"
+    },
+    {
+      "cursorBindings": {
+        "command": "editor.action.transformToLowercase",
+        "key": "ctrl+shift+l"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+shift+l",
+      "vscodeBindings": {
+        "command": "editor.action.transformToLowercase",
+        "key": "ctrl+shift+l"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": [
+        {
+          "command": "workbench.action.files.saveAll",
+          "key": "ctrl+shift+s"
+        },
+        {
+          "command": "-workbench.action.files.saveAs",
+          "key": "ctrl+shift+s"
+        }
+      ],
+      "cursorDisabled": "-workbench.action.files.saveAs",
+      "key": "ctrl+shift+s",
+      "vscodeBindings": [
+        {
+          "command": "workbench.action.files.saveAll",
+          "key": "ctrl+shift+s"
+        },
+        {
+          "command": "-workbench.action.files.saveAs",
+          "key": "ctrl+shift+s"
+        }
+      ],
+      "vscodeDisabled": "-workbench.action.files.saveAs"
+    },
+    {
+      "cursorBindings": {
+        "command": "editor.action.transformToUppercase",
+        "key": "ctrl+shift+u"
+      },
+      "cursorDisabled": {},
+      "key": "ctrl+shift+u",
+      "vscodeBindings": {
+        "command": "editor.action.transformToUppercase",
+        "key": "ctrl+shift+u"
+      },
+      "vscodeDisabled": {}
+    },
+    {
+      "cursorBindings": [
+        {
+          "command": "-workbench.view.extensions",
+          "key": "ctrl+shift+x",
+          "when": "viewContainer.workbench.view.extensions.enabled"
+        },
+        {
+          "command": "editor.action.deleteLines",
+          "key": "ctrl+shift+x",
+          "when": "textInputFocus \u0026\u0026 !editorReadonly"
+        }
+      ],
+      "cursorDisabled": "-workbench.view.extensions",
+      "key": "ctrl+shift+x",
+      "vscodeBindings": [
+        {
+          "command": "-workbench.view.extensions",
+          "key": "ctrl+shift+x",
+          "when": "viewContainer.workbench.view.extensions.enabled"
+        },
+        {
+          "command": "editor.action.deleteLines",
+          "key": "ctrl+shift+x",
+          "when": "textInputFocus \u0026\u0026 !editorReadonly"
+        }
+      ],
+      "vscodeDisabled": "-workbench.view.extensions"
+    },
+    {
+      "cursorBindings": [
+        {
+          "command": "-workbench.action.showAllSymbols",
+          "key": "ctrl+t"
+        },
+        {
+          "command": "workbench.action.quickOpen",
+          "key": "ctrl+t"
+        }
+      ],
+      "cursorDisabled": "-workbench.action.showAllSymbols",
+      "key": "ctrl+t",
+      "vscodeBindings": [
+        {
+          "command": "-workbench.action.showAllSymbols",
+          "key": "ctrl+t"
+        },
+        {
+          "command": "workbench.action.quickOpen",
+          "key": "ctrl+t"
+        }
+      ],
+      "vscodeDisabled": "-workbench.action.showAllSymbols"
+    },
+    {
+      "cursorBindings": {
+        "command": "-editor.action.copyLinesDownAction",
+        "key": "shift+alt+down",
+        "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "cursorDisabled": "-editor.action.copyLinesDownAction",
+      "key": "shift+alt+down",
+      "vscodeBindings": {
+        "command": "-editor.action.copyLinesDownAction",
+        "key": "shift+alt+down",
+        "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "vscodeDisabled": "-editor.action.copyLinesDownAction"
+    },
+    {
+      "cursorBindings": [
+        {
+          "command": "-editor.action.formatDocument",
+          "key": "shift+alt+f",
+          "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+        },
+        {
+          "command": "-editor.action.formatDocument",
+          "key": "shift+alt+f",
+          "when": "editorHasDocumentFormattingProvider \u0026\u0026 editorTextFocus \u0026\u0026 !editorReadonly \u0026\u0026 !inCompositeEditor"
+        }
+      ],
+      "cursorDisabled": [
+        "-editor.action.formatDocument",
+        "-editor.action.formatDocument"
+      ],
+      "key": "shift+alt+f",
+      "vscodeBindings": {
+        "command": "-editor.action.formatDocument",
+        "key": "shift+alt+f",
+        "when": "editorTextFocus \u0026\u0026 !editorReadonly"
+      },
+      "vscodeDisabled": "-editor.action.formatDocument"
+    }
+  ],
+  "summary": {
+    "conflictsCount": 8,
+    "cursorOnlyCount": 4,
+    "matchingKeysCount": 27,
+    "totalCursorKeys": 31,
+    "totalVSCodeKeys": 27,
+    "vscodeOnlyCount": 0
+  },
+  "vscodeOnly": []
+}
