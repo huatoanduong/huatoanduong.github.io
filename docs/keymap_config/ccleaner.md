@@ -1,14 +1,4 @@
 ---
-title: 'CCleaner'
-lastUpdated: '2025-07-15'
----
-
-```json
---8<-- "keymaps/sublime-4/keymap-mac.json"
-```
-
-
----
 title: 'CCleaner Configuration'
 lastUpdated: '2025-01-15'
 ---
@@ -24,15 +14,24 @@ This section contains configuration files for CCleaner, a system optimization an
 
 ### ccleaner.ini
 **File:** `keymaps/ccleaner/ccleaner.ini`
-**Description:** Main configuration file for CCleaner with application settings, browser configurations, and system preferences.
+
+```ini
+--8<-- "keymaps/ccleaner/ccleaner.ini"
+```
 
 ### ccleaner_2.ini
 **File:** `keymaps/ccleaner/ccleaner_2.ini`
-**Description:** Secondary configuration file with additional settings and browser-specific configurations.
+
+```ini
+--8<-- "keymaps/ccleaner/ccleaner_2.ini"
+```
 
 ### readme.txt
 **File:** `keymaps/ccleaner/readme.txt`
-**Description:** Installation location information and setup notes.
+
+```txt
+--8<-- "keymaps/ccleaner/readme.txt"
+```
 
 ---
 
