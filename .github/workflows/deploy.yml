@@ -104,7 +104,7 @@ jobs:
   deploy-ftp-toanduongdev:
     runs-on: ubuntu-latest
     environment:
-      name: ftp-deploy
+      name: ftp-toanduongdev
     needs: build
     if: github.ref == 'refs/heads/master'
     steps:
