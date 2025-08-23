@@ -70,11 +70,11 @@ jobs:
     needs: build
     if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/build-page'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Build with MkDocs
-        run: mkdocs build
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: pages
+          path: ./dist
 
       # - name: Decode FTP credentials
       #   run: |
