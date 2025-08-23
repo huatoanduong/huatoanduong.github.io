@@ -82,6 +82,13 @@ jobs:
       #     echo "FTP_PASS=$(echo ${{ env.FTP_PASS }} | base64 -d)" >> $GITHUB_ENV
       #     echo "FTP_PATH=$(echo ${{ env.FTP_PATH }} | base64 -d)" >> $GITHUB_ENV
 
+      - name: Decode FTP credentials
+        run: |
+          echo "FTP_HOST=$(echo ${{ env.FTP_HOST }} )" >> $GITHUB_ENV
+          echo "FTP_USER=$(echo ${{ env.FTP_USER }} )" >> $GITHUB_ENV
+          echo "FTP_PASS=$(echo ${{ env.FTP_PASS }} )" >> $GITHUB_ENV
+          echo "FTP_PATH=$(echo ${{ env.FTP_PATH }} )" >> $GITHUB_ENV
+  
       - name: Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
