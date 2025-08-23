@@ -16,6 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+
   build:
     runs-on: ubuntu-latest
     steps:
@@ -43,10 +44,16 @@ jobs:
       - name: Build with MkDocs
         run: mkdocs build
 
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ftp-deployment
+          path: ./dist
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload artifact
+      - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
@@ -62,3 +69,34 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  deploy-ftp:
+    runs-on: ubuntu-latest
+    environment:
+      name: ftp-deploy
+    needs: build
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: ftp-deployment
+          path: ./dist
+
+      - name: Deploy to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          server-dir: ${{ secrets.FTP_PATH }}
+          local-dir: ./dist/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/.hg*
+            **/.hg*/**
+            **/.svn*/**
+            **/.DS_Store
+            **/Thumbs.db
