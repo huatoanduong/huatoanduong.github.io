@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [master]
+    branches: [main, build-page]
   # pull_request:
   #   branches: [ main ]
 
@@ -57,8 +57,46 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
-    if: github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/build-page'
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  deploy-ftp:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    needs: build
+    if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/build-page'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build with MkDocs
+        run: mkdocs build
+
+      # - name: Decode FTP credentials
+      #   run: |
+      #     echo "FTP_HOST=$(echo ${{ env.FTP_HOST }} | base64 -d)" >> $GITHUB_ENV
+      #     echo "FTP_USER=$(echo ${{ env.FTP_USER }} | base64 -d)" >> $GITHUB_ENV
+      #     echo "FTP_PASS=$(echo ${{ env.FTP_PASS }} | base64 -d)" >> $GITHUB_ENV
+      #     echo "FTP_PATH=$(echo ${{ env.FTP_PATH }} | base64 -d)" >> $GITHUB_ENV
+
+      - name: Deploy to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ env.FTP_HOST }}
+          username: ${{ env.FTP_USER }}
+          password: ${{ env.FTP_PASS }}
+          server-dir: ${{ env.FTP_PATH }}
+          local-dir: ./dist/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/.hg*
+            **/.hg*/**
+            **/.svn*/**
+            **/.DS_Store
+            **/Thumbs.db
