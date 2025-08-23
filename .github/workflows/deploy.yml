@@ -83,7 +83,7 @@ jobs:
   deploy-ftp:
     runs-on: ubuntu-latest
     environment:
-      name: github-pages
+      name: ftp-deploy
     needs: build
     if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/build-page'
     steps:
