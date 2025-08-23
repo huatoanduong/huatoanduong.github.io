@@ -100,3 +100,34 @@ jobs:
             **/.svn*/**
             **/.DS_Store
             **/Thumbs.db
+
+  deploy-ftp-toanduongdev:
+    runs-on: ubuntu-latest
+    environment:
+      name: ftp-deploy
+    needs: build
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: ftp-deployment
+          path: ./dist
+
+      - name: Deploy to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          server-dir: ${{ secrets.FTP_PATH }}
+          local-dir: ./dist/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/.hg*
+            **/.hg*/**
+            **/.svn*/**
+            **/.DS_Store
+            **/Thumbs.db
