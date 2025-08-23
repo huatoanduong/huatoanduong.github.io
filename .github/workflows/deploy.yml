@@ -17,22 +17,6 @@ concurrency:
 
 jobs:
 
-  # one:
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #   - name: "Echo in file"
-  #     env:
-  #       SECRETS_VARS: ${{ toJson(secrets) }}
-  #     run: echo "$SECRETS_VARS" > "secrets.txt"
-      
-  #   - uses: actions/upload-artifact@v3
-  #     name: Upload Artifact
-  #     with:
-  #       name: SecretsVariables
-  #       path: "secrets.txt"
-
-
-
   build:
     runs-on: ubuntu-latest
     steps:
@@ -80,7 +64,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
-    if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/build-page'
+    if: github.ref == 'refs/heads/master'
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
@@ -91,7 +75,7 @@ jobs:
     environment:
       name: ftp-deploy
     needs: build
-    if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/build-page'
+    if: github.ref == 'refs/heads/master'
     steps:
       - name: Download build artifact
         uses: actions/download-artifact@v4
@@ -99,20 +83,6 @@ jobs:
           name: ftp-deployment
           path: ./dist
 
-      # - name: Decode FTP credentials
-      #   run: |
-      #     echo "FTP_HOST=$(echo ${{ secrets.FTP_HOST }} | base64 -d)" >> $GITHUB_ENV
-      #     echo "FTP_USER=$(echo ${{ secrets.FTP_USER }} | base64 -d)" >> $GITHUB_ENV
-      #     echo "FTP_PASS=$(echo ${{ secrets.FTP_PASS }} | base64 -d)" >> $GITHUB_ENV
-      #     echo "FTP_PATH=$(echo ${{ secrets.FTP_PATH }} | base64 -d)" >> $GITHUB_ENV
-
-      # - name: Decode FTP credentials
-      #   run: |
-      #     echo "FTP_HOST=$(echo ${{ secrets.FTP_HOST }} )" >> $GITHUB_ENV
-      #     echo "FTP_USER=$(echo ${{ secrets.FTP_USER }} )" >> $GITHUB_ENV
-      #     echo "FTP_PASS=$(echo ${{ secrets.FTP_PASS }} )" >> $GITHUB_ENV
-      #     echo "FTP_PATH=$(echo ${{ secrets.FTP_PATH }} )" >> $GITHUB_ENV
-  
       - name: Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
