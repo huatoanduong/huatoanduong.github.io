@@ -16,6 +16,23 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+
+  # one:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #   - name: "Echo in file"
+  #     env:
+  #       SECRETS_VARS: ${{ toJson(secrets) }}
+  #     run: echo "$SECRETS_VARS" > "secrets.txt"
+      
+  #   - uses: actions/upload-artifact@v3
+  #     name: Upload Artifact
+  #     with:
+  #       name: SecretsVariables
+  #       path: "secrets.txt"
+
+
+
   build:
     runs-on: ubuntu-latest
     steps:
@@ -77,25 +94,25 @@ jobs:
 
       # - name: Decode FTP credentials
       #   run: |
-      #     echo "FTP_HOST=$(echo ${{ env.FTP_HOST }} | base64 -d)" >> $GITHUB_ENV
-      #     echo "FTP_USER=$(echo ${{ env.FTP_USER }} | base64 -d)" >> $GITHUB_ENV
-      #     echo "FTP_PASS=$(echo ${{ env.FTP_PASS }} | base64 -d)" >> $GITHUB_ENV
-      #     echo "FTP_PATH=$(echo ${{ env.FTP_PATH }} | base64 -d)" >> $GITHUB_ENV
+      #     echo "FTP_HOST=$(echo ${{ secrets.FTP_HOST }} | base64 -d)" >> $GITHUB_ENV
+      #     echo "FTP_USER=$(echo ${{ secrets.FTP_USER }} | base64 -d)" >> $GITHUB_ENV
+      #     echo "FTP_PASS=$(echo ${{ secrets.FTP_PASS }} | base64 -d)" >> $GITHUB_ENV
+      #     echo "FTP_PATH=$(echo ${{ secrets.FTP_PATH }} | base64 -d)" >> $GITHUB_ENV
 
-      - name: Decode FTP credentials
-        run: |
-          echo "FTP_HOST=$(echo ${{ env.FTP_HOST }} )" >> $GITHUB_ENV
-          echo "FTP_USER=$(echo ${{ env.FTP_USER }} )" >> $GITHUB_ENV
-          echo "FTP_PASS=$(echo ${{ env.FTP_PASS }} )" >> $GITHUB_ENV
-          echo "FTP_PATH=$(echo ${{ env.FTP_PATH }} )" >> $GITHUB_ENV
+      # - name: Decode FTP credentials
+      #   run: |
+      #     echo "FTP_HOST=$(echo ${{ secrets.FTP_HOST }} )" >> $GITHUB_ENV
+      #     echo "FTP_USER=$(echo ${{ secrets.FTP_USER }} )" >> $GITHUB_ENV
+      #     echo "FTP_PASS=$(echo ${{ secrets.FTP_PASS }} )" >> $GITHUB_ENV
+      #     echo "FTP_PATH=$(echo ${{ secrets.FTP_PATH }} )" >> $GITHUB_ENV
   
       - name: Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: ${{ env.FTP_HOST }}
-          username: ${{ env.FTP_USER }}
-          password: ${{ env.FTP_PASS }}
-          server-dir: ${{ env.FTP_PATH }}
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          server-dir: ${{ secrets.FTP_PATH }}
           local-dir: ./dist/
           exclude: |
             **/.git*
