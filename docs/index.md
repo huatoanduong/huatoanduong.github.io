@@ -38,32 +38,36 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ## 🛠️ Technical Skills
 
-- **C#** - 15 years
-- **MVC & Web API** - 11 years
-- **Entity Framework** - 9 years
-- **.NET Core** - 9 years
-- **Angular** - 7 years
-- **Winform & DevExpress** - 6 years
-- **React & Redux** - 6 years
-- **TypeScript** – 6 years
-- **jQuery & JavaScript** - 8 years
-- **MySQL & SQL Server** - 14 years
-- **MongoDB** - 2 years
-- **Docker** - 3.5 years
-- **Kubernetes** - 2.5 years
-- **Kafka** - 2.5 years
-- **Redis** - 2.5 years
-- **CI/CD** - 6 years
-- **Azure Services** - 2 years
-- **Microservices Architecture** - 3 years
-- **Software Architecture Design** - 5 years
-- **Team Leadership** - 6 years
-- **Project Management** - Led multiple projects from inception to production deployment
-- **Startup Experience** - Contributed significantly to numerous successful startup ventures
-- **Versatility** - Demonstrated ability to excel in various project roles and responsibilities
-- **Agile Methodology** - Extensive experience with SCRUM and agile development practices
-- **Adaptability** - Proven capability to rapidly learn new technologies and business models
-- **Strategic Thinking** - Strong analytical mindset with structured problem-solving approach
+| **Skill**                    | **Experience**                                                                |
+| ---------------------------- | ----------------------------------------------------------------------------- |
+| C#                           | 15 years                                                                      |
+| MVC & Web API                | 12 years                                                                      |
+| .NET Core                    | 9 years                                                                       |
+| Entity Framework             | 9 years                                                                       |
+| TypeScript                   | 6 years                                                                       |
+| jQuery & JavaScript          | 8 years                                                                       |
+| Angular                      | 7 years                                                                       |
+| React & Redux                | 6 years                                                                       |
+| Winform & DevExpress         | 6 years                                                                       |
+| MySQL & SQL Server           | 14 years                                                                      |
+| MongoDB                      | 2 years                                                                       |
+| Docker                       | 3.5 years                                                                     |
+| Kubernetes                   | 2.5 years                                                                     |
+| CI/CD                        | 6 years                                                                       |
+| Azure Services               | 2 years                                                                       |
+| Kafka                        | 2.5 years                                                                     |
+| Redis                        | 2.5 years                                                                     |
+| Microservices Architecture   | 5 years                                                                       |
+| Software Architecture Design | 7 years                                                                       |
+|                              |                                                                               |
+| **Leadership & Management**  |                                                                               |
+| Team Leadership              | 8 years                                                                       |
+| Project Management           | - Led multiple projects from inception to production deployment               |
+| Startup Experience           | - Contributed significantly to numerous successful startup ventures           |
+| Versatility                  | - Demonstrated ability to excel in various project roles and responsibilities |
+| Agile Methodology            | - Extensive experience with SCRUM and agile development practices             |
+| Adaptability                 | - Proven capability to rapidly learn new technologies and business models     |
+| Strategic Thinking           | - Strong analytical mindset with structured problem-solving approach          |
 
 ---
 
@@ -112,12 +116,12 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Tech Architect, Team Leader, Fullstack Engineer** | _Jun 2021 – Present_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Developed a comprehensive online learning platform for children that facilitates connections between tutors and parents. The platform provides an integrated environment for tutors to advertise their courses, manage class scheduling, and interact with their learners effectively.                                                                                                                                                                                                                                                          |
+| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project**                        | Developed a comprehensive online learning platform for children that facilitates connections between tutors and parents. The platform provides an integrated environment for tutors to advertise their courses, manage class scheduling, and interact with their learners effectively.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Responsibilities**               | <ul><li><strong>Architecture Ownership & Solution Design:</strong> Led comprehensive system architecture design, making critical technical decisions for product development and system scalability</li><li><strong>Technology Consulting & Solution Selection:</strong> Provided strategic technology consulting, evaluated and selected optimal tech stacks, and established standardized backend architecture guidelines</li><li><strong>Performance & Security Optimization:</strong> Designed and implemented performance optimization strategies, security protocols, and scalable system architectures</li><li><strong>System Modernization & Migration:</strong> Led legacy system modernization initiatives and migration strategies to improve system efficiency and maintainability</li><li><strong>Team Leadership & Technical Guidance:</strong> Led startup team development, managed recruitment, and provided technical mentorship to ensure architectural consistency</li><li><strong>Business Alignment:</strong> Coordinated with sales teams and addressed market demands to ensure product-market fit and technical feasibility</li></ul> |
-| **Achievements and Skills Gained** | <ul><li><strong>Architecture Excellence:</strong> Successfully designed and implemented scalable, secure system architecture from concept to production deployment</li><li><strong>Technical Leadership:</strong> Established standardized development guidelines, code review processes, and architectural best practices for the development team</li><li><strong>Performance Optimization:</strong> Implemented system performance improvements and optimization strategies that enhanced user experience and system reliability</li><li><strong>Security Implementation:</strong> Designed and implemented comprehensive security protocols including OAuth integration, data encryption, and secure payment processing</li><li><strong>Technology Strategy:</strong> Made strategic technology decisions that balanced scalability, maintainability, and business requirements</li><li><strong>Team Development:</strong> Built and mentored development teams, ensuring architectural consistency and technical excellence across all projects</li></ul>         |
-| **Tech Stacks**                    | <ul><li>Web API .NET Core</li><li>SQL Server</li><li>Entity Framework</li><li>Angular 12</li><li>Azure Functions and Platform Services</li><li>Azure AD OAuth Integration</li><li>Zoom Integration</li><li>Stripe Payment Integration</li><li>Lokalise</li><li>Crowdin</li><li>WordPress</li><li>GitHub Pipeline</li><li>RabbitMQ</li></ul>                                                                                                                                                                                                     |
+| **Achievements and Skills Gained** | <ul><li><strong>Architecture Excellence:</strong> Successfully designed and implemented scalable, secure system architecture from concept to production deployment</li><li><strong>Technical Leadership:</strong> Established standardized development guidelines, code review processes, and architectural best practices for the development team</li><li><strong>Performance Optimization:</strong> Implemented system performance improvements and optimization strategies that enhanced user experience and system reliability</li><li><strong>Security Implementation:</strong> Designed and implemented comprehensive security protocols including OAuth integration, data encryption, and secure payment processing</li><li><strong>Technology Strategy:</strong> Made strategic technology decisions that balanced scalability, maintainability, and business requirements</li><li><strong>Team Development:</strong> Built and mentored development teams, ensuring architectural consistency and technical excellence across all projects</li></ul>                                                                                                 |
+| **Tech Stacks**                    | <ul><li>Web API .NET Core</li><li>SQL Server</li><li>Entity Framework</li><li>Angular 12</li><li>Azure Functions and Platform Services</li><li>Azure AD OAuth Integration</li><li>Zoom Integration</li><li>Stripe Payment Integration</li><li>Lokalise</li><li>Crowdin</li><li>WordPress</li><li>GitHub Pipeline</li><li>RabbitMQ</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ---
 
