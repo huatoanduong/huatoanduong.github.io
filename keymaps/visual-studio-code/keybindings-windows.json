@@ -114,6 +114,11 @@
     "when": "viewContainer.workbench.view.extensions.enabled"
   },
   {
+    "key": "ctrl+shift+x",
+    "command": "editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
+  },
+  {
     "key": "alt+-",
     "command": "-decreaseSearchEditorContextLines",
     "when": "inSearchEditor"
