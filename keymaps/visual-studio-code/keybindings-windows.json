@@ -114,11 +114,6 @@
     "when": "viewContainer.workbench.view.extensions.enabled"
   },
   {
-    "key": "ctrl+shift+x",
-    "command": "editor.action.deleteLines",
-    "when": "textInputFocus && !editorReadonly"
-  },
-  {
     "key": "alt+-",
     "command": "-decreaseSearchEditorContextLines",
     "when": "inSearchEditor"
@@ -143,11 +138,11 @@
     "command": "editor.action.triggerSuggest",
     "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly && !suggestWidgetVisible"
   },
-  {
-    "key": "ctrl+shift+d",
-    "command": "-mssql.disconnect",
-    "when": "editorTextFocus && editorLangId == 'sql'"
-  },
+  // {
+  //   "key": "ctrl+shift+d",
+  //   "command": "-mssql.disconnect",
+  //   "when": "editorTextFocus && editorLangId == 'sql'"
+  // },
   // {
   //   "key": "ctrl+shift+d",
   //   "command": "-workbench.view.debug",
