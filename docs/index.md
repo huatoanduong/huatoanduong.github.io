@@ -38,21 +38,21 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ## 🛠️ Technical Skills
 
-| **Category**              | **Skills & Technologies**                                                                                    |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Backend Development**   | .NET Ecosystem (C#, .NET Core, MVC, Web API, Entity Framework), C#, TypeScript, JavaScript, Go, Node.js     |
-| **Database Technologies** | SQL Server, MySQL, MongoDB, Redis                                                                           |
-| **API Development**       | RESTful APIs, gRPC, Microservices Architecture                                                              |
-| **Frontend Development**  | Angular, React with Redux, TypeScript, JavaScript, jQuery, HTML5, CSS3, WinForms with DevExpress          |
-| **Cloud & DevOps**        | Docker, Kubernetes, Azure Services, Azure Functions, GitLab CI/CD, TeamCity, GitHub Pipeline               |
-| **Message Queues**        | Kafka, RabbitMQ, Redis                                                                                      |
-| **System Architecture**   | Microservices, Cloud-Native Architecture, Multi-tenant Systems, Software Architecture Design                |
-| **Performance & Design**  | System Optimization, Load Balancing, Caching Strategies, Scalable System Design                            |
-| **Team Leadership**       | Led cross-functional teams in startup and enterprise environments                                            |
-| **Project Management**    | End-to-end project delivery from inception to production                                                     |
-| **Agile Methodology**     | Extensive experience with SCRUM and agile development practices                                             |
-| **Strategic Planning**    | Technology consulting, solution architecture, and technical decision-making                                 |
-| **Mentorship**            | Team building, technical guidance, and knowledge transfer                                                    |
+| **Category**              | **Skills & Technologies**                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Backend Development**   | .NET Ecosystem (C#, .NET Core, MVC, Web API, Entity Framework), C#, TypeScript, JavaScript, Go, Node.js |
+| **Database Technologies** | SQL Server, MySQL, MongoDB, Redis                                                                       |
+| **API Development**       | RESTful APIs, gRPC, Microservices Architecture                                                          |
+| **Frontend Development**  | Angular, React with Redux, TypeScript, JavaScript, jQuery, HTML5, CSS3, WinForms with DevExpress        |
+| **Cloud & DevOps**        | Docker, Kubernetes, Azure Services, Azure Functions, GitLab CI/CD, TeamCity, GitHub Pipeline            |
+| **Message Queues**        | Kafka, RabbitMQ, Redis                                                                                  |
+| **System Architecture**   | Microservices, Cloud-Native Architecture, Multi-tenant Systems, Software Architecture Design            |
+| **Performance & Design**  | System Optimization, Load Balancing, Caching Strategies, Scalable System Design                         |
+| **Team Leadership**       | Led cross-functional teams in startup and enterprise environments                                       |
+| **Project Management**    | End-to-end project delivery from inception to production                                                |
+| **Agile Methodology**     | Extensive experience with SCRUM and agile development practices                                         |
+| **Strategic Planning**    | Technology consulting, solution architecture, and technical decision-making                             |
+| **Mentorship**            | Team building, technical guidance, and knowledge transfer                                               |
 
 ---
 
@@ -158,7 +158,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 | **Project**                        | Various client projects and freelance development initiatives                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **Responsibilities**               | <ul><li>Conducted client meetings to gather comprehensive requirements</li><li>Designed system flows, architecture, and database schemas</li><li>Planned tasks and established project milestones and objectives</li><li>Served as primary developer for system components</li><li>Provided support to team members to facilitate task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul> |
 | **Achievements and Skills Gained** | <ul><li>Enhanced team leadership and project management capabilities</li><li>Improved task management and project coordination skills</li><li>Advanced requirements gathering and stakeholder communication skills</li><li>Strengthened development and programming capabilities</li></ul>                                                                                                                                                                                                                 |
-| **Tech Stacks**                    | <ul><li>Various technologies based on project requirements</li><li>System Architecture Design</li><li>C#, NodeJs, Angular, ReactJS, Go, Python</li><li>MongoDB, SQL Server, MySQL</li><li>Database Design</li><li>Project Management</li></ul>                                                                                                                                                                                                                                                                                                                                                 |
+| **Tech Stacks**                    | <ul><li>Various technologies based on project requirements</li><li>System Architecture Design</li><li>C#, NodeJs, Angular, ReactJS, Go, Python</li><li>MongoDB, SQL Server, MySQL</li><li>Database Design</li><li>Project Management</li></ul>                                                                                                                                                                                                                                                             |
 
 ---
 
