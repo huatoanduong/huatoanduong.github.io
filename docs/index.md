@@ -37,22 +37,71 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 ---
 
 ## 🛠️ Technical Skills
-
-| **Category**              | **Skills & Technologies**                                                                               |
-| ------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Backend Development**   | .NET Ecosystem (C#, .NET Core, MVC, Web API, Entity Framework), C#, TypeScript, JavaScript, Go, Node.js |
-| **Database Technologies** | SQL Server, MySQL, MongoDB, Redis                                                                       |
-| **API Development**       | RESTful APIs, gRPC, Microservices Architecture                                                          |
-| **Frontend Development**  | Angular, React with Redux, TypeScript, JavaScript, jQuery, HTML5, CSS3, WinForms with DevExpress        |
-| **Cloud & DevOps**        | Docker, Kubernetes, Azure Services, Azure Functions, GitLab CI/CD, TeamCity, GitHub Pipeline            |
-| **Message Queues**        | Kafka, RabbitMQ, Redis                                                                                  |
-| **System Architecture**   | Microservices, Cloud-Native Architecture, Multi-tenant Systems, Software Architecture Design            |
-| **Performance & Design**  | System Optimization, Load Balancing, Caching Strategies, Scalable System Design                         |
-| **Team Leadership**       | Led cross-functional teams in startup and enterprise environments                                       |
-| **Project Management**    | End-to-end project delivery from inception to production                                                |
-| **Agile Methodology**     | Extensive experience with SCRUM and agile development practices                                         |
-| **Strategic Planning**    | Technology consulting, solution architecture, and technical decision-making                             |
-| **Mentorship**            | Team building, technical guidance, and knowledge transfer                                               |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Category</strong></th>
+      <th><strong>Skills & Technologies</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td>.NET Ecosystem (C#, .NET Core, MVC, Web API, Entity Framework), C#, TypeScript, JavaScript, Go, Node.js</td>
+    </tr>
+    <tr>
+      <td><strong>Database Technologies</strong></td>
+      <td>SQL Server, MySQL, PostgreSQL, MongoDB, Redis</td>
+    </tr>
+    <tr>
+      <td><strong>API Development</strong></td>
+      <td>RESTful APIs, gRPC, Microservices Architecture</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td>Angular, React with Redux, TypeScript, JavaScript, jQuery, HTML5, CSS3, WinForms with DevExpress</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud & DevOps</strong></td>
+      <td>Docker, Kubernetes, Azure Services, Azure Functions, GitLab CI/CD, TeamCity, GitHub Pipeline</td>
+    </tr>
+    <tr>
+      <td><strong>Message Queues</strong></td>
+      <td>Kafka, RabbitMQ, Redis</td>
+    </tr>
+    <tr>
+      <td><strong>System Architecture</strong></td>
+      <td>Microservices, Cloud-Native Architecture, Multi-tenant Systems, Software Architecture Design</td>
+    </tr>
+    <tr>
+      <td><strong>Performance & Design</strong></td>
+      <td>System Optimization, Load Balancing, Caching Strategies, Scalable System Design, Database Performance Tuning and Optimizing</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i><strong>Soft skills</strong></i></td>
+    </tr>
+     <tr>
+       <td><strong>Team Leadership</strong></td>
+       <td>Successfully led and mentored cross-functional development teams of 5-12 members across multiple startup and enterprise environments, fostering collaborative culture, driving technical excellence, and delivering high-impact solutions while maintaining team motivation and professional growth</td>
+     </tr>
+     <tr>
+       <td><strong>Project Management</strong></td>
+       <td>Orchestrated end-to-end project delivery from initial concept through production deployment, managing complex timelines, stakeholder expectations, and resource allocation while ensuring on-time delivery of mission-critical systems with zero compromise on quality standards</td>
+     </tr>
+     <tr>
+       <td><strong>Agile Methodology</strong></td>
+       <td>Championed SCRUM and agile development practices across multiple organizations, implementing efficient sprint planning, daily standups, retrospectives, and continuous improvement processes that increased team productivity by 30% and reduced time-to-market by 25%</td>
+     </tr>
+     <tr>
+       <td><strong>Strategic Planning</strong></td>
+       <td>Provided strategic technology consulting and architectural decision-making for C-level executives and stakeholders, evaluating emerging technologies, designing scalable solutions, and aligning technical roadmaps with business objectives to drive digital transformation initiatives</td>
+     </tr>
+     <tr>
+       <td><strong>Mentorship</strong></td>
+       <td>Built and developed high-performing engineering teams from the ground up, providing comprehensive technical guidance, conducting code reviews, establishing best practices, and facilitating knowledge transfer that accelerated team member growth and career advancement</td>
+     </tr>
+  </tbody>
+</table>
 
 ---
 
