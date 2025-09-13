@@ -37,38 +37,71 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 ---
 
 ## 🛠️ Technical Skills
-
-| **Skill**                    | **Experience**                                                                |
-| ---------------------------- | ----------------------------------------------------------------------------- |
-| C#                           | 15 years                                                                      |
-| MVC & Web API                | 12 years                                                                      |
-| .NET Core                    | 9 years                                                                       |
-| Entity Framework             | 9 years                                                                       |
-| TypeScript                   | 6 years                                                                       |
-| jQuery & JavaScript          | 8 years                                                                       |
-| Angular                      | 7 years                                                                       |
-| React & Redux                | 6 years                                                                       |
-| Winform & DevExpress         | 6 years                                                                       |
-| MySQL & SQL Server           | 14 years                                                                      |
-| MongoDB                      | 2 years                                                                       |
-| NodeJS                       | 1 years                                                                       |
-| Docker                       | 3.5 years                                                                     |
-| Kubernetes                   | 2.5 years                                                                     |
-| CI/CD                        | 6 years                                                                       |
-| Azure Services               | 2 years                                                                       |
-| Kafka                        | 2.5 years                                                                     |
-| Redis                        | 2.5 years                                                                     |
-| Microservices Architecture   | 5 years                                                                       |
-| Software Architecture Design | 7 years                                                                       |
-|                              |                                                                               |
-| **Leadership & Management**  |                                                                               |
-| Team Leadership              | 8 years                                                                       |
-| Project Management           | - Led multiple projects from inception to production deployment               |
-| Startup Experience           | - Contributed significantly to numerous successful startup ventures           |
-| Versatility                  | - Demonstrated ability to excel in various project roles and responsibilities |
-| Agile Methodology            | - Extensive experience with SCRUM and agile development practices             |
-| Adaptability                 | - Proven capability to rapidly learn new technologies and business models     |
-| Strategic Thinking           | - Strong analytical mindset with structured problem-solving approach          |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Category</strong></th>
+      <th><strong>Skills & Technologies</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td>.NET Ecosystem (C#, .NET Core, MVC, Web API, Entity Framework), C#, TypeScript, JavaScript, Go, Node.js</td>
+    </tr>
+    <tr>
+      <td><strong>Database Technologies</strong></td>
+      <td>SQL Server, MySQL, PostgreSQL, MongoDB, Redis</td>
+    </tr>
+    <tr>
+      <td><strong>API Development</strong></td>
+      <td>RESTful APIs, gRPC, Microservices Architecture</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td>Angular, React with Redux, TypeScript, JavaScript, jQuery, HTML5, CSS3, WinForms with DevExpress</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud & DevOps</strong></td>
+      <td>Docker, Kubernetes, Azure Services, Azure Functions, GitLab CI/CD, TeamCity, GitHub Pipeline</td>
+    </tr>
+    <tr>
+      <td><strong>Message Queues</strong></td>
+      <td>Kafka, RabbitMQ, Redis</td>
+    </tr>
+    <tr>
+      <td><strong>System Architecture</strong></td>
+      <td>Microservices, Cloud-Native Architecture, Multi-tenant Systems, Software Architecture Design</td>
+    </tr>
+    <tr>
+      <td><strong>Performance & Design</strong></td>
+      <td>System Optimization, Load Balancing, Caching Strategies, Scalable System Design, Database Performance Tuning and Optimizing</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i><strong>Soft skills</strong></i></td>
+    </tr>
+     <tr>
+       <td><strong>Team Leadership</strong></td>
+       <td>Successfully led and mentored cross-functional development teams of 5-12 members across multiple startup and enterprise environments, fostering collaborative culture, driving technical excellence, and delivering high-impact solutions while maintaining team motivation and professional growth</td>
+     </tr>
+     <tr>
+       <td><strong>Project Management</strong></td>
+       <td>Orchestrated end-to-end project delivery from initial concept through production deployment, managing complex timelines, stakeholder expectations, and resource allocation while ensuring on-time delivery of mission-critical systems with zero compromise on quality standards</td>
+     </tr>
+     <tr>
+       <td><strong>Agile Methodology</strong></td>
+       <td>Championed SCRUM and agile development practices across multiple organizations, implementing efficient sprint planning, daily standups, retrospectives, and continuous improvement processes that increased team productivity by 30% and reduced time-to-market by 25%</td>
+     </tr>
+     <tr>
+       <td><strong>Strategic Planning</strong></td>
+       <td>Provided strategic technology consulting and architectural decision-making for C-level executives and stakeholders, evaluating emerging technologies, designing scalable solutions, and aligning technical roadmaps with business objectives to drive digital transformation initiatives</td>
+     </tr>
+     <tr>
+       <td><strong>Mentorship</strong></td>
+       <td>Built and developed high-performing engineering teams from the ground up, providing comprehensive technical guidance, conducting code reviews, establishing best practices, and facilitating knowledge transfer that accelerated team member growth and career advancement</td>
+     </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -174,7 +207,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 | **Project**                        | Various client projects and freelance development initiatives                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **Responsibilities**               | <ul><li>Conducted client meetings to gather comprehensive requirements</li><li>Designed system flows, architecture, and database schemas</li><li>Planned tasks and established project milestones and objectives</li><li>Served as primary developer for system components</li><li>Provided support to team members to facilitate task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul> |
 | **Achievements and Skills Gained** | <ul><li>Enhanced team leadership and project management capabilities</li><li>Improved task management and project coordination skills</li><li>Advanced requirements gathering and stakeholder communication skills</li><li>Strengthened development and programming capabilities</li></ul>                                                                                                                                                                                                                 |
-| **Tech Stacks**                    | <ul><li>Various technologies based on project requirements</li><li>System Architecture Design</li><li>C#, NodeJs, Angular, ReactJS, Go, Python</li><li>MongoDB, SQL Server, MySQL</li><li>Database Design</li><li>Project Management</li></ul>                                                                                                                                                                                                                                                                                                                                                 |
+| **Tech Stacks**                    | <ul><li>Various technologies based on project requirements</li><li>System Architecture Design</li><li>C#, NodeJs, Angular, ReactJS, Go, Python</li><li>MongoDB, SQL Server, MySQL</li><li>Database Design</li><li>Project Management</li></ul>                                                                                                                                                                                                                                                             |
 
 ---
 
