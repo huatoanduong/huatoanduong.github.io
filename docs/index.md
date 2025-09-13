@@ -38,37 +38,21 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ## 🛠️ Technical Skills
 
-| **Skill**                    | **Experience**                                                                |
-| ---------------------------- | ----------------------------------------------------------------------------- |
-| C#                           | 15 years                                                                      |
-| MVC & Web API                | 12 years                                                                      |
-| .NET Core                    | 9 years                                                                       |
-| Entity Framework             | 9 years                                                                       |
-| TypeScript                   | 6 years                                                                       |
-| jQuery & JavaScript          | 8 years                                                                       |
-| Angular                      | 7 years                                                                       |
-| React & Redux                | 6 years                                                                       |
-| Winform & DevExpress         | 6 years                                                                       |
-| MySQL & SQL Server           | 14 years                                                                      |
-| MongoDB                      | 2 years                                                                       |
-| NodeJS                       | 1 years                                                                       |
-| Docker                       | 3.5 years                                                                     |
-| Kubernetes                   | 2.5 years                                                                     |
-| CI/CD                        | 6 years                                                                       |
-| Azure Services               | 2 years                                                                       |
-| Kafka                        | 2.5 years                                                                     |
-| Redis                        | 2.5 years                                                                     |
-| Microservices Architecture   | 5 years                                                                       |
-| Software Architecture Design | 7 years                                                                       |
-|                              |                                                                               |
-| **Leadership & Management**  |                                                                               |
-| Team Leadership              | 8 years                                                                       |
-| Project Management           | - Led multiple projects from inception to production deployment               |
-| Startup Experience           | - Contributed significantly to numerous successful startup ventures           |
-| Versatility                  | - Demonstrated ability to excel in various project roles and responsibilities |
-| Agile Methodology            | - Extensive experience with SCRUM and agile development practices             |
-| Adaptability                 | - Proven capability to rapidly learn new technologies and business models     |
-| Strategic Thinking           | - Strong analytical mindset with structured problem-solving approach          |
+| **Category**              | **Skills & Technologies**                                                                                    |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Backend Development**   | .NET Ecosystem (C#, .NET Core, MVC, Web API, Entity Framework), C#, TypeScript, JavaScript, Go, Node.js     |
+| **Database Technologies** | SQL Server, MySQL, MongoDB, Redis                                                                           |
+| **API Development**       | RESTful APIs, gRPC, Microservices Architecture                                                              |
+| **Frontend Development**  | Angular, React with Redux, TypeScript, JavaScript, jQuery, HTML5, CSS3, WinForms with DevExpress          |
+| **Cloud & DevOps**        | Docker, Kubernetes, Azure Services, Azure Functions, GitLab CI/CD, TeamCity, GitHub Pipeline               |
+| **Message Queues**        | Kafka, RabbitMQ, Redis                                                                                      |
+| **System Architecture**   | Microservices, Cloud-Native Architecture, Multi-tenant Systems, Software Architecture Design                |
+| **Performance & Design**  | System Optimization, Load Balancing, Caching Strategies, Scalable System Design                            |
+| **Team Leadership**       | Led cross-functional teams in startup and enterprise environments                                            |
+| **Project Management**    | End-to-end project delivery from inception to production                                                     |
+| **Agile Methodology**     | Extensive experience with SCRUM and agile development practices                                             |
+| **Strategic Planning**    | Technology consulting, solution architecture, and technical decision-making                                 |
+| **Mentorship**            | Team building, technical guidance, and knowledge transfer                                                    |
 
 ---
 
