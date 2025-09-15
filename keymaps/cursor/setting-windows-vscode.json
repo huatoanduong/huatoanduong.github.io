@@ -235,8 +235,7 @@
     "launchpad": false
   },
   "mssql.objectExplorer.groupBySchema": true,
-  "mssql.connections": [
-  ],
+  "mssql.connections": [],
   "mssql.autoDisableNonTSqlLanguageService": true,
   "python.defaultInterpreterPath": "",
   "[powershell]": {
@@ -252,5 +251,141 @@
   "window.commandCenter": true,
   "cursor.windowSwitcher.sidebarHoverCollapsed": true,
   "docker.extension.enableComposeLanguageServer": false,
-  "cursor.composer.shouldAllowCustomModes": true
+  "cursor.composer.shouldAllowCustomModes": true,
+  "python.createEnvironment.trigger": "off",
+  "mssql.connectionGroups": [],
+  "update.releaseTrack": "prerelease",
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [
+    {
+      "column": 80,
+      "color": "#00FF0010"
+    },
+    {
+      "column": 100,
+      "color": "#BDB76B15"
+    },
+    {
+      "column": 120,
+      "color": "#FA807219"
+    }
+  ],
+  "editor.unicodeHighlight.includeComments": true,
+  "workbench.editor.revealIfOpen": true,
+  "files.eol": "\n",
+  "[bat]": {
+    "files.eol": "\r\n"
+  },
+  "emmet.variables": {
+    "lang": "en"
+  },
+  "thunder-client.requestLayout": "Top/Bottom",
+  "cSpell.diagnosticLevel": "Hint",
+  "trailing-spaces.backgroundColor": "rgba(255,0,0,0.1)",
+  "trailing-spaces.includeEmptyLines": false,
+  "terminal.integrated.tabs.hideCondition": "never",
+  "terminal.integrated.enablePersistentSessions": false,
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.detectJdksAtStart": false,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.debug.settings.hotCodeReplace": "auto",
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.maxConcurrentBuilds": 20,
+  "java.sources.organizeImports.staticStarThreshold": 1,
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-1.8",
+      "path": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\8"
+    },
+    {
+      "name": "JavaSE-11",
+      "path": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\11"
+    },
+    {
+      "name": "JavaSE-17",
+      "path": "C:\\Users\\huato\\.jdks\\temurin-17.0.16"
+    },
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Users\\huato\\.jdks\\temurin-21.0.8"
+    },
+    {
+      "name": "JavaSE-24",
+      "path": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest",
+      "default": true
+    }
+  ],
+  "terminal.integrated.profiles.windows": {
+    "JavaSE-1.8 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\8\\bin;${env:PATH}",
+        "JAVA_HOME": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\8"
+      },
+      "path": "cmd"
+    },
+    "JavaSE-11 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\11\\bin;${env:PATH}",
+        "JAVA_HOME": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\11"
+      },
+      "path": "cmd"
+    },
+    "JavaSE-17 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\.jdks\\temurin-17.0.16\\bin;${env:PATH}",
+        "JAVA_HOME": "C:\\Users\\huato\\.jdks\\temurin-17.0.16"
+      },
+      "path": "cmd"
+    },
+    "JavaSE-21 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\.jdks\\temurin-21.0.8\\bin;${env:PATH}",
+        "JAVA_TOOL_OPTIONS": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8",
+        "JAVA_HOME": "C:\\Users\\huato\\.jdks\\temurin-21.0.8"
+      },
+      "path": "cmd",
+      "args": [
+        "/k",
+        "chcp",
+        "65001"
+      ]
+    },
+    "JavaSE-24": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest\\bin;${env:PATH}",
+        "JAVA_TOOL_OPTIONS": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8",
+        "JAVA_HOME": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest"
+      },
+      "path": "cmd",
+      "args": [
+        "/k",
+        "chcp",
+        "65001"
+      ]
+    }
+  },
+  "terminal.integrated.automationProfile.windows": {
+    "path": "cmd"
+  },
+  "java.test.config": {
+    "vmArgs": [
+      "-Dstdout.encoding=UTF-8",
+      "-Dstderr.encoding=UTF-8"
+    ]
+  },
+  "maven.terminal.customEnv": [
+    {
+      "environmentVariable": "JAVA_HOME",
+      "value": "C:\\Users\\huato\\.jdks\\temurin-21.0.8"
+    }
+  ],
+  "java.import.gradle.java.home": "C:\\Users\\huato\\.jdks\\temurin-21.0.8",
+  "maven.executable.path": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\maven\\latest\\bin\\mvn",
+  "java.import.gradle.home": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\gradle\\latest"
 }
