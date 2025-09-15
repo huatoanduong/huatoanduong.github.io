@@ -114,11 +114,6 @@
     "when": "viewContainer.workbench.view.extensions.enabled"
   },
   {
-    "key": "ctrl+shift+x",
-    "command": "editor.action.deleteLines",
-    "when": "textInputFocus && !editorReadonly"
-  },
-  {
     "key": "alt+-",
     "command": "-decreaseSearchEditorContextLines",
     "when": "inSearchEditor"
@@ -162,5 +157,10 @@
     "key": "ctrl+shift+\\",
     "command": "terminal.focus",
     "when": "!terminalFocus && terminalProcessSupported || terminalHasBeenCreated && terminalTabsFocus || terminalHasBeenCreated && !terminalFocus || terminalProcessSupported && terminalTabsFocus"
+  },
+  {
+    "key": "ctrl+shift+x",
+    "command": "editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
   }
 ]
