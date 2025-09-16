@@ -37,6 +37,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 ---
 
 ## 🛠️ Technical Skills
+
 <table>
   <thead>
     <tr>
@@ -169,7 +170,6 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
     </tr>
   </tbody>
 </table>
-
 
 ---
 
@@ -308,7 +308,6 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
   </tbody>
 </table>
 
-
 ---
 
 ### Kassom
@@ -385,12 +384,65 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Principal Developer / Team Leader** | _Oct 2019 - Apr 2021_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | **TradeTeq Project** - A sophisticated trading platform that connects banks and financial institutions, providing comprehensive management of financial instruments, letters of credit, notes, reconciliations, portfolios, funds, deals, and negotiations. The platform calculates interest and reconciliations on a daily basis, utilizing Azure functions as a message queue service and leveraging the full capabilities of Azure Portal and Azure DevOps. The system features well-established and thoroughly tested workflows between teams, implementing a multi-pod architecture to address banking security requirements, where each bank maintains its own system and database while ensuring data synchronization and privacy. |
-| **Responsibilities**               | <ul><li>Analyzed requirements and designed comprehensive system architecture for each sprint</li><li>Coordinated with and provided support to the London-based team</li><li>Broke down, assigned, and monitored tasks to achieve sprint objectives</li><li>Provided comprehensive support to team members to ensure task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Monitored system health and functionality to ensure optimal performance</li><li>Conducted comprehensive testing to validate system functionality</li></ul>                                                                                                                                                              |
-| **Achievements and Skills Gained** | <ul><li>Enhanced client-centric approach and stakeholder satisfaction</li><li>Strengthened leadership capabilities and team management skills</li><li>Advanced technical skills in Azure platform development and management</li><li>Improved multitasking abilities and project coordination skills</li><li>Significantly enhanced SCRUM process implementation and team collaboration</li><li>Improved user interface and user experience design capabilities</li></ul>                                                                                                                                                                                                                                                                 |
-| **Tech Stacks**                    | <ul><li>Web API .NET Core</li><li>SQL Server</li><li>Entity Framework</li><li>Angular 7</li><li>Azure Functions and Platform Services</li><li>Multi-pod/Tenant Architecture</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        <strong>TradeTeq Project</strong> - A sophisticated trading platform that connects banks and financial institutions, providing comprehensive management of financial instruments, letters of credit, notes, reconciliations, portfolios, funds,
+        deals, and negotiations. The platform calculates interest and reconciliations on a daily basis, utilizing Azure functions as a message queue service and leveraging the full capabilities of Azure Portal and Azure DevOps. The system features
+        well-established and thoroughly tested workflows between teams, implementing a multi-pod architecture to address banking security requirements, where each bank maintains its own system and database while ensuring data synchronization and
+        privacy.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Analyzed requirements and designed comprehensive system architecture for each sprint</li>
+          <li>Coordinated with and provided support to the London-based team</li>
+          <li>Broke down, assigned, and monitored tasks to achieve sprint objectives</li>
+          <li>Provided comprehensive support to team members to ensure task completion</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Monitored system health and functionality to ensure optimal performance</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced client-centric approach and stakeholder satisfaction</li>
+          <li>Strengthened leadership capabilities and team management skills</li>
+          <li>Advanced technical skills in Azure platform development and management</li>
+          <li>Improved multitasking abilities and project coordination skills</li>
+          <li>Significantly enhanced SCRUM process implementation and team collaboration</li>
+          <li>Improved user interface and user experience design capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Web API .NET Core</li>
+          <li>SQL Server</li>
+          <li>Entity Framework</li>
+          <li>Angular 7</li>
+          <li>Azure Functions and Platform Services</li>
+          <li>Multi-pod/Tenant Architecture</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -398,12 +450,55 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Principal Developer** | _Oct 2018 - Jul 2019_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | E-commerce platform development and comprehensive system maintenance                                                                                                                                                                                                                                                                                                                                                                |
-| **Responsibilities**               | <ul><li>Executed assigned development tasks and performed comprehensive product maintenance</li><li>Served as both developer and team leader to ensure project success</li><li>Provided support to team members to facilitate task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul>                              |
-| **Achievements and Skills Gained** | <ul><li>Developed comprehensive understanding of end-user perspectives and requirements</li><li>Enhanced technical skills in ReactJS with TypeScript and .NET Core Web API development</li><li>Advanced proficiency in GitLab CI/CD and Docker containerization</li><li>Gained familiarity with SCRUM methodology and agile development practices</li><li>Improved user interface and user experience design capabilities</li></ul> |
-| **Tech Stacks**                    | <ul><li>ReactJS with TypeScript</li><li>.NET Core Web API</li><li>GitLab CI/CD</li><li>Docker</li></ul>                                                                                                                                                                                                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>E-commerce platform development and comprehensive system maintenance</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Executed assigned development tasks and performed comprehensive product maintenance</li>
+          <li>Served as both developer and team leader to ensure project success</li>
+          <li>Provided support to team members to facilitate task completion</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Developed comprehensive understanding of end-user perspectives and requirements</li>
+          <li>Enhanced technical skills in ReactJS with TypeScript and .NET Core Web API development</li>
+          <li>Advanced proficiency in GitLab CI/CD and Docker containerization</li>
+          <li>Gained familiarity with SCRUM methodology and agile development practices</li>
+          <li>Improved user interface and user experience design capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>ReactJS with TypeScript</li>
+          <li>.NET Core Web API</li>
+          <li>GitLab CI/CD</li>
+          <li>Docker</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
