@@ -728,12 +728,54 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Developer** | _Jan 2010 - 2013_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                 |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Software development and comprehensive system design projects                                                                                                                                                                                                                                                                                               |
-| **Responsibilities**               | <ul><li>Conducted client meetings to gather comprehensive requirements</li><li>Designed system flows, architecture, and database schemas</li><li>Served as primary developer for system components</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Developed comprehensive understanding of Software Development Life Cycle (SDLC)</li><li>Enhanced knowledge of design patterns and software architecture principles</li><li>Strengthened development and programming capabilities</li></ul>                                                                                                          |
-| **Tech Stacks**                    | <ul><li>Software Development</li><li>System Architecture Design</li><li>Database Design</li><li>Design Patterns</li><li>SDLC</li></ul>                                                                                                                                                                                                                      |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Software development and comprehensive system design projects</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Conducted client meetings to gather comprehensive requirements</li>
+          <li>Designed system flows, architecture, and database schemas</li>
+          <li>Served as primary developer for system components</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Developed comprehensive understanding of Software Development Life Cycle (SDLC)</li>
+          <li>Enhanced knowledge of design patterns and software architecture principles</li>
+          <li>Strengthened development and programming capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Software Development</li>
+          <li>System Architecture Design</li>
+          <li>Database Design</li>
+          <li>Design Patterns</li>
+          <li>SDLC</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
