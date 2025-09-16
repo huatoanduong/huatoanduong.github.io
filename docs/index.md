@@ -781,11 +781,41 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ## 🎓 Certificates & Education
 
-| **Certificate/Education**                                              | **Institution**    | **Year** | **Details**       |
-| ---------------------------------------------------------------------- | ------------------ | -------- | ----------------- |
-| **Bachelor Degree of Information Technology**                          | Hoa Sen University | 2012     | GPA: 3.12 / 4.0   |
-| **TOEIC Certificate**                                                  | IIG Vietnam        | 2009     | 700 points        |
-| **Consolation Prize of Hoa Sen University Scientific Research Awards** | Hoa Sen University | Aug 2012 | Consolation Prize |
-| **Fundamental of Engineering (FE) (Japanese) Certificate**             | Hoa Sen University | Oct 2012 | 1295 points       |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Certificate/Education</strong></th>
+      <th><strong>Institution</strong></th>
+      <th><strong>Year</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Bachelor Degree of Information Technology</strong></td>
+      <td>Hoa Sen University</td>
+      <td>2012</td>
+      <td>GPA: 3.12 / 4.0</td>
+    </tr>
+    <tr>
+      <td><strong>TOEIC Certificate</strong></td>
+      <td>IIG Vietnam</td>
+      <td>2009</td>
+      <td>700 points</td>
+    </tr>
+    <tr>
+      <td><strong>Consolation Prize of Hoa Sen University Scientific Research Awards</strong></td>
+      <td>Hoa Sen University</td>
+      <td>Aug 2012</td>
+      <td>Consolation Prize</td>
+    </tr>
+    <tr>
+      <td><strong>Fundamental of Engineering (FE) (Japanese) Certificate</strong></td>
+      <td>Hoa Sen University</td>
+      <td>Oct 2012</td>
+      <td>1295 points</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
