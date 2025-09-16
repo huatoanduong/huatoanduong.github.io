@@ -247,12 +247,67 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Team Leader, Fullstack Engineer** | _Oct 2021 - Sep 2023_
 
-| **Aspect**           | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Project**          | Express Web is a comprehensive web portal focused on Grab for Business, designed to process high-volume daily orders. The platform provides essential tools including Shopify integration, Bulk Upload capabilities, Route Optimization for partners, and comprehensive Order tracking functionality.<br><br>**URL:** [https://express.grab.com/en](https://express.grab.com/en)                                                                                                                                                                                                                                                                                                                                                                             |
-| **Responsibilities** | <ul><li>Collaborated closely with Product Owners and QA teams to establish system design requirements before sprint initiation</li><li>Provided on-call support for stakeholders to ensure continuous system availability</li><li>Conducted comprehensive log analysis and provided support to team members during system issues</li><li>Authored detailed engineering specifications for new feature implementations</li><li>Served as the primary engineer responsible for all team-developed features</li></ul>                                                                                                                                                                                                                                           |
-| **Achievements**     | <ul><li>Enhanced client-centric approach and stakeholder satisfaction</li><li>Strengthened leadership capabilities and fostered team collaboration</li><li>Eliminated accumulated technical debt to improve system performance</li><li>Consolidated knowledge and expertise in enterprise system architecture</li><li>Gained valuable experience in building and developing teams from the ground up</li><li>Contributed to a consistent monthly increase of over 5% in Grab Express Web usage, with peak usage reaching 20% following the Bulk Upload feature launch</li><li>Developed rapid adaptation skills in high-demand technical environments</li><li>Acquired proficiency in multiple technology platforms through self-directed learning</li></ul> |
-| **Technologies**     | <ul><li>Golang</li><li>gRPC</li><li>React with Observable</li><li>Monorepo Architecture</li><li>Kibana with Elasticsearch for logging</li><li>DataDog</li><li>Kubernetes</li><li>GitLab CI/CD</li><li>Docusaurus for API Documentation</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        Express Web is a comprehensive web portal focused on Grab for Business, designed to process high-volume daily orders. The platform provides essential tools including Shopify integration, Bulk Upload capabilities, Route Optimization for
+        partners, and comprehensive Order tracking functionality.<br /><br /><strong>URL:</strong> <a href="https://express.grab.com/en">https://express.grab.com/en</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Collaborated closely with Product Owners and QA teams to establish system design requirements before sprint initiation</li>
+          <li>Provided on-call support for stakeholders to ensure continuous system availability</li>
+          <li>Conducted comprehensive log analysis and provided support to team members during system issues</li>
+          <li>Authored detailed engineering specifications for new feature implementations</li>
+          <li>Served as the primary engineer responsible for all team-developed features</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced client-centric approach and stakeholder satisfaction</li>
+          <li>Strengthened leadership capabilities and fostered team collaboration</li>
+          <li>Eliminated accumulated technical debt to improve system performance</li>
+          <li>Consolidated knowledge and expertise in enterprise system architecture</li>
+          <li>Gained valuable experience in building and developing teams from the ground up</li>
+          <li>Contributed to a consistent monthly increase of over 5% in Grab Express Web usage, with peak usage reaching 20% following the Bulk Upload feature launch</li>
+          <li>Developed rapid adaptation skills in high-demand technical environments</li>
+          <li>Acquired proficiency in multiple technology platforms through self-directed learning</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies</strong></td>
+      <td>
+        <ul>
+          <li>Golang</li>
+          <li>gRPC</li>
+          <li>React with Observable</li>
+          <li>Monorepo Architecture</li>
+          <li>Kibana with Elasticsearch for logging</li>
+          <li>DataDog</li>
+          <li>Kubernetes</li>
+          <li>GitLab CI/CD</li>
+          <li>Docusaurus for API Documentation</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -260,12 +315,69 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Tech Architect, Team Leader, Fullstack Engineer** | _Jun 2021 – Present_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Developed a comprehensive online learning platform for children that facilitates connections between tutors and parents. The platform provides an integrated environment for tutors to advertise their courses, manage class scheduling, and interact with their learners effectively.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Responsibilities**               | <ul><li><strong>Architecture Ownership & Solution Design:</strong> Led comprehensive system architecture design, making critical technical decisions for product development and system scalability</li><li><strong>Technology Consulting & Solution Selection:</strong> Provided strategic technology consulting, evaluated and selected optimal tech stacks, and established standardized backend architecture guidelines</li><li><strong>Performance & Security Optimization:</strong> Designed and implemented performance optimization strategies, security protocols, and scalable system architectures</li><li><strong>System Modernization & Migration:</strong> Led legacy system modernization initiatives and migration strategies to improve system efficiency and maintainability</li><li><strong>Team Leadership & Technical Guidance:</strong> Led startup team development, managed recruitment, and provided technical mentorship to ensure architectural consistency</li><li><strong>Business Alignment:</strong> Coordinated with sales teams and addressed market demands to ensure product-market fit and technical feasibility</li></ul> |
-| **Achievements and Skills Gained** | <ul><li><strong>Architecture Excellence:</strong> Successfully designed and implemented scalable, secure system architecture from concept to production deployment</li><li><strong>Technical Leadership:</strong> Established standardized development guidelines, code review processes, and architectural best practices for the development team</li><li><strong>Performance Optimization:</strong> Implemented system performance improvements and optimization strategies that enhanced user experience and system reliability</li><li><strong>Security Implementation:</strong> Designed and implemented comprehensive security protocols including OAuth integration, data encryption, and secure payment processing</li><li><strong>Technology Strategy:</strong> Made strategic technology decisions that balanced scalability, maintainability, and business requirements</li><li><strong>Team Development:</strong> Built and mentored development teams, ensuring architectural consistency and technical excellence across all projects</li></ul>                                                                                                 |
-| **Tech Stacks**                    | <ul><li>Web API .NET Core</li><li>SQL Server</li><li>Entity Framework</li><li>Angular 12</li><li>Azure Functions and Platform Services</li><li>Azure AD OAuth Integration</li><li>Zoom Integration</li><li>Stripe Payment Integration</li><li>Lokalise</li><li>Crowdin</li><li>WordPress</li><li>GitHub Pipeline</li><li>RabbitMQ</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        Developed a comprehensive online learning platform for children that facilitates connections between tutors and parents. The platform provides an integrated environment for tutors to advertise their courses, manage class scheduling, and
+        interact with their learners effectively.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li><strong>Architecture Ownership & Solution Design:</strong> Led comprehensive system architecture design, making critical technical decisions for product development and system scalability</li>
+          <li><strong>Technology Consulting & Solution Selection:</strong> Provided strategic technology consulting, evaluated and selected optimal tech stacks, and established standardized backend architecture guidelines</li>
+          <li><strong>Performance & Security Optimization:</strong> Designed and implemented performance optimization strategies, security protocols, and scalable system architectures</li>
+          <li><strong>System Modernization & Migration:</strong> Led legacy system modernization initiatives and migration strategies to improve system efficiency and maintainability</li>
+          <li><strong>Team Leadership & Technical Guidance:</strong> Led startup team development, managed recruitment, and provided technical mentorship to ensure architectural consistency</li>
+          <li><strong>Business Alignment:</strong> Coordinated with sales teams and addressed market demands to ensure product-market fit and technical feasibility</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li><strong>Architecture Excellence:</strong> Successfully designed and implemented scalable, secure system architecture from concept to production deployment</li>
+          <li><strong>Technical Leadership:</strong> Established standardized development guidelines, code review processes, and architectural best practices for the development team</li>
+          <li><strong>Performance Optimization:</strong> Implemented system performance improvements and optimization strategies that enhanced user experience and system reliability</li>
+          <li><strong>Security Implementation:</strong> Designed and implemented comprehensive security protocols including OAuth integration, data encryption, and secure payment processing</li>
+          <li><strong>Technology Strategy:</strong> Made strategic technology decisions that balanced scalability, maintainability, and business requirements</li>
+          <li><strong>Team Development:</strong> Built and mentored development teams, ensuring architectural consistency and technical excellence across all projects</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Web API .NET Core</li>
+          <li>SQL Server</li>
+          <li>Entity Framework</li>
+          <li>Angular 12</li>
+          <li>Azure Functions and Platform Services</li>
+          <li>Azure AD OAuth Integration</li>
+          <li>Zoom Integration</li>
+          <li>Stripe Payment Integration</li>
+          <li>Lokalise</li>
+          <li>Crowdin</li>
+          <li>WordPress</li>
+          <li>GitHub Pipeline</li>
+          <li>RabbitMQ</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
