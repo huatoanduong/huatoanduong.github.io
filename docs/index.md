@@ -562,12 +562,58 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Developer/Team Leader** | _Jan 2013 - Present_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Various client projects and freelance development initiatives                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Responsibilities**               | <ul><li>Conducted client meetings to gather comprehensive requirements</li><li>Designed system flows, architecture, and database schemas</li><li>Planned tasks and established project milestones and objectives</li><li>Served as primary developer for system components</li><li>Provided support to team members to facilitate task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Enhanced team leadership and project management capabilities</li><li>Improved task management and project coordination skills</li><li>Advanced requirements gathering and stakeholder communication skills</li><li>Strengthened development and programming capabilities</li></ul>                                                                                                                                                                                                                 |
-| **Tech Stacks**                    | <ul><li>Various technologies based on project requirements</li><li>System Architecture Design</li><li>C#, NodeJs, Angular, ReactJS, Go, Python</li><li>MongoDB, SQL Server, MySQL</li><li>Database Design</li><li>Project Management</li></ul>                                                                                                                                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Various client projects and freelance development initiatives</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Conducted client meetings to gather comprehensive requirements</li>
+          <li>Designed system flows, architecture, and database schemas</li>
+          <li>Planned tasks and established project milestones and objectives</li>
+          <li>Served as primary developer for system components</li>
+          <li>Provided support to team members to facilitate task completion</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced team leadership and project management capabilities</li>
+          <li>Improved task management and project coordination skills</li>
+          <li>Advanced requirements gathering and stakeholder communication skills</li>
+          <li>Strengthened development and programming capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Various technologies based on project requirements</li>
+          <li>System Architecture Design</li>
+          <li>C#, NodeJs, Angular, ReactJS, Go, Python</li>
+          <li>MongoDB, SQL Server, MySQL</li>
+          <li>Database Design</li>
+          <li>Project Management</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
