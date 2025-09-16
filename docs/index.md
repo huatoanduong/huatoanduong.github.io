@@ -673,12 +673,54 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Project Coordinator/Business Analyst** | _Jun 2013 - Aug 2014_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                              |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Project**                        | Project coordination and business analysis for software development initiatives                                                                                                                                                                                                                                                                                          |
-| **Responsibilities**               | <ul><li>Communicated with clients to derive comprehensive requirements</li><li>Created detailed analysis documents, business flows, system flows, use cases, and database schemas</li><li>Investigated current system architecture and functionality</li><li>Planned and assigned tasks to team members</li><li>Provided comprehensive support to team members</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Developed comprehensive understanding of project manager roles in SDLC</li><li>Enhanced teamwork and collaboration capabilities</li><li>Advanced system architecture design and planning skills</li></ul>                                                                                                                                                        |
-| **Tech Stacks**                    | <ul><li>Business Analysis</li><li>System Architecture Design</li><li>Project Coordination</li><li>Documentation</li><li>Task Planning</li></ul>                                                                                                                                                                                                                          |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Project coordination and business analysis for software development initiatives</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Communicated with clients to derive comprehensive requirements</li>
+          <li>Created detailed analysis documents, business flows, system flows, use cases, and database schemas</li>
+          <li>Investigated current system architecture and functionality</li>
+          <li>Planned and assigned tasks to team members</li>
+          <li>Provided comprehensive support to team members</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Developed comprehensive understanding of project manager roles in SDLC</li>
+          <li>Enhanced teamwork and collaboration capabilities</li>
+          <li>Advanced system architecture design and planning skills</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Business Analysis</li>
+          <li>System Architecture Design</li>
+          <li>Project Coordination</li>
+          <li>Documentation</li>
+          <li>Task Planning</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
