@@ -621,12 +621,51 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Business Analyst** | _Sep 2014 - Jan 2015_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                     |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Business analysis and comprehensive requirements gathering for software projects                                                                                                                                                                                                                                |
-| **Responsibilities**               | <ul><li>Communicated with clients and departments to derive comprehensive requirements</li><li>Defined business flows and process mappings</li><li>Investigated current system architecture and functionality</li><li>Coordinated with project managers to establish milestones and release schedules</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Enhanced business analysis and requirements gathering capabilities</li><li>Developed strong teamwork and collaboration skills</li></ul>                                                                                                                                                                 |
-| **Tech Stacks**                    | <ul><li>Business Analysis</li><li>Requirements Gathering</li><li>Process Mapping</li><li>System Investigation</li></ul>                                                                                                                                                                                         |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Business analysis and comprehensive requirements gathering for software projects</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Communicated with clients and departments to derive comprehensive requirements</li>
+          <li>Defined business flows and process mappings</li>
+          <li>Investigated current system architecture and functionality</li>
+          <li>Coordinated with project managers to establish milestones and release schedules</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced business analysis and requirements gathering capabilities</li>
+          <li>Developed strong teamwork and collaboration skills</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Business Analysis</li>
+          <li>Requirements Gathering</li>
+          <li>Process Mapping</li>
+          <li>System Investigation</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
