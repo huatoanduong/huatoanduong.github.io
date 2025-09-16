@@ -111,12 +111,65 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Expert Software Engineer** | _Sep 2024 - Current_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | **Zurich Neo Project** - An international insurance platform delivering comprehensive insurance solutions across multiple countries and regions. The platform leverages modern cloud-native architecture to provide innovative insurance products, policy management systems, and claims processing capabilities serving a global customer base.                                                                                                                                                                                                                                                                                                                                                  |
-| **Responsibilities**               | <ul><li>Lead full-stack development initiatives encompassing both backend and frontend components</li><li>Architect and implement complex business logic and algorithms for insurance operations</li><li>Collaborate closely with Business Analysts and stakeholders to gather requirements and deliver new features</li><li>Design and analyze system architecture components for scalability and performance</li><li>Investigate and resolve critical production issues to ensure system reliability</li><li>Coordinate with cross-functional teams to facilitate seamless system integration</li><li>Conduct comprehensive code reviews and maintain elevated code quality standards</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Enhanced full-stack development capabilities within the insurance technology domain</li><li>Advanced system architecture design skills for cloud-native applications</li><li>Strengthened stakeholder collaboration and cross-functional team coordination</li><li>Developed deep expertise in insurance domain knowledge and international compliance requirements</li><li>Gained comprehensive experience with enterprise-grade DevOps and CI/CD methodologies</li></ul>                                                                                                                                                                                                                |
-| **Technologies**                   | <ul><li>Angular (Frontend Framework)</li><li>.NET Core (Backend API)</li><li>Docker (Containerization)</li><li>Kubernetes (Container Orchestration)</li><li>Kafka (Message Streaming)</li><li>TeamCity (CI/CD Pipeline)</li><li>Cloud-Native Architecture</li><li>Microservices Design</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                  |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        <strong>Zurich Neo Project</strong> - An international insurance platform delivering comprehensive insurance solutions across multiple countries and regions. The platform leverages modern cloud-native architecture to provide innovative
+        insurance products, policy management systems, and claims processing capabilities serving a global customer base.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Lead full-stack development initiatives encompassing both backend and frontend components</li>
+          <li>Architect and implement complex business logic and algorithms for insurance operations</li>
+          <li>Collaborate closely with Business Analysts and stakeholders to gather requirements and deliver new features</li>
+          <li>Design and analyze system architecture components for scalability and performance</li>
+          <li>Investigate and resolve critical production issues to ensure system reliability</li>
+          <li>Coordinate with cross-functional teams to facilitate seamless system integration</li>
+          <li>Conduct comprehensive code reviews and maintain elevated code quality standards</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced full-stack development capabilities within the insurance technology domain</li>
+          <li>Advanced system architecture design skills for cloud-native applications</li>
+          <li>Strengthened stakeholder collaboration and cross-functional team coordination</li>
+          <li>Developed deep expertise in insurance domain knowledge and international compliance requirements</li>
+          <li>Gained comprehensive experience with enterprise-grade DevOps and CI/CD methodologies</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies</strong></td>
+      <td>
+        <ul>
+          <li>Angular (Frontend Framework)</li>
+          <li>.NET Core (Backend API)</li>
+          <li>Docker (Containerization)</li>
+          <li>Kubernetes (Container Orchestration)</li>
+          <li>Kafka (Message Streaming)</li>
+          <li>TeamCity (CI/CD Pipeline)</li>
+          <li>Cloud-Native Architecture</li>
+          <li>Microservices Design</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -124,12 +177,69 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Team Leader, Senior Engineer** | _Singapore_ | _Sep 2023 - Sep 2024_
 
-| **Aspect**           | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Project**          | Developed and maintained a comprehensive tool for external EIPs to submit data into internal systems. This solution serves as the primary validation gateway for all external inputs and provides comprehensive stakeholder notification capabilities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Responsibilities** | <ul><li>Collaborated closely with Business Analysts and QA teams to establish system design requirements before sprint initiation</li><li>Maintained and enhanced a six-year-old project while preserving its core functionality</li><li>Developed comprehensive plans and allocated resources for upcoming release cycles</li><li>Provided on-call support for partners to ensure continuous system availability</li><li>Coordinated and supported all release schedules to maintain project timelines</li><li>Conducted log analysis and provided support for partners during production issues</li><li>Authored comprehensive engineering specifications for new feature implementations</li><li>Prepared migration strategies for integration with new system components</li><li>Proposed comprehensive upgrade strategies for legacy system features</li><li>Served as the primary engineer responsible for all team-developed features</li></ul> |
-| **Achievements**     | <ul><li>Enhanced client-centric approach and stakeholder satisfaction</li><li>Redesigned and optimized developer team workflows for improved efficiency</li><li>Strengthened leadership capabilities and fostered team collaboration</li><li>Eliminated technical debt and restructured components for improved code maintainability</li><li>Gained valuable experience in upgrading legacy systems to modern technology stacks</li><li>Developed rapid adaptation skills in high-demand technical environments</li><li>Acquired proficiency in multiple technology platforms through self-directed learning</li><li>Consolidated knowledge and expertise in enterprise system architecture</li></ul>                                                                                                                                                                                                                                                  |
-| **Technologies**     | <ul><li>.NET Framework</li><li>.NET Core</li><li>Kibana with Elasticsearch for logging</li><li>DataDog</li><li>Kubernetes</li><li>CloudBees</li><li>GitLab CI/CD</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        Developed and maintained a comprehensive tool for external EIPs to submit data into internal systems. This solution serves as the primary validation gateway for all external inputs and provides comprehensive stakeholder notification
+        capabilities.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Collaborated closely with Business Analysts and QA teams to establish system design requirements before sprint initiation</li>
+          <li>Maintained and enhanced a six-year-old project while preserving its core functionality</li>
+          <li>Developed comprehensive plans and allocated resources for upcoming release cycles</li>
+          <li>Provided on-call support for partners to ensure continuous system availability</li>
+          <li>Coordinated and supported all release schedules to maintain project timelines</li>
+          <li>Conducted log analysis and provided support for partners during production issues</li>
+          <li>Authored comprehensive engineering specifications for new feature implementations</li>
+          <li>Prepared migration strategies for integration with new system components</li>
+          <li>Proposed comprehensive upgrade strategies for legacy system features</li>
+          <li>Served as the primary engineer responsible for all team-developed features</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced client-centric approach and stakeholder satisfaction</li>
+          <li>Redesigned and optimized developer team workflows for improved efficiency</li>
+          <li>Strengthened leadership capabilities and fostered team collaboration</li>
+          <li>Eliminated technical debt and restructured components for improved code maintainability</li>
+          <li>Gained valuable experience in upgrading legacy systems to modern technology stacks</li>
+          <li>Developed rapid adaptation skills in high-demand technical environments</li>
+          <li>Acquired proficiency in multiple technology platforms through self-directed learning</li>
+          <li>Consolidated knowledge and expertise in enterprise system architecture</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies</strong></td>
+      <td>
+        <ul>
+          <li>.NET Framework</li>
+          <li>.NET Core</li>
+          <li>Kibana with Elasticsearch for logging</li>
+          <li>DataDog</li>
+          <li>Kubernetes</li>
+          <li>CloudBees</li>
+          <li>GitLab CI/CD</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
