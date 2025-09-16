@@ -506,12 +506,55 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Senior Developer** | _Apr 2017 - Oct 2018_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Software development and comprehensive system architecture design                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Responsibilities**               | <ul><li>Executed assigned development tasks and enhanced production systems</li><li>Designed comprehensive system flows, architecture, and database schemas</li><li>Served as primary developer for system components</li><li>Provided support to team members to facilitate task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Developed comprehensive understanding of end-user perspectives and requirements</li><li>Enhanced technical skills in Angular 2-5 and Web API development</li><li>Gained familiarity with SCRUM methodology and agile development practices</li><li>Improved user interface and user experience design capabilities</li></ul>                                                                                                                  |
-| **Tech Stacks**                    | <ul><li>Angular 2-5</li><li>Web API</li><li>Database Design</li><li>System Architecture</li></ul>                                                                                                                                                                                                                                                                                                                                                     |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Software development and comprehensive system architecture design</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Executed assigned development tasks and enhanced production systems</li>
+          <li>Designed comprehensive system flows, architecture, and database schemas</li>
+          <li>Served as primary developer for system components</li>
+          <li>Provided support to team members to facilitate task completion</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Developed comprehensive understanding of end-user perspectives and requirements</li>
+          <li>Enhanced technical skills in Angular 2-5 and Web API development</li>
+          <li>Gained familiarity with SCRUM methodology and agile development practices</li>
+          <li>Improved user interface and user experience design capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Angular 2-5</li>
+          <li>Web API</li>
+          <li>Database Design</li>
+          <li>System Architecture</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
