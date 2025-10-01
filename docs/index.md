@@ -159,9 +159,12 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
         <ul>
           <li>Angular (Frontend Framework)</li>
           <li>.NET Core (Backend API)</li>
+          <li>RavenDB</li>
+          <li>PostgreSQL</li>
           <li>Docker (Containerization)</li>
           <li>Kubernetes (Container Orchestration)</li>
           <li>Kafka (Message Streaming)</li>
+          <li>RabbitMQ</li>
           <li>TeamCity (CI/CD Pipeline)</li>
           <li>Cloud-Native Architecture</li>
           <li>Microservices Design</li>
@@ -230,6 +233,8 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
         <ul>
           <li>.NET Framework</li>
           <li>.NET Core</li>
+          <li>PostgreSQL</li>
+          <li>SQL Server</li>
           <li>Kibana with Elasticsearch for logging</li>
           <li>DataDog</li>
           <li>Kubernetes</li>
@@ -295,6 +300,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
         <ul>
           <li>Golang</li>
           <li>gRPC</li>
+          <li>MySQL</li>
           <li>React with Observable</li>
           <li>Monorepo Architecture</li>
           <li>Kibana with Elasticsearch for logging</li>
@@ -372,6 +378,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>WordPress</li>
           <li>GitHub Pipeline</li>
           <li>RabbitMQ</li>
+          <li>Kafka</li>
         </ul>
       </td>
     </tr>
@@ -492,6 +499,8 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
         <ul>
           <li>ReactJS with TypeScript</li>
           <li>.NET Core Web API</li>
+          <li>MongoDB</li>
+          <li>SQL Server</li>
           <li>GitLab CI/CD</li>
           <li>Docker</li>
         </ul>
