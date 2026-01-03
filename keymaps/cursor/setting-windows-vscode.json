@@ -209,13 +209,12 @@
   },
   "hediet.vscode-drawio.resizeImages": null,
   "nxConsole.showNodeVersionOnStartup": false,
-  "git.postCommitCommand": "sync",
   "gitlens.advanced.messages": {
     "suppressCreatePullRequestPrompt": true
   },
   "workbench.colorCustomizations": {},
   "terminal.integrated.mouseWheelZoom": true,
-  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.shellIntegration.enabled": false,
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "scm.providerCountBadge": "auto",
   "scm.alwaysShowActions": true,
@@ -225,11 +224,12 @@
   "gitlens.views.scm.grouped.views": {
     "commits": true,
     "branches": false,
-    "remotes": true,
+    "remotes": false,
     "stashes": false,
     "tags": true,
     "worktrees": true,
     "contributors": true,
+    "fileHistory": false,
     "repositories": false,
     "searchAndCompare": false,
     "launchpad": false
@@ -247,7 +247,6 @@
     "scminput"
   ],
   "workbench.colorTheme": "Monokai",
-  "debug.toolBarLocation": "commandCenter",
   "window.commandCenter": true,
   "cursor.windowSwitcher.sidebarHoverCollapsed": true,
   "docker.extension.enableComposeLanguageServer": false,
@@ -387,5 +386,37 @@
   ],
   "java.import.gradle.java.home": "C:\\Users\\huato\\.jdks\\temurin-21.0.8",
   "maven.executable.path": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\maven\\latest\\bin\\mvn",
-  "java.import.gradle.home": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\gradle\\latest"
+  "java.import.gradle.home": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\gradle\\latest",
+  "notebook.lineNumbers": "on",
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "jdk.telemetry.enabled": false,
+  "diffEditor.codeLens": true,
+  "cursor.general.disableHttp2": true,
+  "cursor.general.disableHttp1SSE": false,
+  "git-graph.customPullRequestProviders": [
+    {
+      "name": "Azure DevOps",
+      "templateUrl": "$1/$2/_git/$3/pullrequestcreate?sourceRef=$4&targetRef=$8"
+    }
+  ],
+  "workbench.externalBrowser": "chrome",
+  "terminal.integrated.fontSize": 13,
+  "debug.toolBarLocation": "commandCenter",
+  "git-graph.dialog.fetchIntoLocalBranch.forceFetch": true,
+  "git-graph.dialog.fetchRemote.prune": true,
+  "git-graph.dialog.merge.noCommit": true,
+  "git-graph.dialog.merge.noFastForward": false
 }

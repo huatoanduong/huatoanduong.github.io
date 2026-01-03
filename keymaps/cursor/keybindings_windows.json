@@ -192,5 +192,9 @@
     "key": "shift+alt+f",
     "command": "-editor.action.formatDocument",
     "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+  },
+  {
+    "key": "ctrl+alt+up",
+    "command": "editor.action.jumpToBracket"
   }
 ]
