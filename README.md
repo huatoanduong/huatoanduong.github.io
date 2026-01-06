@@ -15,7 +15,7 @@ This repository contains my personal resume website built with MkDocs and the Ma
 ## Technology Stack
 - **MkDocs**: Static site generator
 - **Material Theme**: Professional documentation theme
-- **Python**: Virtual environment (.venv) for dependencies
+- **Python**: Managed with uv (fast Python package installer)
 - **GitHub Actions**: CI/CD pipeline for deployment
 - **GitHub Pages**: Hosting platform
 
@@ -29,7 +29,7 @@ huatoanduong.github.io/
 │ └── stylesheets/ # CSS styling files
 │ └── pdf-button.css # PDF button styling
 ├── .github/workflows/ # GitHub Actions workflows
-├── .venv/ # Python virtual environment
+├── .venv/ # Python virtual environment (managed by uv)
 ├── requirements.txt # Python dependencies
 ├── mkdocs.yml # MkDocs configuration
 └── README.md # This file
@@ -42,6 +42,7 @@ huatoanduong.github.io/
 - Python 3.8 or higher
 - Git
 - GitHub account
+- uv (fast Python package installer) - [Installation guide](https://github.com/astral-sh/uv#installation)
 
 ### Step 1: Clone the Repository
 ```bash
@@ -49,23 +50,34 @@ git clone https://github.com/huatoanduong/huatoanduong.github.io.git
 cd huatoanduong.github.io
 ```
 
-### Step 2: Create Python Virtual Environment
+### Step 2: Install uv (if not already installed)
+```bash
+# macOS/Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Windows (PowerShell)
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+# Or using pip
+pip install uv
+```
+
+### Step 3: Create Virtual Environment and Install Dependencies
+```bash
+# uv will automatically create .venv and install dependencies
+uv pip install -r requirements.txt
+```
+
+### Step 4: Activate Virtual Environment
 ```bash
 # Windows
-python -m venv .venv
 .venv\Scripts\activate
 
 # macOS/Linux
-python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-### Step 3: Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### Step 4: Verify Installation
+### Step 5: Verify Installation
 ```bash
 mkdocs --version
 ```
@@ -75,12 +87,22 @@ mkdocs --version
 ### Serve Locally
 ```bash
 # Make sure virtual environment is activated
+# If using uv, you can also run directly:
+uv run mkdocs serve
+
+# Or activate the environment first
+source .venv/bin/activate  # macOS/Linux
+# .venv\Scripts\activate   # Windows
 mkdocs serve
 ```
-The site will be available at `http://127.0.0.1:8000/`
+The site will be available at `http://127.0.0.1:8000/` (or the port specified in `mkdocs.yml`)
 
 ### Build for Production
 ```bash
+# Using uv directly
+uv run mkdocs build
+
+# Or with activated environment
 mkdocs build
 ```
 This creates a `dist/` directory with the built website.
@@ -172,14 +194,18 @@ The website automatically deploys when you push changes to the main branch.
 ### Manual Deployment
 ```bash
 # Build the site
-mkdocs build
+uv run mkdocs build
+# Or with activated environment: mkdocs build
 
 # Deploy to GitHub Pages (if using gh-pages branch)
-mkdocs gh-deploy
+uv run mkdocs gh-deploy
+# Or with activated environment: mkdocs gh-deploy
 ```
 
 ### GitHub Actions Workflow
 The `.github/workflows/deploy.yml` file handles:
+- Setting up Python and uv
+- Installing dependencies using uv
 - Building the MkDocs site
 - Deploying to GitHub Pages
 - Automatic updates on push
@@ -188,6 +214,13 @@ The `.github/workflows/deploy.yml` file handles:
 
 ### Common Issues
 
+#### uv Not Installed
+```bash
+# Install uv using the installation commands in Step 2 of Development Setup
+# Or verify installation:
+uv --version
+```
+
 #### Virtual Environment Not Activated
 ```bash
 # Windows
@@ -195,11 +228,18 @@ The `.github/workflows/deploy.yml` file handles:
 
 # macOS/Linux
 source .venv/bin/activate
+
+# Or use uv run directly (no activation needed)
+uv run mkdocs serve
 ```
 
 #### Dependencies Not Found
 ```bash
-pip install -r requirements.txt
+# Reinstall dependencies with uv
+uv pip install -r requirements.txt
+
+# Or sync dependencies (if using pyproject.toml)
+uv sync
 ```
 
 #### Port Already in Use
@@ -210,6 +250,12 @@ mkdocs serve -a 127.0.0.1:8001
 #### Build Errors
 ```bash
 mkdocs build --verbose
+```
+
+#### uv Cache Issues
+```bash
+# Clear uv cache if needed
+uv cache clean
 ```
 
 ### Debug Mode
@@ -237,8 +283,9 @@ mkdocs serve --verbose
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Test locally with `mkdocs serve`
-5. Submit a pull request
+4. Install dependencies: `uv pip install -r requirements.txt`
+5. Test locally with `uv run mkdocs serve` or `mkdocs serve` (with activated environment)
+6. Submit a pull request
 
 ## License
 This project is open source and available under the MIT License.
