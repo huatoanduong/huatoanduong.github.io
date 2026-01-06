@@ -38,32 +38,71 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ## 🛠️ Technical Skills
 
-- **C#** - 15 years
-- **MVC & Web API** - 11 years
-- **Entity Framework** - 9 years
-- **.NET Core** - 9 years
-- **Angular** - 7 years
-- **Winform & DevExpress** - 6 years
-- **React & Redux** - 6 years
-- **TypeScript** – 6 years
-- **jQuery & JavaScript** - 8 years
-- **MySQL & SQL Server** - 14 years
-- **MongoDB** - 2 years
-- **Docker** - 3.5 years
-- **Kubernetes** - 2.5 years
-- **Kafka** - 2.5 years
-- **Redis** - 2.5 years
-- **CI/CD** - 6 years
-- **Azure Services** - 2 years
-- **Microservices Architecture** - 3 years
-- **Software Architecture Design** - 5 years
-- **Team Leadership** - 6 years
-- **Project Management** - Led multiple projects from inception to production deployment
-- **Startup Experience** - Contributed significantly to numerous successful startup ventures
-- **Versatility** - Demonstrated ability to excel in various project roles and responsibilities
-- **Agile Methodology** - Extensive experience with SCRUM and agile development practices
-- **Adaptability** - Proven capability to rapidly learn new technologies and business models
-- **Strategic Thinking** - Strong analytical mindset with structured problem-solving approach
+<table>
+  <thead>
+    <tr>
+      <th><strong>Category</strong></th>
+      <th><strong>Skills & Technologies</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td>.NET Ecosystem (C#, .NET Core, MVC, Web API, Entity Framework), C#, TypeScript, JavaScript, Go, Node.js</td>
+    </tr>
+    <tr>
+      <td><strong>Database Technologies</strong></td>
+      <td>SQL Server, MySQL, PostgreSQL, MongoDB, Redis</td>
+    </tr>
+    <tr>
+      <td><strong>API Development</strong></td>
+      <td>RESTful APIs, gRPC, Microservices Architecture</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td>Angular, React with Redux, TypeScript, JavaScript, jQuery, HTML5, CSS3, WinForms with DevExpress</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud & DevOps</strong></td>
+      <td>Docker, Kubernetes, Azure Services, Azure Functions, GitLab CI/CD, TeamCity, GitHub Pipeline</td>
+    </tr>
+    <tr>
+      <td><strong>Message Queues</strong></td>
+      <td>Kafka, RabbitMQ, Redis</td>
+    </tr>
+    <tr>
+      <td><strong>System Architecture</strong></td>
+      <td>Microservices, Cloud-Native Architecture, Multi-tenant Systems, Software Architecture Design</td>
+    </tr>
+    <tr>
+      <td><strong>Performance & Design</strong></td>
+      <td>System Optimization, Load Balancing, Caching Strategies, Scalable System Design, Database Performance Tuning and Optimizing</td>
+    </tr>
+    <tr>
+      <td colspan="2"><i><strong>Soft skills</strong></i></td>
+    </tr>
+     <tr>
+       <td><strong>Team Leadership</strong></td>
+       <td>Successfully led and mentored cross-functional development teams of 5-12 members across multiple startup and enterprise environments, fostering collaborative culture, driving technical excellence, and delivering high-impact solutions while maintaining team motivation and professional growth</td>
+     </tr>
+     <tr>
+       <td><strong>Project Management</strong></td>
+       <td>Orchestrated end-to-end project delivery from initial concept through production deployment, managing complex timelines, stakeholder expectations, and resource allocation while ensuring on-time delivery of mission-critical systems with zero compromise on quality standards</td>
+     </tr>
+     <tr>
+       <td><strong>Agile Methodology</strong></td>
+       <td>Championed SCRUM and agile development practices across multiple organizations, implementing efficient sprint planning, daily standups, retrospectives, and continuous improvement processes that increased team productivity by 30% and reduced time-to-market by 25%</td>
+     </tr>
+     <tr>
+       <td><strong>Strategic Planning</strong></td>
+       <td>Provided strategic technology consulting and architectural decision-making for C-level executives and stakeholders, evaluating emerging technologies, designing scalable solutions, and aligning technical roadmaps with business objectives to drive digital transformation initiatives</td>
+     </tr>
+     <tr>
+       <td><strong>Mentorship</strong></td>
+       <td>Built and developed high-performing engineering teams from the ground up, providing comprehensive technical guidance, conducting code reviews, establishing best practices, and facilitating knowledge transfer that accelerated team member growth and career advancement</td>
+     </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -71,14 +110,69 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ### Zuhlke Group
 
-**Expert Software Engineer** | _Current_
+**Expert Software Engineer** | _Sep 2024 - Current_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | **Zurich Neo Project** - An international insurance platform delivering comprehensive insurance solutions across multiple countries and regions. The platform leverages modern cloud-native architecture to provide innovative insurance products, policy management systems, and claims processing capabilities serving a global customer base.                                                                                                                                                                                                                                                                                                                                                  |
-| **Responsibilities**               | <ul><li>Lead full-stack development initiatives encompassing both backend and frontend components</li><li>Architect and implement complex business logic and algorithms for insurance operations</li><li>Collaborate closely with Business Analysts and stakeholders to gather requirements and deliver new features</li><li>Design and analyze system architecture components for scalability and performance</li><li>Investigate and resolve critical production issues to ensure system reliability</li><li>Coordinate with cross-functional teams to facilitate seamless system integration</li><li>Conduct comprehensive code reviews and maintain elevated code quality standards</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Enhanced full-stack development capabilities within the insurance technology domain</li><li>Advanced system architecture design skills for cloud-native applications</li><li>Strengthened stakeholder collaboration and cross-functional team coordination</li><li>Developed deep expertise in insurance domain knowledge and international compliance requirements</li><li>Gained comprehensive experience with enterprise-grade DevOps and CI/CD methodologies</li></ul>                                                                                                                                                                                                                |
-| **Technologies**                   | <ul><li>Angular (Frontend Framework)</li><li>.NET Core (Backend API)</li><li>Docker (Containerization)</li><li>Kubernetes (Container Orchestration)</li><li>Kafka (Message Streaming)</li><li>TeamCity (CI/CD Pipeline)</li><li>Cloud-Native Architecture</li><li>Microservices Design</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                  |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        <strong>Zurich Neo Project</strong> - An international insurance platform delivering comprehensive insurance solutions across multiple countries and regions. The platform leverages modern cloud-native architecture to provide innovative
+        insurance products, policy management systems, and claims processing capabilities serving a global customer base.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Lead full-stack development initiatives encompassing both backend and frontend components</li>
+          <li>Architect and implement complex business logic and algorithms for insurance operations</li>
+          <li>Collaborate closely with Business Analysts and stakeholders to gather requirements and deliver new features</li>
+          <li>Design and analyze system architecture components for scalability and performance</li>
+          <li>Investigate and resolve critical production issues to ensure system reliability</li>
+          <li>Coordinate with cross-functional teams to facilitate seamless system integration</li>
+          <li>Conduct comprehensive code reviews and maintain elevated code quality standards</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced full-stack development capabilities within the insurance technology domain</li>
+          <li>Advanced system architecture design skills for cloud-native applications</li>
+          <li>Strengthened stakeholder collaboration and cross-functional team coordination</li>
+          <li>Developed deep expertise in insurance domain knowledge and international compliance requirements</li>
+          <li>Gained comprehensive experience with enterprise-grade DevOps and CI/CD methodologies</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies</strong></td>
+      <td>
+        <ul>
+          <li>Angular (Frontend Framework)</li>
+          <li>.NET Core (Backend API)</li>
+          <li>RavenDB</li>
+          <li>PostgreSQL</li>
+          <li>Docker (Containerization)</li>
+          <li>Kubernetes (Container Orchestration)</li>
+          <li>Kafka (Message Streaming)</li>
+          <li>RabbitMQ</li>
+          <li>TeamCity (CI/CD Pipeline)</li>
+          <li>Cloud-Native Architecture</li>
+          <li>Microservices Design</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -86,12 +180,71 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Team Leader, Senior Engineer** | _Singapore_ | _Sep 2023 - Sep 2024_
 
-| **Aspect**           | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Project**          | Developed and maintained a comprehensive tool for external EIPs to submit data into internal systems. This solution serves as the primary validation gateway for all external inputs and provides comprehensive stakeholder notification capabilities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Responsibilities** | <ul><li>Collaborated closely with Business Analysts and QA teams to establish system design requirements before sprint initiation</li><li>Maintained and enhanced a six-year-old project while preserving its core functionality</li><li>Developed comprehensive plans and allocated resources for upcoming release cycles</li><li>Provided on-call support for partners to ensure continuous system availability</li><li>Coordinated and supported all release schedules to maintain project timelines</li><li>Conducted log analysis and provided support for partners during production issues</li><li>Authored comprehensive engineering specifications for new feature implementations</li><li>Prepared migration strategies for integration with new system components</li><li>Proposed comprehensive upgrade strategies for legacy system features</li><li>Served as the primary engineer responsible for all team-developed features</li></ul> |
-| **Achievements**     | <ul><li>Enhanced client-centric approach and stakeholder satisfaction</li><li>Redesigned and optimized developer team workflows for improved efficiency</li><li>Strengthened leadership capabilities and fostered team collaboration</li><li>Eliminated technical debt and restructured components for improved code maintainability</li><li>Gained valuable experience in upgrading legacy systems to modern technology stacks</li><li>Developed rapid adaptation skills in high-demand technical environments</li><li>Acquired proficiency in multiple technology platforms through self-directed learning</li><li>Consolidated knowledge and expertise in enterprise system architecture</li></ul>                                                                                                                                                                                                                                                  |
-| **Technologies**     | <ul><li>.NET Framework</li><li>.NET Core</li><li>Kibana with Elasticsearch for logging</li><li>DataDog</li><li>Kubernetes</li><li>CloudBees</li><li>GitLab CI/CD</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        Developed and maintained a comprehensive tool for external EIPs to submit data into internal systems. This solution serves as the primary validation gateway for all external inputs and provides comprehensive stakeholder notification
+        capabilities.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Collaborated closely with Business Analysts and QA teams to establish system design requirements before sprint initiation</li>
+          <li>Maintained and enhanced a six-year-old project while preserving its core functionality</li>
+          <li>Developed comprehensive plans and allocated resources for upcoming release cycles</li>
+          <li>Provided on-call support for partners to ensure continuous system availability</li>
+          <li>Coordinated and supported all release schedules to maintain project timelines</li>
+          <li>Conducted log analysis and provided support for partners during production issues</li>
+          <li>Authored comprehensive engineering specifications for new feature implementations</li>
+          <li>Prepared migration strategies for integration with new system components</li>
+          <li>Proposed comprehensive upgrade strategies for legacy system features</li>
+          <li>Served as the primary engineer responsible for all team-developed features</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced client-centric approach and stakeholder satisfaction</li>
+          <li>Redesigned and optimized developer team workflows for improved efficiency</li>
+          <li>Strengthened leadership capabilities and fostered team collaboration</li>
+          <li>Eliminated technical debt and restructured components for improved code maintainability</li>
+          <li>Gained valuable experience in upgrading legacy systems to modern technology stacks</li>
+          <li>Developed rapid adaptation skills in high-demand technical environments</li>
+          <li>Acquired proficiency in multiple technology platforms through self-directed learning</li>
+          <li>Consolidated knowledge and expertise in enterprise system architecture</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies</strong></td>
+      <td>
+        <ul>
+          <li>.NET Framework</li>
+          <li>.NET Core</li>
+          <li>PostgreSQL</li>
+          <li>SQL Server</li>
+          <li>Kibana with Elasticsearch for logging</li>
+          <li>DataDog</li>
+          <li>Kubernetes</li>
+          <li>CloudBees</li>
+          <li>GitLab CI/CD</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -99,12 +252,67 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Team Leader, Fullstack Engineer** | _Oct 2021 - Sep 2023_
 
-| **Aspect**           | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Project**          | Express Web is a comprehensive web portal focused on Grab for Business, designed to process high-volume daily orders. The platform provides essential tools including Shopify integration, Bulk Upload capabilities, Route Optimization for partners, and comprehensive Order tracking functionality.<br><br>**URL:** [https://express.grab.com/en](https://express.grab.com/en)                                                                                                                                                                                                                                                                                                                                                                             |
-| **Responsibilities** | <ul><li>Collaborated closely with Product Owners and QA teams to establish system design requirements before sprint initiation</li><li>Provided on-call support for stakeholders to ensure continuous system availability</li><li>Conducted comprehensive log analysis and provided support to team members during system issues</li><li>Authored detailed engineering specifications for new feature implementations</li><li>Served as the primary engineer responsible for all team-developed features</li></ul>                                                                                                                                                                                                                                           |
-| **Achievements**     | <ul><li>Enhanced client-centric approach and stakeholder satisfaction</li><li>Strengthened leadership capabilities and fostered team collaboration</li><li>Eliminated accumulated technical debt to improve system performance</li><li>Consolidated knowledge and expertise in enterprise system architecture</li><li>Gained valuable experience in building and developing teams from the ground up</li><li>Contributed to a consistent monthly increase of over 5% in Grab Express Web usage, with peak usage reaching 20% following the Bulk Upload feature launch</li><li>Developed rapid adaptation skills in high-demand technical environments</li><li>Acquired proficiency in multiple technology platforms through self-directed learning</li></ul> |
-| **Technologies**     | <ul><li>Golang</li><li>gRPC</li><li>React with Observable</li><li>Monorepo Architecture</li><li>Kibana with Elasticsearch for logging</li><li>DataDog</li><li>Kubernetes</li><li>GitLab CI/CD</li><li>Docusaurus for API Documentation</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        Express Web is a comprehensive web portal focused on Grab for Business, designed to process high-volume daily orders. The platform provides essential tools including Shopify integration, Bulk Upload capabilities, Route Optimization for
+        partners, and comprehensive Order tracking functionality.<br /><br /><strong>URL:</strong> <a href="https://express.grab.com/en">https://express.grab.com/en</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Collaborated closely with Product Owners and QA teams to establish system design requirements before sprint initiation</li>
+          <li>Provided on-call support for stakeholders to ensure continuous system availability</li>
+          <li>Conducted comprehensive log analysis and provided support to team members during system issues</li>
+          <li>Authored detailed engineering specifications for new feature implementations</li>
+          <li>Served as the primary engineer responsible for all team-developed features</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced client-centric approach and stakeholder satisfaction</li>
+          <li>Strengthened leadership capabilities and fostered team collaboration</li>
+          <li>Eliminated accumulated technical debt to improve system performance</li>
+          <li>Consolidated knowledge and expertise in enterprise system architecture</li>
+          <li>Gained valuable experience in building and developing teams from the ground up</li>
+          <li>Contributed to a consistent monthly increase of over 5% in Grab Express Web usage, with peak usage reaching 20% following the Bulk Upload feature launch</li>
+          <li>Developed rapid adaptation skills in high-demand technical environments</li>
+          <li>Acquired proficiency in multiple technology platforms through self-directed learning</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies</strong></td>
+      <td>
+        <ul>
+          <li>Golang</li>
+          <li>gRPC</li>
+          <li>MySQL</li>
+          <li>React with Observable</li>
+          <li>Monorepo Architecture</li>
+          <li>Kibana with Elasticsearch for logging</li>
+          <li>DataDog</li>
+          <li>Kubernetes</li>
+          <li>GitLab CI/CD</li>
+          <li>Docusaurus for API Documentation</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -112,12 +320,70 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Tech Architect, Team Leader, Fullstack Engineer** | _Jun 2021 – Present_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Developed a comprehensive online learning platform for children that facilitates connections between tutors and parents. The platform provides an integrated environment for tutors to advertise their courses, manage class scheduling, and interact with their learners effectively.                                                                                                                                                                                                                                                          |
-| **Responsibilities**               | <ul><li>Led a startup team through comprehensive project development, managing all aspects from recruitment to financial planning</li><li>Coordinated with sales teams and addressed market demands to ensure product-market fit</li><li>Supported team growth through recruitment and interview processes for new members</li><li>Monitored team performance and generated comprehensive financial reports for sponsors and investors</li><li>Made critical technical decisions to guide product development and system architecture</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Successfully developed a product from concept to market deployment</li><li>Achieved a significant career milestone by leading a project throughout its complete lifecycle</li><li>Led recruitment initiatives and mentored new team members to foster team growth</li><li>Developed problem-solving skills in dynamic startup environments</li><li>Built a comprehensive project from initial concept to production deployment</li><li>Gained valuable experience in building and developing teams from the ground up</li></ul>         |
-| **Tech Stacks**                    | <ul><li>Web API .NET Core</li><li>SQL Server</li><li>Entity Framework</li><li>Angular 12</li><li>Azure Functions and Platform Services</li><li>Azure AD OAuth Integration</li><li>Zoom Integration</li><li>Stripe Payment Integration</li><li>Lokalise</li><li>Crowdin</li><li>WordPress</li><li>GitHub Pipeline</li><li>RabbitMQ</li></ul>                                                                                                                                                                                                     |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        Developed a comprehensive online learning platform for children that facilitates connections between tutors and parents. The platform provides an integrated environment for tutors to advertise their courses, manage class scheduling, and
+        interact with their learners effectively.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li><strong>Architecture Ownership & Solution Design:</strong> Led comprehensive system architecture design, making critical technical decisions for product development and system scalability</li>
+          <li><strong>Technology Consulting & Solution Selection:</strong> Provided strategic technology consulting, evaluated and selected optimal tech stacks, and established standardized backend architecture guidelines</li>
+          <li><strong>Performance & Security Optimization:</strong> Designed and implemented performance optimization strategies, security protocols, and scalable system architectures</li>
+          <li><strong>System Modernization & Migration:</strong> Led legacy system modernization initiatives and migration strategies to improve system efficiency and maintainability</li>
+          <li><strong>Team Leadership & Technical Guidance:</strong> Led startup team development, managed recruitment, and provided technical mentorship to ensure architectural consistency</li>
+          <li><strong>Business Alignment:</strong> Coordinated with sales teams and addressed market demands to ensure product-market fit and technical feasibility</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li><strong>Architecture Excellence:</strong> Successfully designed and implemented scalable, secure system architecture from concept to production deployment</li>
+          <li><strong>Technical Leadership:</strong> Established standardized development guidelines, code review processes, and architectural best practices for the development team</li>
+          <li><strong>Performance Optimization:</strong> Implemented system performance improvements and optimization strategies that enhanced user experience and system reliability</li>
+          <li><strong>Security Implementation:</strong> Designed and implemented comprehensive security protocols including OAuth integration, data encryption, and secure payment processing</li>
+          <li><strong>Technology Strategy:</strong> Made strategic technology decisions that balanced scalability, maintainability, and business requirements</li>
+          <li><strong>Team Development:</strong> Built and mentored development teams, ensuring architectural consistency and technical excellence across all projects</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Web API .NET Core</li>
+          <li>SQL Server</li>
+          <li>Entity Framework</li>
+          <li>Angular 12</li>
+          <li>Azure Functions and Platform Services</li>
+          <li>Azure AD OAuth Integration</li>
+          <li>Zoom Integration</li>
+          <li>Stripe Payment Integration</li>
+          <li>Lokalise</li>
+          <li>Crowdin</li>
+          <li>WordPress</li>
+          <li>GitHub Pipeline</li>
+          <li>RabbitMQ</li>
+          <li>Kafka</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -125,12 +391,65 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Principal Developer / Team Leader** | _Oct 2019 - Apr 2021_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | **TradeTeq Project** - A sophisticated trading platform that connects banks and financial institutions, providing comprehensive management of financial instruments, letters of credit, notes, reconciliations, portfolios, funds, deals, and negotiations. The platform calculates interest and reconciliations on a daily basis, utilizing Azure functions as a message queue service and leveraging the full capabilities of Azure Portal and Azure DevOps. The system features well-established and thoroughly tested workflows between teams, implementing a multi-pod architecture to address banking security requirements, where each bank maintains its own system and database while ensuring data synchronization and privacy. |
-| **Responsibilities**               | <ul><li>Analyzed requirements and designed comprehensive system architecture for each sprint</li><li>Coordinated with and provided support to the London-based team</li><li>Broke down, assigned, and monitored tasks to achieve sprint objectives</li><li>Provided comprehensive support to team members to ensure task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Monitored system health and functionality to ensure optimal performance</li><li>Conducted comprehensive testing to validate system functionality</li></ul>                                                                                                                                                              |
-| **Achievements and Skills Gained** | <ul><li>Enhanced client-centric approach and stakeholder satisfaction</li><li>Strengthened leadership capabilities and team management skills</li><li>Advanced technical skills in Azure platform development and management</li><li>Improved multitasking abilities and project coordination skills</li><li>Significantly enhanced SCRUM process implementation and team collaboration</li><li>Improved user interface and user experience design capabilities</li></ul>                                                                                                                                                                                                                                                                 |
-| **Tech Stacks**                    | <ul><li>Web API .NET Core</li><li>SQL Server</li><li>Entity Framework</li><li>Angular 7</li><li>Azure Functions and Platform Services</li><li>Multi-pod/Tenant Architecture</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        <strong>TradeTeq Project</strong> - A sophisticated trading platform that connects banks and financial institutions, providing comprehensive management of financial instruments, letters of credit, notes, reconciliations, portfolios, funds,
+        deals, and negotiations. The platform calculates interest and reconciliations on a daily basis, utilizing Azure functions as a message queue service and leveraging the full capabilities of Azure Portal and Azure DevOps. The system features
+        well-established and thoroughly tested workflows between teams, implementing a multi-pod architecture to address banking security requirements, where each bank maintains its own system and database while ensuring data synchronization and
+        privacy.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Analyzed requirements and designed comprehensive system architecture for each sprint</li>
+          <li>Coordinated with and provided support to the London-based team</li>
+          <li>Broke down, assigned, and monitored tasks to achieve sprint objectives</li>
+          <li>Provided comprehensive support to team members to ensure task completion</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Monitored system health and functionality to ensure optimal performance</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced client-centric approach and stakeholder satisfaction</li>
+          <li>Strengthened leadership capabilities and team management skills</li>
+          <li>Advanced technical skills in Azure platform development and management</li>
+          <li>Improved multitasking abilities and project coordination skills</li>
+          <li>Significantly enhanced SCRUM process implementation and team collaboration</li>
+          <li>Improved user interface and user experience design capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Web API .NET Core</li>
+          <li>SQL Server</li>
+          <li>Entity Framework</li>
+          <li>Angular 7</li>
+          <li>Azure Functions and Platform Services</li>
+          <li>Multi-pod/Tenant Architecture</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -138,12 +457,57 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Principal Developer** | _Oct 2018 - Jul 2019_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | E-commerce platform development and comprehensive system maintenance                                                                                                                                                                                                                                                                                                                                                                |
-| **Responsibilities**               | <ul><li>Executed assigned development tasks and performed comprehensive product maintenance</li><li>Served as both developer and team leader to ensure project success</li><li>Provided support to team members to facilitate task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul>                              |
-| **Achievements and Skills Gained** | <ul><li>Developed comprehensive understanding of end-user perspectives and requirements</li><li>Enhanced technical skills in ReactJS with TypeScript and .NET Core Web API development</li><li>Advanced proficiency in GitLab CI/CD and Docker containerization</li><li>Gained familiarity with SCRUM methodology and agile development practices</li><li>Improved user interface and user experience design capabilities</li></ul> |
-| **Tech Stacks**                    | <ul><li>ReactJS with TypeScript</li><li>.NET Core Web API</li><li>GitLab CI/CD</li><li>Docker</li></ul>                                                                                                                                                                                                                                                                                                                             |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>E-commerce platform development and comprehensive system maintenance</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Executed assigned development tasks and performed comprehensive product maintenance</li>
+          <li>Served as both developer and team leader to ensure project success</li>
+          <li>Provided support to team members to facilitate task completion</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Developed comprehensive understanding of end-user perspectives and requirements</li>
+          <li>Enhanced technical skills in ReactJS with TypeScript and .NET Core Web API development</li>
+          <li>Advanced proficiency in GitLab CI/CD and Docker containerization</li>
+          <li>Gained familiarity with SCRUM methodology and agile development practices</li>
+          <li>Improved user interface and user experience design capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>ReactJS with TypeScript</li>
+          <li>.NET Core Web API</li>
+          <li>MongoDB</li>
+          <li>SQL Server</li>
+          <li>GitLab CI/CD</li>
+          <li>Docker</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -151,12 +515,55 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Senior Developer** | _Apr 2017 - Oct 2018_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Software development and comprehensive system architecture design                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Responsibilities**               | <ul><li>Executed assigned development tasks and enhanced production systems</li><li>Designed comprehensive system flows, architecture, and database schemas</li><li>Served as primary developer for system components</li><li>Provided support to team members to facilitate task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Developed comprehensive understanding of end-user perspectives and requirements</li><li>Enhanced technical skills in Angular 2-5 and Web API development</li><li>Gained familiarity with SCRUM methodology and agile development practices</li><li>Improved user interface and user experience design capabilities</li></ul>                                                                                                                  |
-| **Tech Stacks**                    | <ul><li>Angular 2-5</li><li>Web API</li><li>Database Design</li><li>System Architecture</li></ul>                                                                                                                                                                                                                                                                                                                                                     |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Software development and comprehensive system architecture design</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Executed assigned development tasks and enhanced production systems</li>
+          <li>Designed comprehensive system flows, architecture, and database schemas</li>
+          <li>Served as primary developer for system components</li>
+          <li>Provided support to team members to facilitate task completion</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Developed comprehensive understanding of end-user perspectives and requirements</li>
+          <li>Enhanced technical skills in Angular 2-5 and Web API development</li>
+          <li>Gained familiarity with SCRUM methodology and agile development practices</li>
+          <li>Improved user interface and user experience design capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Angular 2-5</li>
+          <li>Web API</li>
+          <li>Database Design</li>
+          <li>System Architecture</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -164,12 +571,58 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Developer/Team Leader** | _Jan 2013 - Present_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Various client projects and freelance development initiatives                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Responsibilities**               | <ul><li>Conducted client meetings to gather comprehensive requirements</li><li>Designed system flows, architecture, and database schemas</li><li>Planned tasks and established project milestones and objectives</li><li>Served as primary developer for system components</li><li>Provided support to team members to facilitate task completion</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Enhanced team leadership and project management capabilities</li><li>Improved task management and project coordination skills</li><li>Advanced requirements gathering and stakeholder communication skills</li><li>Strengthened development and programming capabilities</li></ul>                                                                                                                                                                                                                 |
-| **Tech Stacks**                    | <ul><li>Various technologies based on project requirements</li><li>System Architecture Design</li><li>Database Design</li><li>Project Management</li></ul>                                                                                                                                                                                                                                                                                                                                                 |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Various client projects and freelance development initiatives</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Conducted client meetings to gather comprehensive requirements</li>
+          <li>Designed system flows, architecture, and database schemas</li>
+          <li>Planned tasks and established project milestones and objectives</li>
+          <li>Served as primary developer for system components</li>
+          <li>Provided support to team members to facilitate task completion</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced team leadership and project management capabilities</li>
+          <li>Improved task management and project coordination skills</li>
+          <li>Advanced requirements gathering and stakeholder communication skills</li>
+          <li>Strengthened development and programming capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Various technologies based on project requirements</li>
+          <li>System Architecture Design</li>
+          <li>C#, NodeJs, Angular, ReactJS, Go, Python</li>
+          <li>MongoDB, SQL Server, MySQL</li>
+          <li>Database Design</li>
+          <li>Project Management</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -177,12 +630,51 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Business Analyst** | _Sep 2014 - Jan 2015_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                     |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Business analysis and comprehensive requirements gathering for software projects                                                                                                                                                                                                                                |
-| **Responsibilities**               | <ul><li>Communicated with clients and departments to derive comprehensive requirements</li><li>Defined business flows and process mappings</li><li>Investigated current system architecture and functionality</li><li>Coordinated with project managers to establish milestones and release schedules</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Enhanced business analysis and requirements gathering capabilities</li><li>Developed strong teamwork and collaboration skills</li></ul>                                                                                                                                                                 |
-| **Tech Stacks**                    | <ul><li>Business Analysis</li><li>Requirements Gathering</li><li>Process Mapping</li><li>System Investigation</li></ul>                                                                                                                                                                                         |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Business analysis and comprehensive requirements gathering for software projects</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Communicated with clients and departments to derive comprehensive requirements</li>
+          <li>Defined business flows and process mappings</li>
+          <li>Investigated current system architecture and functionality</li>
+          <li>Coordinated with project managers to establish milestones and release schedules</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Enhanced business analysis and requirements gathering capabilities</li>
+          <li>Developed strong teamwork and collaboration skills</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Business Analysis</li>
+          <li>Requirements Gathering</li>
+          <li>Process Mapping</li>
+          <li>System Investigation</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -190,12 +682,54 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Project Coordinator/Business Analyst** | _Jun 2013 - Aug 2014_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                              |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Project**                        | Project coordination and business analysis for software development initiatives                                                                                                                                                                                                                                                                                          |
-| **Responsibilities**               | <ul><li>Communicated with clients to derive comprehensive requirements</li><li>Created detailed analysis documents, business flows, system flows, use cases, and database schemas</li><li>Investigated current system architecture and functionality</li><li>Planned and assigned tasks to team members</li><li>Provided comprehensive support to team members</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Developed comprehensive understanding of project manager roles in SDLC</li><li>Enhanced teamwork and collaboration capabilities</li><li>Advanced system architecture design and planning skills</li></ul>                                                                                                                                                        |
-| **Tech Stacks**                    | <ul><li>Business Analysis</li><li>System Architecture Design</li><li>Project Coordination</li><li>Documentation</li><li>Task Planning</li></ul>                                                                                                                                                                                                                          |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Project coordination and business analysis for software development initiatives</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Communicated with clients to derive comprehensive requirements</li>
+          <li>Created detailed analysis documents, business flows, system flows, use cases, and database schemas</li>
+          <li>Investigated current system architecture and functionality</li>
+          <li>Planned and assigned tasks to team members</li>
+          <li>Provided comprehensive support to team members</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Developed comprehensive understanding of project manager roles in SDLC</li>
+          <li>Enhanced teamwork and collaboration capabilities</li>
+          <li>Advanced system architecture design and planning skills</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Business Analysis</li>
+          <li>System Architecture Design</li>
+          <li>Project Coordination</li>
+          <li>Documentation</li>
+          <li>Task Planning</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -203,22 +737,94 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 **Developer** | _Jan 2010 - 2013_
 
-| **Aspect**                         | **Details**                                                                                                                                                                                                                                                                                                                                                 |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project**                        | Software development and comprehensive system design projects                                                                                                                                                                                                                                                                                               |
-| **Responsibilities**               | <ul><li>Conducted client meetings to gather comprehensive requirements</li><li>Designed system flows, architecture, and database schemas</li><li>Served as primary developer for system components</li><li>Resolved technical challenges and system issues as they arose</li><li>Conducted comprehensive testing to validate system functionality</li></ul> |
-| **Achievements and Skills Gained** | <ul><li>Developed comprehensive understanding of Software Development Life Cycle (SDLC)</li><li>Enhanced knowledge of design patterns and software architecture principles</li><li>Strengthened development and programming capabilities</li></ul>                                                                                                          |
-| **Tech Stacks**                    | <ul><li>Software Development</li><li>System Architecture Design</li><li>Database Design</li><li>Design Patterns</li><li>SDLC</li></ul>                                                                                                                                                                                                                      |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Software development and comprehensive system design projects</td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Conducted client meetings to gather comprehensive requirements</li>
+          <li>Designed system flows, architecture, and database schemas</li>
+          <li>Served as primary developer for system components</li>
+          <li>Resolved technical challenges and system issues as they arose</li>
+          <li>Conducted comprehensive testing to validate system functionality</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Developed comprehensive understanding of Software Development Life Cycle (SDLC)</li>
+          <li>Enhanced knowledge of design patterns and software architecture principles</li>
+          <li>Strengthened development and programming capabilities</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks</strong></td>
+      <td>
+        <ul>
+          <li>Software Development</li>
+          <li>System Architecture Design</li>
+          <li>Database Design</li>
+          <li>Design Patterns</li>
+          <li>SDLC</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🎓 Certificates & Education
 
-| **Certificate/Education**                                              | **Institution**    | **Year** | **Details**       |
-| ---------------------------------------------------------------------- | ------------------ | -------- | ----------------- |
-| **Bachelor Degree of Information Technology**                          | Hoa Sen University | 2012     | GPA: 3.12 / 4.0   |
-| **TOEIC Certificate**                                                  | IIG Vietnam        | 2009     | 700 points        |
-| **Consolation Prize of Hoa Sen University Scientific Research Awards** | Hoa Sen University | Aug 2012 | Consolation Prize |
-| **Fundamental of Engineering (FE) (Japanese) Certificate**             | Hoa Sen University | Oct 2012 | 1295 points       |
+<table>
+  <thead>
+    <tr>
+      <th><strong>Certificate/Education</strong></th>
+      <th><strong>Institution</strong></th>
+      <th><strong>Year</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Bachelor Degree of Information Technology</strong></td>
+      <td>Hoa Sen University</td>
+      <td>2012</td>
+      <td>GPA: 3.12 / 4.0</td>
+    </tr>
+    <tr>
+      <td><strong>TOEIC Certificate</strong></td>
+      <td>IIG Vietnam</td>
+      <td>2009</td>
+      <td>700 points</td>
+    </tr>
+    <tr>
+      <td><strong>Consolation Prize of Hoa Sen University Scientific Research Awards</strong></td>
+      <td>Hoa Sen University</td>
+      <td>Aug 2012</td>
+      <td>Consolation Prize</td>
+    </tr>
+    <tr>
+      <td><strong>Fundamental of Engineering (FE) (Japanese) Certificate</strong></td>
+      <td>Hoa Sen University</td>
+      <td>Oct 2012</td>
+      <td>1295 points</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
