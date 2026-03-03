@@ -79,6 +79,10 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td>System Optimization, Load Balancing, Caching Strategies, Scalable System Design, Database Performance Tuning and Optimizing</td>
     </tr>
     <tr>
+      <td><strong>AI Agents & Developer Tools</strong></td>
+      <td>AI coding agents and multi-agent workflows using Cursor, Claude, and Cline; custom MCP integrations to connect tools and data; applied to projects like Yetty.io to consistently achieve up to <strong>3× productivity</strong> compared to traditional solo development workflows</td>
+    </tr>
+    <tr>
       <td colspan="2"><i><strong>Soft skills</strong></i></td>
     </tr>
      <tr>
@@ -107,6 +111,64 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 ---
 
 ## 💼 Work Experience
+
+### Yetty.io
+
+**Founding Engineer / Tech Architect / Principal Engineer** | _Oct 2025 - Present_
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        <strong>Yetty.io</strong> – An AI-driven content generation and scheduling platform designed for AI and virtual influencers. The platform helps creators plan, generate, and schedule posts across channels while managing virtual influencer personas. It includes a dedicated MCP layer that connects tools and data sources to AI agents, enabling richer context and more reliable automation.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Owned end-to-end system architecture and technical direction as Founding Engineer / Tech Architect / Principal Engineer</li>
+          <li>Designed and implemented the Node.js backend and React-based frontend for content generation, scheduling, and virtual influencer management</li>
+          <li>Designed MongoDB data models and access patterns to support scalable content, scheduling, and influencer profiles</li>
+          <li>Built a custom MCP integration layer to expose internal tools, APIs, and data sources to AI agents</li>
+          <li>Set up development workflows, coding standards, and tooling around AI agents to accelerate feature delivery and experimentation</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Impact</strong></td>
+      <td>
+        <ul>
+          <li>Leveraged AI coding agents (Cursor, Claude, Cline) in a coordinated multi-agent workflow to achieve approximately <strong>3× productivity</strong> compared to prior solo development workflows</li>
+          <li>Significantly reduced feature iteration time for new content pipelines and scheduling capabilities</li>
+          <li>Improved reliability and consistency of scheduled content and virtual influencer outputs through better observability and MCP-driven automation</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tech Stacks & AI Agents</strong></td>
+      <td>
+        <ul>
+          <li>Node.js, TypeScript (backend services and APIs)</li>
+          <li>React (frontend application for creators and operators)</li>
+          <li>MongoDB (primary data store)</li>
+          <li>Integrations: Ayshare, Kie.ai, Suno, Stripe</li>
+          <li>Custom MCP integrations for tools and external APIs</li>
+          <li>AI agents and tooling: Cursor, Claude, Cline, multi-agent workflow design</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ### Zuhlke Group
 
