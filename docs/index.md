@@ -433,6 +433,10 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>Angular 12</li>
           <li>Azure Functions and Platform Services</li>
           <li>Azure AD OAuth Integration</li>
+          <li>MediatR / CQRS</li>
+          <li>RBAC</li>
+          <li>SaaS</li>
+          <li>Blazor</li>
           <li>Zoom Integration</li>
           <li>Stripe Payment Integration</li>
           <li>Lokalise</li>
@@ -507,6 +511,10 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>Angular 7</li>
           <li>Azure Functions and Platform Services</li>
           <li>Multi-pod/Tenant Architecture</li>
+          <li>MediatR / CQRS</li>
+          <li>RBAC</li>
+          <li>SaaS</li>
+          <li>Blazor</li>
         </ul>
       </td>
     </tr>
