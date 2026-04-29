@@ -380,7 +380,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ### Kassom
 
-**Tech Architect, Team Leader, Fullstack Engineer** | _Jun 2021 – Present_
+**Tech Architect, Team Leader, Fullstack Engineer** | _Jun 2021 – Oct 2024_
 
 <table>
   <thead>
