@@ -64,11 +64,11 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
     </tr>
     <tr>
       <td><strong>Cloud & DevOps</strong></td>
-      <td>Docker, Kubernetes, Azure Services, Azure Functions, GitLab CI/CD, TeamCity, GitHub Pipeline</td>
+      <td>Docker, Kubernetes, Azure Services, Azure Functions, Azure API Management, GitLab CI/CD, TeamCity, GitHub Pipeline</td>
     </tr>
     <tr>
       <td><strong>Message Queues</strong></td>
-      <td>Kafka, RabbitMQ, Redis</td>
+      <td>Kafka, RabbitMQ, Redis, Azure Service Bus</td>
     </tr>
     <tr>
       <td><strong>System Architecture</strong></td>
@@ -431,7 +431,10 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>SQL Server</li>
           <li>Entity Framework</li>
           <li>Angular 12</li>
-          <li>Azure Functions and Platform Services</li>
+          <li>Azure Functions</li>
+          <li>Azure Service Bus</li>
+          <li>Azure API Management</li>
+          <li>Azure Platform Services</li>
           <li>Azure AD OAuth Integration</li>
           <li>MediatR / CQRS</li>
           <li>RBAC</li>
@@ -469,7 +472,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Project</strong></td>
       <td>
         <strong>TradeTeq Project</strong> - A sophisticated trading platform that connects banks and financial institutions, providing comprehensive management of financial instruments, letters of credit, notes, reconciliations, portfolios, funds,
-        deals, and negotiations. The platform calculates interest and reconciliations on a daily basis, utilizing Azure functions as a message queue service and leveraging the full capabilities of Azure Portal and Azure DevOps. The system features
+        deals, and negotiations. The platform calculates interest and reconciliations on a daily basis, using Azure Service Bus for messaging and Azure Functions for scheduled and event-driven processing, with Azure API Management for API governance, and leveraging the full capabilities of Azure Portal and Azure DevOps. The system features
         well-established and thoroughly tested workflows between teams, implementing a multi-pod architecture to address banking security requirements, where each bank maintains its own system and database while ensuring data synchronization and
         privacy.
       </td>
@@ -509,7 +512,10 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>SQL Server</li>
           <li>Entity Framework</li>
           <li>Angular 7</li>
-          <li>Azure Functions and Platform Services</li>
+          <li>Azure Functions</li>
+          <li>Azure Service Bus</li>
+          <li>Azure API Management</li>
+          <li>Azure Platform Services</li>
           <li>Multi-pod/Tenant Architecture</li>
           <li>MediatR / CQRS</li>
           <li>RBAC</li>
