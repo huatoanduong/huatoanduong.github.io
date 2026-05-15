@@ -31,7 +31,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 - **Phone:** [+84.395.212.532 (VN)](https://zalo.me/0395212532)
 - **Email:** [huatoan.duong@gmail.com](mailto:huatoan.duong@gmail.com)
 - **Facebook:** [https://www.facebook.com/huatoan.duong](https://www.facebook.com/huatoan.duong)
-- **LinkedIn:** [https://www.linkedin.com/in/huatoanduong/](https://www.linkedin.com/in/huatoanduong/)
+- **LinkedIn:** [https://www.linkedin.com/in/hua-toan-duong/](https://www.linkedin.com/in/hua-toan-duong/)
 <!-- - **Skype:** go_with_me2005 -->
 
 ---
