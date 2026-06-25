@@ -37,7 +37,7 @@ This section contains configuration files for Sublime Text 4, a sophisticated te
 ### Windows Settings
 **File:** `keymaps/sublime-4/settings-windows.json`
 
-??? settings-windows.json
+??? settings-windows json
     
     ```json
     --8<-- "keymaps/sublime-4/settings-windows.json"
