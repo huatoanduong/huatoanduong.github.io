@@ -27,13 +27,13 @@ With 14 years working in IT industry, also in charge of some positions from anal
 **Hoa Sen University** | 2012  
 GPA: 3.12 / 4
 
+### IELTS Certificate
+**IDP / British Council** | Jun 2026  
+Overall: 6.0
+
 ### TOEIC Certificate
 **University of Science, Vietnam National University** | 2009  
 700 points
-
-### IELTS Certificate
-**IDP / British Council** | Jun 2026  
-Overall: 6.0 — L: 6.0, R: 6.5, W: 6.5, S: 5.0
 
 ### Consolation prize of Hoa Sen University Scientific Research Awards
 **Hoa Sen University** | Aug 2012  
