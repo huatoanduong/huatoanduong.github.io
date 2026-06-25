@@ -13,6 +13,10 @@ GPA: 3.12 / 4
 **University of Science, Vietnam National University** | 2009  
 700 points
 
+## IELTS Certificate
+**IDP / British Council** | Jun 2026  
+Overall: 6.0 — L: 6.0, R: 6.5, W: 6.5, S: 5.0
+
 ## Consolation prize of Hoa Sen University Scientific Research Awards
 **Hoa Sen University** | Aug 2012  
 Consolation Prize
