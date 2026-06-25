@@ -889,6 +889,12 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td>700 points</td>
     </tr>
     <tr>
+      <td><strong>IELTS Certificate</strong></td>
+      <td>IDP / British Council</td>
+      <td>Jun 2026</td>
+      <td>Overall: 6.0 — (L: 6.0, R: 6.5, W: 6.5, S: 5.0)</td>
+    </tr>
+    <tr>
       <td><strong>Consolation Prize of Hoa Sen University Scientific Research Awards</strong></td>
       <td>Hoa Sen University</td>
       <td>Aug 2012</td>
