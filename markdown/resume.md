@@ -28,7 +28,7 @@ With 14 years working in IT industry, also in charge of some positions from anal
 GPA: 3.12 / 4
 
 ### IELTS Certificate
-**IDP / British Council** | Jun 2026  
+**IDP** | Jun 2026  
 Overall: 6.0
 
 ### TOEIC Certificate

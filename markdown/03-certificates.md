@@ -10,7 +10,7 @@ lastUpdated: "2024-01-15"
 GPA: 3.12 / 4
 
 ## IELTS Certificate
-**IDP / British Council** | Jun 2026  
+**IDP** | Jun 2026  
 Overall: 6.0
 
 ## TOEIC Certificate
