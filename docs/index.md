@@ -884,7 +884,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
     </tr>
     <tr>
       <td><strong>IELTS Certificate</strong></td>
-      <td>IDP / British Council</td>
+      <td>IDP</td>
       <td>Jun 2026</td>
       <td>Overall: 6.0</td>
     </tr>
