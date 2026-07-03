@@ -24,6 +24,8 @@
     }
   },
   "git.enableSmartCommit": true,
+  "git.fetchOnPull": true,
+  "git.pruneOnFetch": true,
   "javascript.referencesCodeLens.enabled": true,
   "typescript.implementationsCodeLens.enabled": true,
   "typescript.referencesCodeLens.enabled": true,
