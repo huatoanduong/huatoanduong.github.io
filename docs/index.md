@@ -127,7 +127,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
     <tr>
       <td><strong>Project</strong></td>
       <td>
-        <strong>Yetty.io</strong> – An AI-driven content generation and scheduling platform designed for AI and virtual influencers. The platform helps creators plan, generate, and schedule posts across channels while managing virtual influencer personas. It includes a dedicated MCP layer that connects tools and data sources to AI agents, enabling richer context and more reliable automation.
+        <strong>Yetty.io</strong> – An AI-driven content generation and scheduling platform designed for AI and virtual influencers. The platform helps creators plan, generate, and schedule posts across channels while managing virtual influencer personas. It includes a dedicated MCP layer that connects tools and data sources to AI agents, enabling richer context and more reliable automation. The backend combines a Node.js/TypeScript core with dedicated .NET (ASP.NET Core) microservices for specific domain workloads.
       </td>
     </tr>
     <tr>
@@ -136,6 +136,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
         <ul>
           <li>Owned end-to-end system architecture and technical direction as Founding Engineer / Tech Architect / Principal Engineer</li>
           <li>Designed and implemented the Node.js backend and React-based frontend for content generation, scheduling, and virtual influencer management</li>
+          <li>Designed and implemented .NET (ASP.NET Core) microservices for domain-specific backend workloads (e.g., billing/integrations and high-throughput processing), running alongside the Node.js core services</li>
           <li>Designed MongoDB data models and access patterns to support scalable content, scheduling, and influencer profiles</li>
           <li>Built a custom MCP integration layer to expose internal tools, APIs, and data sources to AI agents</li>
           <li>Set up development workflows, coding standards, and tooling around AI agents to accelerate feature delivery and experimentation</li>
@@ -149,6 +150,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>Leveraged AI coding agents (Cursor, Claude, Cline) in a coordinated multi-agent workflow to achieve approximately <strong>3× productivity</strong> compared to prior solo development workflows</li>
           <li>Significantly reduced feature iteration time for new content pipelines and scheduling capabilities</li>
           <li>Improved reliability and consistency of scheduled content and virtual influencer outputs through better observability and MCP-driven automation</li>
+          <li>Operated a polyglot backend (Node.js + .NET) without added operational overhead, choosing the right stack per workload</li>
         </ul>
       </td>
     </tr>
@@ -158,6 +160,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
         <ul>
           <li>Node.js, TypeScript (backend services and APIs)</li>
           <li>React (frontend application for creators and operators)</li>
+          <li>.NET Core / ASP.NET Core (backend microservices)</li>
           <li>MongoDB (primary data store)</li>
           <li>Integrations: Ayshare, Kie.ai, Suno, Stripe</li>
           <li>Custom MCP integrations for tools and external APIs</li>
@@ -173,6 +176,8 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 ### Zuhlke Group
 
 **Expert Software Engineer** | _Sep 2024 - Current_
+
+#### Zurich Neo Project
 
 <table>
   <thead>
@@ -236,6 +241,60 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
   </tbody>
 </table>
 
+#### React 19 Upgrade Initiative for GIC
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        <strong>React 19 Upgrade Initiative for GIC</strong> - Led the modernization of 16 GIC frontend
+        projects, upgrading them from legacy React versions to the latest React 19, including adoption
+        of the React Compiler for automatic memoization and performance optimization.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Responsibilities</strong></td>
+      <td>
+        <ul>
+          <li>Assess and plan upgrade paths for 16 React projects from outdated versions to React 19</li>
+          <li>Adopt the React Compiler across upgraded projects to eliminate manual memoization</li>
+          <li>Introduce and apply new React 19 features (e.g. Actions, <code>use</code> hook, improved Suspense/transitions) where applicable</li>
+          <li>Maintain and extend Cypress and Playwright test suites to validate upgrades without regressions</li>
+          <li>Coordinate rollout across multiple project teams to minimize disruption</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Achievements and Skills Gained</strong></td>
+      <td>
+        <ul>
+          <li>Successfully upgraded 16 projects to React 19 with React Compiler adoption</li>
+          <li>Deepened expertise in React Compiler internals and React 19 feature set</li>
+          <li>Strengthened end-to-end and component testing practices using Cypress and Playwright at scale across a multi-project upgrade</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies</strong></td>
+      <td>
+        <ul>
+          <li>ReactJS (v19)</li>
+          <li>React Compiler</li>
+          <li>Cypress</li>
+          <li>Playwright</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 
 ### GIC Singapore
@@ -271,6 +330,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>Prepared migration strategies for integration with new system components</li>
           <li>Proposed comprehensive upgrade strategies for legacy system features</li>
           <li>Served as the primary engineer responsible for all team-developed features</li>
+          <li>Built and maintained ReactJS-based front-end components for internal dashboards and validation tooling</li>
         </ul>
       </td>
     </tr>
@@ -295,6 +355,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
         <ul>
           <li>.NET Framework</li>
           <li>.NET Core</li>
+          <li>ReactJS (v18) with Hooks and Redux Toolkit for state management</li>
           <li>PostgreSQL</li>
           <li>SQL Server</li>
           <li>Kibana with Elasticsearch for logging</li>
@@ -363,7 +424,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>Golang</li>
           <li>gRPC</li>
           <li>MySQL</li>
-          <li>React with Observable</li>
+          <li>ReactJS with Observable</li>
           <li>Monorepo Architecture</li>
           <li>Kibana with Elasticsearch for logging</li>
           <li>DataDog</li>
