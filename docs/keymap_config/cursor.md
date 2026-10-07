@@ -27,12 +27,12 @@ This section contains configuration files for Cursor editor, including keybindin
 ## ⚙️ Settings
 
 ### Windows VS Code Settings
-**File:** `keymaps/cursor/setting-windows-vscode.json`
+**File:** `keymaps/cursor/setting-vscode-windows.json`
 
-??? setting-windows-vscode
+??? setting-vscode-windows
     
     ```json
-    --8<-- "keymaps/cursor/setting-windows-vscode.json"
+    --8<-- "keymaps/cursor/setting-vscode-windows.json"
     ```
 
 ---

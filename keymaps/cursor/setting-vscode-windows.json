@@ -24,8 +24,6 @@
     }
   },
   "git.enableSmartCommit": true,
-  "git.fetchOnPull": true,
-  "git.pruneOnFetch": true,
   "javascript.referencesCodeLens.enabled": true,
   "typescript.implementationsCodeLens.enabled": true,
   "typescript.referencesCodeLens.enabled": true,
@@ -64,12 +62,14 @@
     "digitech-vn": "linux"
   },
   "remote.WSL.fileWatcher.polling": true,
+  "vsicons.dontShowNewVersionMessage": true,
   "security.workspace.trust.untrustedFiles": "open",
   "typescript.preferences.quoteStyle": "double",
   "javascript.preferences.quoteStyle": "single",
   "editor.tabSize": 2,
   "terminal.integrated.scrollback": 100000000,
   "angular.experimental-ivy": true,
+  "workbench.iconTheme": "vscode-icons",
   "azureFunctions.showProjectWarning": false,
   "html.format.wrapAttributes": "preserve-aligned",
   "html.format.endWithNewline": true,
@@ -94,7 +94,6 @@
   "gitlens.views.branches.branches.layout": "list",
   "editor.unicodeHighlight.ambiguousCharacters": false,
   "editor.unicodeHighlight.invisibleCharacters": false,
-  "git.mergeEditor": true,
   "git.useCommitInputAsStashMessage": true,
   "git.useEditorAsCommitInput": false,
   "search.showLineNumbers": true,
@@ -130,8 +129,7 @@
   "redhat.telemetry.enabled": false,
   "[python]": {
     "editor.formatOnType": true,
-    "editor.defaultFormatter": "ms-python.black-formatter",
-    "diffEditor.ignoreTrimWhitespace": false
+    "editor.defaultFormatter": "ms-python.autopep8"
   },
   "git.openRepositoryInParentFolders": "always",
   "[css]": {
@@ -195,18 +193,27 @@
   "[sql]": {
     "editor.defaultFormatter": "mtxr.sqltools"
   },
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path.windows": "C:\\Users\\huato\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+    "vscode-kubernetes.minikube-path.windows": "C:\\Users\\huato\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+    "vscode-kubernetes.kubectl-path.windows": "C:\\Users\\huato\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+    "vscode-kubernetes.kubectl-path.mac": "/Users/toan.duong/.vs-kubernetes/tools/kubectl/kubectl",
+    "vscode-kubernetes.minikube-path.mac": "/Users/toan.duong/.vs-kubernetes/tools/minikube/darwin-arm64/minikube",
+    "vscode-kubernetes.helm-path.mac": "/Users/toan.duong/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+    "vscode-kubernetes.helm-path-windows": "C:\\Users\\huato\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+    "vscode-kubernetes.kubectl-path-windows": "C:\\Users\\huato\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+    "vscode-kubernetes.minikube-path-windows": "C:\\Users\\huato\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+  },
   "[php]": {
     "editor.defaultFormatter": "Sophisticode.php-formatter"
   },
   "hediet.vscode-drawio.resizeImages": null,
   "nxConsole.showNodeVersionOnStartup": false,
-  "workbench.colorCustomizations": {
-    // "terminalCursor.background": "#000000",
-    // "terminalCursor.foreground": "#000000",
-    // "terminal.selectionBackground" : "#783d26"
+  "gitlens.advanced.messages": {
+    "suppressCreatePullRequestPrompt": true
   },
+  "workbench.colorCustomizations": {},
   "terminal.integrated.mouseWheelZoom": true,
-  "terminal.integrated.fontSize": 12,
   "terminal.integrated.shellIntegration.enabled": false,
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "scm.providerCountBadge": "auto",
@@ -217,76 +224,201 @@
   "gitlens.views.scm.grouped.views": {
     "commits": true,
     "branches": false,
-    "remotes": true,
+    "remotes": false,
     "stashes": false,
     "tags": true,
     "worktrees": true,
     "contributors": true,
+    "fileHistory": false,
     "repositories": false,
     "searchAndCompare": false,
     "launchpad": false
   },
   "mssql.objectExplorer.groupBySchema": true,
+  "mssql.connections": [],
   "mssql.autoDisableNonTSqlLanguageService": true,
   "python.defaultInterpreterPath": "",
   "[powershell]": {
     "editor.defaultFormatter": "ms-vscode.powershell"
   },
-  "debug.toolBarLocation": "commandCenter",
-  "workbench.colorTheme": "Monokai",
-  "svelte.enable-ts-plugin": true,
-  "docker.extension.enableComposeLanguageServer": false,
-  "autopep8.args": [
-    "--ignore E121",
-    "--indent-size=2"
+  "cursor.cpp.disabledLanguages": [
+    "plaintext",
+    "markdown",
+    "scminput"
   ],
+  "workbench.colorTheme": "Monokai",
+  "window.commandCenter": true,
+  "cursor.windowSwitcher.sidebarHoverCollapsed": true,
+  "docker.extension.enableComposeLanguageServer": false,
+  "cursor.composer.shouldAllowCustomModes": true,
+  "python.createEnvironment.trigger": "off",
+  "mssql.connectionGroups": [],
+  "update.releaseTrack": "prerelease",
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [
+    {
+      "column": 80,
+      "color": "#00FF0010"
+    },
+    {
+      "column": 100,
+      "color": "#BDB76B15"
+    },
+    {
+      "column": 120,
+      "color": "#FA807219"
+    }
+  ],
+  "editor.unicodeHighlight.includeComments": true,
+  "workbench.editor.revealIfOpen": true,
+  "files.eol": "\n",
+  "[bat]": {
+    "files.eol": "\r\n"
+  },
+  "emmet.variables": {
+    "lang": "en"
+  },
+  "thunder-client.requestLayout": "Top/Bottom",
+  "cSpell.diagnosticLevel": "Hint",
+  "trailing-spaces.backgroundColor": "rgba(255,0,0,0.1)",
+  "trailing-spaces.includeEmptyLines": false,
+  "terminal.integrated.tabs.hideCondition": "never",
+  "terminal.integrated.enablePersistentSessions": false,
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.detectJdksAtStart": false,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.debug.settings.hotCodeReplace": "auto",
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.maxConcurrentBuilds": 20,
+  "java.sources.organizeImports.staticStarThreshold": 1,
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-1.8",
+      "path": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\8"
+    },
+    {
+      "name": "JavaSE-11",
+      "path": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\11"
+    },
+    {
+      "name": "JavaSE-17",
+      "path": "C:\\Users\\huato\\.jdks\\temurin-17.0.16"
+    },
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Users\\huato\\.jdks\\temurin-21.0.8"
+    },
+    {
+      "name": "JavaSE-24",
+      "path": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest",
+      "default": true
+    }
+  ],
+  "terminal.integrated.profiles.windows": {
+    "JavaSE-1.8 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\8\\bin;${env:PATH}",
+        "JAVA_HOME": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\8"
+      },
+      "path": "cmd"
+    },
+    "JavaSE-11 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\11\\bin;${env:PATH}",
+        "JAVA_HOME": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\11"
+      },
+      "path": "cmd"
+    },
+    "JavaSE-17 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\.jdks\\temurin-17.0.16\\bin;${env:PATH}",
+        "JAVA_HOME": "C:\\Users\\huato\\.jdks\\temurin-17.0.16"
+      },
+      "path": "cmd"
+    },
+    "JavaSE-21 LTS": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\.jdks\\temurin-21.0.8\\bin;${env:PATH}",
+        "JAVA_TOOL_OPTIONS": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8",
+        "JAVA_HOME": "C:\\Users\\huato\\.jdks\\temurin-21.0.8"
+      },
+      "path": "cmd",
+      "args": [
+        "/k",
+        "chcp",
+        "65001"
+      ]
+    },
+    "JavaSE-24": {
+      "overrideName": true,
+      "env": {
+        "PATH": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest\\bin;${env:PATH}",
+        "JAVA_TOOL_OPTIONS": "-Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8",
+        "JAVA_HOME": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest"
+      },
+      "path": "cmd",
+      "args": [
+        "/k",
+        "chcp",
+        "65001"
+      ]
+    }
+  },
+  "terminal.integrated.automationProfile.windows": {
+    "path": "cmd"
+  },
+  "java.test.config": {
+    "vmArgs": [
+      "-Dstdout.encoding=UTF-8",
+      "-Dstderr.encoding=UTF-8"
+    ]
+  },
+  "maven.terminal.customEnv": [
+    {
+      "environmentVariable": "JAVA_HOME",
+      "value": "C:\\Users\\huato\\.jdks\\temurin-21.0.8"
+    }
+  ],
+  "java.import.gradle.java.home": "C:\\Users\\huato\\.jdks\\temurin-21.0.8",
+  "maven.executable.path": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\maven\\latest\\bin\\mvn",
+  "java.import.gradle.home": "C:\\Users\\huato\\AppData\\Roaming\\Cursor\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\gradle\\latest",
+  "notebook.lineNumbers": "on",
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "jdk.telemetry.enabled": false,
   "diffEditor.codeLens": true,
-  "diffEditor.renderSideBySide": true,
+  "cursor.general.disableHttp2": true,
+  "cursor.general.disableHttp1SSE": false,
   "git-graph.customPullRequestProviders": [
     {
       "name": "Azure DevOps",
       "templateUrl": "$1/$2/_git/$3/pullrequestcreate?sourceRef=$4&targetRef=$8"
     }
   ],
+  "workbench.externalBrowser": "chrome",
+  "terminal.integrated.fontSize": 13,
+  "debug.toolBarLocation": "commandCenter",
   "git-graph.dialog.fetchIntoLocalBranch.forceFetch": true,
   "git-graph.dialog.fetchRemote.prune": true,
   "git-graph.dialog.merge.noFastForward": false,
   "git-graph.dialog.fetchRemote.pruneTags": true,
   "git-graph.dialog.resetCurrentBranchToCommit.mode": "Hard",
-  "git-graph.repository.fetchAndPrune": true,
-  "git-graph.dialog.cherryPick.noCommit": true,
-  "claudeCode.preferredLocation": "panel",
-  "chat.viewSessions.orientation": "stacked",
-  "claudeCode.useCtrlEnterToSend": true,
-  "claudeCodeChat.wsl.enabled": true,
-  "claudeCodeChat.wsl.distro": "Ubuntu",
-  "claudeCodeChat.wsl.nodePath": "/usr/bin/node",
-  "claudeCodeChat.wsl.claudePath": "/usr/local/bin/claude",
-  "claudeCode.initialPermissionMode": "plan",
-  "claudeCode.selectedModel": "default",
-  "terminal.integrated.profiles.windows": {
-    "PowerShell": {
-      "source": "PowerShell",
-      "icon": "terminal-powershell"
-    },
-    "Command Prompt": {
-      "path": "C:\\WINDOWS\\System32\\cmd.exe",
-      "args": []
-    },
-    "Git Bash": {
-      "source": "Git Bash",
-      "icon": "terminal-git-bash"
-    }
-  },
-  "python.analysis.typeCheckingMode": "strict",
-  "gitlens.advanced.messages": {
-    "suppressCreatePullRequestPrompt": true
-  },
-  "gitlens.ai.model": "vscode",
-  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
-  "gitlens.gitCommands.skipConfirmations": [
-    "fetch:command",
-    "stash-push:command",
-    "pull:command"
-  ]
+  "git-graph.repository.fetchAndPrune": true
 }

@@ -12,17 +12,6 @@ This section contains configuration files for Visual Studio, Microsoft's compreh
 
 ## ⚙️ Settings Exports
 
-### 2023 Settings Export
-**File:** `keymaps/visual-studio/Exported-2023-12-31.vssettings`
-
-**Description:** Complete Visual Studio settings export from December 31, 2023, including editor preferences, debugging configurations, and development tools setup.
-
-??? 2023-12-31
-    
-    ```xml
-    --8<-- "keymaps/visual-studio/Exported-2023-12-31.vssettings"
-    ```
-
 ### 2025 Settings Export
 **File:** `keymaps/visual-studio/Exported-2025-04-22.vssettings`
 
@@ -32,6 +21,17 @@ This section contains configuration files for Visual Studio, Microsoft's compreh
     
     ```xml
     --8<-- "keymaps/visual-studio/Exported-2025-04-22.vssettings"
+    ```
+
+### 2023 Settings Export
+**File:** `keymaps/visual-studio/Exported-2023-12-31.vssettings`
+
+**Description:** Complete Visual Studio settings export from December 31, 2023, including editor preferences, debugging configurations, and development tools setup.
+
+??? 2023-12-31
+    
+    ```xml
+    --8<-- "keymaps/visual-studio/Exported-2023-12-31.vssettings"
     ```
 
 ---

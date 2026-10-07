@@ -23,6 +23,8 @@ nav:
     - "Visual Studio": keymap_config/visual-studio.md
     - "Visual Studio Code": keymap_config/visual-studio-code.md
     - "CCleaner": keymap_config/ccleaner.md
+  - Tips & Tricks:
+    - "Git Commands": tips_tricks/git-command.md
 
 
 # Theme configuration

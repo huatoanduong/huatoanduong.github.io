@@ -28,6 +28,19 @@ This section contains configuration files for Karabiner, a powerful keyboard cus
 
 ---
 
+## ⚙️ Configuration File
+
+### Karabiner JSON Configuration
+**File:** `keymaps/karabiner/karabiner.json`
+
+??? karabiner-config
+
+    ```json
+    --8<-- "keymaps/karabiner/karabiner.json"
+    ```
+
+---
+
 ## 🎯 Key Features
 - Advanced key remapping for macOS
 - Complex modification rules
