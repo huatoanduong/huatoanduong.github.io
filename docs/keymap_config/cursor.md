@@ -21,6 +21,16 @@ This section contains configuration files for Cursor editor, including keybindin
     ```json
     --8<-- "keymaps/cursor/keybindings_windows.json"
     ```
+
+### macOS Keybindings
+**File:** `keymaps/cursor/keybindings_mac.json.json`
+    
+<!-- ??? keybindings_windows.json -->
+??? keybindings_windows
+
+    ```json
+    --8<-- "keymaps/cursor/keybindings_mac.json.json"
+    ```
     
 ---
 
@@ -33,6 +43,15 @@ This section contains configuration files for Cursor editor, including keybindin
     
     ```json
     --8<-- "keymaps/cursor/setting-vscode-windows.json"
+    ```
+
+### macOS VS Code Settings
+**File:** `keymaps/cursor/setting-vscode-mac.json`
+
+??? setting-vscode-mac
+    
+    ```json
+    --8<-- "keymaps/cursor/setting-vscode-mac.json"
     ```
 
 ---
