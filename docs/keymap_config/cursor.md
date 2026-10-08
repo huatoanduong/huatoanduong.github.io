@@ -23,13 +23,13 @@ This section contains configuration files for Cursor editor, including keybindin
     ```
 
 ### macOS Keybindings
-**File:** `keymaps/cursor/keybindings_mac.json.json`
+**File:** `keymaps/cursor/keybindings_mac.json`
     
 <!-- ??? keybindings_windows.json -->
 ??? keybindings_windows
 
     ```json
-    --8<-- "keymaps/cursor/keybindings_mac.json.json"
+    --8<-- "keymaps/cursor/keybindings_mac.json"
     ```
     
 ---
