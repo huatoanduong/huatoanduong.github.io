@@ -77,6 +77,9 @@ git branch -D <branch-name>   # Force delete
 
 # Rename current branch
 git branch -m <new-branch-name>
+
+# Reset branch to remote without checkout
+git branch -f <branch-name> origin/<branch-name>
 ```
 
 ---
