@@ -395,8 +395,11 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td>
         <ul>
           <li>Collaborated closely with Product Owners and QA teams to establish system design requirements before sprint initiation</li>
+          <li>Planned sprints and broke down Epics into well-scoped stories and tasks in Jira, with estimates and acceptance criteria</li>
+          <li>Managed task assignment and resource planning for a team of 6 engineers, balancing feature delivery, technical debt, and on-call duties</li>
           <li>Provided on-call support for stakeholders to ensure continuous system availability</li>
-          <li>Conducted comprehensive log analysis and provided support to team members during system issues</li>
+          <li>Monitored DataDog dashboards and Kibana logs to detect abnormal behavior (error spikes, latency, order-volume drops), led investigations, and supported team members during system issues</li>
+          <li>Interviewed engineering candidates and onboarded new members to the team</li>
           <li>Authored detailed engineering specifications for new feature implementations</li>
           <li>Served as the primary engineer responsible for all team-developed features</li>
         </ul>
@@ -462,11 +465,15 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
+          <li><strong>Team Management with Azure DevOps:</strong> Ran the team's entire delivery process in Azure DevOps, covering backlog and Epic hierarchy, sprint boards, capacity planning, work-item tracking, and progress and velocity reporting to stakeholders</li>
+          <li><strong>Delivery Planning:</strong> Broke down Epics into features and tasks on Azure DevOps Boards, and planned sprints and release milestones with product and sales stakeholders</li>
+          <li><strong>Task & Resource Planning:</strong> Managed task assignment and capacity planning in Azure DevOps, balancing roadmap features with technical debt and support work</li>
+          <li><strong>Production Monitoring:</strong> Watched Azure monitoring dashboards for abnormal behavior (failed Functions, Service Bus backlogs, performance drops) and coordinated fixes</li>
           <li><strong>Architecture Ownership & Solution Design:</strong> Led comprehensive system architecture design, making critical technical decisions for product development and system scalability</li>
           <li><strong>Technology Consulting & Solution Selection:</strong> Provided strategic technology consulting, evaluated and selected optimal tech stacks, and established standardized backend architecture guidelines</li>
           <li><strong>Performance & Security Optimization:</strong> Designed and implemented performance optimization strategies, security protocols, and scalable system architectures</li>
           <li><strong>System Modernization & Migration:</strong> Led legacy system modernization initiatives and migration strategies to improve system efficiency and maintainability</li>
-          <li><strong>Team Leadership & Technical Guidance:</strong> Led startup team development, managed recruitment, and provided technical mentorship to ensure architectural consistency</li>
+          <li><strong>Team Leadership & Management:</strong> Led a team of 8 engineers, interviewed and hired new members, and provided technical mentorship to ensure architectural consistency</li>
           <li><strong>Business Alignment:</strong> Coordinated with sales teams and addressed market demands to ensure product-market fit and technical feasibility</li>
         </ul>
       </td>
@@ -481,6 +488,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li><strong>Security Implementation:</strong> Designed and implemented comprehensive security protocols including OAuth integration, data encryption, and secure payment processing</li>
           <li><strong>Technology Strategy:</strong> Made strategic technology decisions that balanced scalability, maintainability, and business requirements</li>
           <li><strong>Team Development:</strong> Built and mentored development teams, ensuring architectural consistency and technical excellence across all projects</li>
+          <li><strong>Delivery Process:</strong> Set up an Azure DevOps-based team workflow (Boards, sprint planning, capacity, reporting) that gave stakeholders clear visibility into progress</li>
         </ul>
       </td>
     </tr>
@@ -506,6 +514,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>Lokalise</li>
           <li>Crowdin</li>
           <li>WordPress</li>
+          <li>Azure DevOps (Boards, Pipelines)</li>
           <li>GitHub Pipeline</li>
           <li>RabbitMQ</li>
           <li>Kafka</li>
@@ -542,12 +551,15 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
+          <li>Managed both teams end to end in Azure DevOps, covering backlog grooming, Epic hierarchy, sprint boards, capacity planning, work-item tracking, and sprint and velocity reporting to London stakeholders</li>
           <li>Analyzed requirements and designed comprehensive system architecture for each sprint</li>
           <li>Coordinated with and provided support to the London-based team</li>
-          <li>Broke down, assigned, and monitored tasks to achieve sprint objectives</li>
+          <li>Broke down Epics into user stories and tasks on Azure DevOps Boards, then assigned and tracked them across 2 teams (15 engineers in total) to meet sprint goals</li>
+          <li>Planned resources and capacity across both teams for each sprint and release using Azure DevOps</li>
           <li>Provided comprehensive support to team members to ensure task completion</li>
           <li>Resolved technical challenges and system issues as they arose</li>
-          <li>Monitored system health and functionality to ensure optimal performance</li>
+          <li>Monitored Azure Portal dashboards for abnormal behavior in the daily interest and reconciliation jobs and drove fixes before banks were affected</li>
+          <li>Interviewed and assessed candidates to grow both teams</li>
           <li>Conducted comprehensive testing to validate system functionality</li>
         </ul>
       </td>
@@ -561,6 +573,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>Advanced technical skills in Azure platform development and management</li>
           <li>Improved multitasking abilities and project coordination skills</li>
           <li>Significantly enhanced SCRUM process implementation and team collaboration</li>
+          <li>Set up a shared Azure DevOps workflow so 2 teams could plan, track, and report delivery consistently</li>
           <li>Improved user interface and user experience design capabilities</li>
         </ul>
       </td>
@@ -578,6 +591,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li>Azure API Management</li>
           <li>Azure Platform Services</li>
           <li>Multi-pod/Tenant Architecture</li>
+          <li>Azure DevOps (Boards, Pipelines)</li>
           <li>MediatR / CQRS</li>
           <li>RBAC</li>
           <li>SaaS</li>
@@ -612,6 +626,8 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
         <ul>
           <li>Executed assigned development tasks and performed comprehensive product maintenance</li>
           <li>Served as both developer and team leader to ensure project success</li>
+          <li>Broke down assigned features into smaller development tasks and estimated effort for sprint planning</li>
+          <li>Took part in technical interviews for new developer candidates</li>
           <li>Provided support to team members to facilitate task completion</li>
           <li>Resolved technical challenges and system issues as they arose</li>
           <li>Conducted comprehensive testing to validate system functionality</li>
