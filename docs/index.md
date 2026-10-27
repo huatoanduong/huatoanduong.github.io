@@ -191,20 +191,20 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Project</strong></td>
       <td>
         <strong>Zurich Neo Project</strong> - An international insurance platform delivering comprehensive insurance solutions across multiple countries and regions. The platform leverages modern cloud-native architecture to provide innovative
-        insurance products, policy management systems, and claims processing capabilities serving a global customer base.
+        insurance products, policy management systems, and claims processing capabilities serving a global customer base.<br /><br /><strong>Team Size:</strong> Team of 3 within a larger program team of 40 members
       </td>
     </tr>
     <tr>
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Lead full-stack development initiatives encompassing both backend and frontend components</li>
-          <li>Architect and implement complex business logic and algorithms for insurance operations</li>
-          <li>Collaborate closely with Business Analysts and stakeholders to gather requirements and deliver new features</li>
-          <li>Design and analyze system architecture components for scalability and performance</li>
-          <li>Investigate and resolve critical production issues to ensure system reliability</li>
-          <li>Coordinate with cross-functional teams to facilitate seamless system integration</li>
-          <li>Conduct comprehensive code reviews and maintain elevated code quality standards</li>
+          <li><strong>Full-Stack Leadership:</strong> Lead full-stack development initiatives encompassing both backend and frontend components</li>
+          <li><strong>Business Logic & Algorithms:</strong> Architect and implement complex business logic and algorithms for insurance operations</li>
+          <li><strong>Requirements Collaboration:</strong> Collaborate closely with Business Analysts and stakeholders to gather requirements and deliver new features</li>
+          <li><strong>Architecture Design:</strong> Design and analyze system architecture components for scalability and performance</li>
+          <li><strong>Production Issue Resolution:</strong> Investigate and resolve critical production issues to ensure system reliability</li>
+          <li><strong>Cross-Team Integration:</strong> Coordinate with cross-functional teams to facilitate seamless system integration</li>
+          <li><strong>Code Quality:</strong> Conduct comprehensive code reviews and maintain elevated code quality standards</li>
         </ul>
       </td>
     </tr>
@@ -212,11 +212,11 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Achievements and Skills Gained</strong></td>
       <td>
         <ul>
-          <li>Enhanced full-stack development capabilities within the insurance technology domain</li>
-          <li>Advanced system architecture design skills for cloud-native applications</li>
-          <li>Strengthened stakeholder collaboration and cross-functional team coordination</li>
-          <li>Developed deep expertise in insurance domain knowledge and international compliance requirements</li>
-          <li>Gained comprehensive experience with enterprise-grade DevOps and CI/CD methodologies</li>
+          <li><strong>Full-Stack Growth:</strong> Enhanced full-stack development capabilities within the insurance technology domain</li>
+          <li><strong>Cloud-Native Architecture:</strong> Advanced system architecture design skills for cloud-native applications</li>
+          <li><strong>Stakeholder Collaboration:</strong> Strengthened stakeholder collaboration and cross-functional team coordination</li>
+          <li><strong>Insurance Domain Expertise:</strong> Developed deep expertise in insurance domain knowledge and international compliance requirements</li>
+          <li><strong>DevOps & CI/CD:</strong> Gained comprehensive experience with enterprise-grade DevOps and CI/CD methodologies</li>
         </ul>
       </td>
     </tr>
@@ -256,18 +256,18 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td>
         <strong>React 19 Upgrade Initiative for GIC</strong> - Led the modernization of 16 GIC frontend
         projects, upgrading them from legacy React versions to the latest React 19, including adoption
-        of the React Compiler for automatic memoization and performance optimization.
+        of the React Compiler for automatic memoization and performance optimization.<br /><br /><strong>Team Size:</strong> 5 engineers
       </td>
     </tr>
     <tr>
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Assess and plan upgrade paths for 16 React projects from outdated versions to React 19</li>
-          <li>Adopt the React Compiler across upgraded projects to eliminate manual memoization</li>
-          <li>Introduce and apply new React 19 features (e.g. Actions, <code>use</code> hook, improved Suspense/transitions) where applicable</li>
-          <li>Maintain and extend Cypress and Playwright test suites to validate upgrades without regressions</li>
-          <li>Coordinate rollout across multiple project teams to minimize disruption</li>
+          <li><strong>Upgrade Planning:</strong> Assess and plan upgrade paths for 16 React projects from outdated versions to React 19</li>
+          <li><strong>React Compiler Adoption:</strong> Adopt the React Compiler across upgraded projects to eliminate manual memoization</li>
+          <li><strong>React 19 Features:</strong> Introduce and apply new React 19 features (e.g. Actions, <code>use</code> hook, improved Suspense/transitions) where applicable</li>
+          <li><strong>Test Coverage:</strong> Maintain and extend Cypress and Playwright test suites to validate upgrades without regressions</li>
+          <li><strong>Rollout Coordination:</strong> Coordinate rollout across multiple project teams to minimize disruption</li>
         </ul>
       </td>
     </tr>
@@ -275,9 +275,9 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Achievements and Skills Gained</strong></td>
       <td>
         <ul>
-          <li>Successfully upgraded 16 projects to React 19 with React Compiler adoption</li>
-          <li>Deepened expertise in React Compiler internals and React 19 feature set</li>
-          <li>Strengthened end-to-end and component testing practices using Cypress and Playwright at scale across a multi-project upgrade</li>
+          <li><strong>Successful Migration:</strong> Successfully upgraded 16 projects to React 19 with React Compiler adoption</li>
+          <li><strong>React Expertise:</strong> Deepened expertise in React Compiler internals and React 19 feature set</li>
+          <li><strong>Testing at Scale:</strong> Strengthened end-to-end and component testing practices using Cypress and Playwright at scale across a multi-project upgrade</li>
         </ul>
       </td>
     </tr>
@@ -313,24 +313,24 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Project</strong></td>
       <td>
         Developed and maintained a comprehensive tool for external EIPs to submit data into internal systems. This solution serves as the primary validation gateway for all external inputs and provides comprehensive stakeholder notification
-        capabilities.
+        capabilities.<br /><br /><strong>Team Size:</strong> 4 engineers
       </td>
     </tr>
     <tr>
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Collaborated closely with Business Analysts and QA teams to establish system design requirements before sprint initiation</li>
-          <li>Maintained and enhanced a six-year-old project while preserving its core functionality</li>
-          <li>Developed comprehensive plans and allocated resources for upcoming release cycles</li>
-          <li>Provided on-call support for partners to ensure continuous system availability</li>
-          <li>Coordinated and supported all release schedules to maintain project timelines</li>
-          <li>Conducted log analysis and provided support for partners during production issues</li>
-          <li>Authored comprehensive engineering specifications for new feature implementations</li>
-          <li>Prepared migration strategies for integration with new system components</li>
-          <li>Proposed comprehensive upgrade strategies for legacy system features</li>
-          <li>Served as the primary engineer responsible for all team-developed features</li>
-          <li>Built and maintained ReactJS-based front-end components for internal dashboards and validation tooling</li>
+          <li><strong>System Design Collaboration:</strong> Collaborated closely with Business Analysts and QA teams to establish system design requirements before sprint initiation</li>
+          <li><strong>Legacy System Maintenance:</strong> Maintained and enhanced a six-year-old project while preserving its core functionality</li>
+          <li><strong>Release Planning:</strong> Developed comprehensive plans and allocated resources for upcoming release cycles</li>
+          <li><strong>On-Call Support:</strong> Provided on-call support for partners to ensure continuous system availability</li>
+          <li><strong>Release Coordination:</strong> Coordinated and supported all release schedules to maintain project timelines</li>
+          <li><strong>Production Support:</strong> Conducted log analysis and provided support for partners during production issues</li>
+          <li><strong>Engineering Specifications:</strong> Authored comprehensive engineering specifications for new feature implementations</li>
+          <li><strong>Migration Strategy:</strong> Prepared migration strategies for integration with new system components</li>
+          <li><strong>Upgrade Proposals:</strong> Proposed comprehensive upgrade strategies for legacy system features</li>
+          <li><strong>Feature Ownership:</strong> Served as the primary engineer responsible for all team-developed features</li>
+          <li><strong>Frontend Development:</strong> Built and maintained ReactJS-based front-end components for internal dashboards and validation tooling</li>
         </ul>
       </td>
     </tr>
@@ -338,14 +338,14 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Achievements</strong></td>
       <td>
         <ul>
-          <li>Enhanced client-centric approach and stakeholder satisfaction</li>
-          <li>Redesigned and optimized developer team workflows for improved efficiency</li>
-          <li>Strengthened leadership capabilities and fostered team collaboration</li>
-          <li>Eliminated technical debt and restructured components for improved code maintainability</li>
-          <li>Gained valuable experience in upgrading legacy systems to modern technology stacks</li>
-          <li>Developed rapid adaptation skills in high-demand technical environments</li>
-          <li>Acquired proficiency in multiple technology platforms through self-directed learning</li>
-          <li>Consolidated knowledge and expertise in enterprise system architecture</li>
+          <li><strong>Stakeholder Satisfaction:</strong> Enhanced client-centric approach and stakeholder satisfaction</li>
+          <li><strong>Workflow Optimization:</strong> Redesigned and optimized developer team workflows for improved efficiency</li>
+          <li><strong>Leadership:</strong> Strengthened leadership capabilities and fostered team collaboration</li>
+          <li><strong>Technical Debt Reduction:</strong> Eliminated technical debt and restructured components for improved code maintainability</li>
+          <li><strong>Legacy Modernization:</strong> Gained valuable experience in upgrading legacy systems to modern technology stacks</li>
+          <li><strong>Rapid Adaptation:</strong> Developed rapid adaptation skills in high-demand technical environments</li>
+          <li><strong>Self-Directed Learning:</strong> Acquired proficiency in multiple technology platforms through self-directed learning</li>
+          <li><strong>Enterprise Architecture:</strong> Consolidated knowledge and expertise in enterprise system architecture</li>
         </ul>
       </td>
     </tr>
@@ -387,21 +387,21 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Project</strong></td>
       <td>
         Express Web is a comprehensive web portal focused on Grab for Business, designed to process high-volume daily orders. The platform provides essential tools including Shopify integration, Bulk Upload capabilities, Route Optimization for
-        partners, and comprehensive Order tracking functionality.<br /><br /><strong>URL:</strong> <a href="https://express.grab.com/en">https://express.grab.com/en</a>
+        partners, and comprehensive Order tracking functionality.<br /><br /><strong>Team Size:</strong> 6 engineers<br /><br /><strong>URL:</strong> <a href="https://express.grab.com/en">https://express.grab.com/en</a>
       </td>
     </tr>
     <tr>
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Collaborated closely with Product Owners and QA teams to establish system design requirements before sprint initiation</li>
-          <li>Planned sprints and broke down Epics into well-scoped stories and tasks in Jira, with estimates and acceptance criteria</li>
-          <li>Managed task assignment and resource planning for a team of 6 engineers, balancing feature delivery, technical debt, and on-call duties</li>
-          <li>Provided on-call support for stakeholders to ensure continuous system availability</li>
-          <li>Monitored DataDog dashboards and Kibana logs to detect abnormal behavior (error spikes, latency, order-volume drops), led investigations, and supported team members during system issues</li>
-          <li>Interviewed engineering candidates and onboarded new members to the team</li>
-          <li>Authored detailed engineering specifications for new feature implementations</li>
-          <li>Served as the primary engineer responsible for all team-developed features</li>
+          <li><strong>System Design Collaboration:</strong> Collaborated closely with Product Owners and QA teams to establish system design requirements before sprint initiation</li>
+          <li><strong>Sprint Planning:</strong> Planned sprints and broke down Epics into well-scoped stories and tasks in Jira, with estimates and acceptance criteria</li>
+          <li><strong>Task & Resource Planning:</strong> Managed task assignment and resource planning for a team of 6 engineers, balancing feature delivery, technical debt, and on-call duties</li>
+          <li><strong>On-Call Support:</strong> Provided on-call support for stakeholders to ensure continuous system availability</li>
+          <li><strong>Production Monitoring:</strong> Monitored DataDog dashboards and Kibana logs to detect abnormal behavior (error spikes, latency, order-volume drops), led investigations, and supported team members during system issues</li>
+          <li><strong>Hiring & Onboarding:</strong> Interviewed engineering candidates and onboarded new members to the team</li>
+          <li><strong>Engineering Specifications:</strong> Authored detailed engineering specifications for new feature implementations</li>
+          <li><strong>Feature Ownership:</strong> Served as the primary engineer responsible for all team-developed features</li>
         </ul>
       </td>
     </tr>
@@ -409,14 +409,14 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Achievements</strong></td>
       <td>
         <ul>
-          <li>Enhanced client-centric approach and stakeholder satisfaction</li>
-          <li>Strengthened leadership capabilities and fostered team collaboration</li>
-          <li>Eliminated accumulated technical debt to improve system performance</li>
-          <li>Consolidated knowledge and expertise in enterprise system architecture</li>
-          <li>Gained valuable experience in building and developing teams from the ground up</li>
-          <li>Contributed to a consistent monthly increase of over 5% in Grab Express Web usage, with peak usage reaching 20% following the Bulk Upload feature launch</li>
-          <li>Developed rapid adaptation skills in high-demand technical environments</li>
-          <li>Acquired proficiency in multiple technology platforms through self-directed learning</li>
+          <li><strong>Stakeholder Satisfaction:</strong> Enhanced client-centric approach and stakeholder satisfaction</li>
+          <li><strong>Leadership:</strong> Strengthened leadership capabilities and fostered team collaboration</li>
+          <li><strong>Technical Debt Reduction:</strong> Eliminated accumulated technical debt to improve system performance</li>
+          <li><strong>Enterprise Architecture:</strong> Consolidated knowledge and expertise in enterprise system architecture</li>
+          <li><strong>Team Building:</strong> Gained valuable experience in building and developing teams from the ground up</li>
+          <li><strong>Business Impact:</strong> Contributed to a consistent monthly increase of over 5% in Grab Express Web usage, with peak usage reaching 20% following the Bulk Upload feature launch</li>
+          <li><strong>Rapid Adaptation:</strong> Developed rapid adaptation skills in high-demand technical environments</li>
+          <li><strong>Self-Directed Learning:</strong> Acquired proficiency in multiple technology platforms through self-directed learning</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +458,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Project</strong></td>
       <td>
         Developed a comprehensive online learning platform for children that facilitates connections between tutors and parents. The platform provides an integrated environment for tutors to advertise their courses, manage class scheduling, and
-        interact with their learners effectively.
+        interact with their learners effectively.<br /><br /><strong>Team Size:</strong> 8 engineers
       </td>
     </tr>
     <tr>
@@ -544,23 +544,23 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
         <strong>TradeTeq Project</strong> - A sophisticated trading platform that connects banks and financial institutions, providing comprehensive management of financial instruments, letters of credit, notes, reconciliations, portfolios, funds,
         deals, and negotiations. The platform calculates interest and reconciliations on a daily basis, using Azure Service Bus for messaging and Azure Functions for scheduled and event-driven processing, with Azure API Management for API governance, and leveraging the full capabilities of Azure Portal and Azure DevOps. The system features
         well-established and thoroughly tested workflows between teams, implementing a multi-pod architecture to address banking security requirements, where each bank maintains its own system and database while ensuring data synchronization and
-        privacy.
+        privacy.<br /><br /><strong>Team Size:</strong> 2 teams, 15 engineers in total
       </td>
     </tr>
     <tr>
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Managed both teams end to end in Azure DevOps, covering backlog grooming, Epic hierarchy, sprint boards, capacity planning, work-item tracking, and sprint and velocity reporting to London stakeholders</li>
-          <li>Analyzed requirements and designed comprehensive system architecture for each sprint</li>
-          <li>Coordinated with and provided support to the London-based team</li>
-          <li>Broke down Epics into user stories and tasks on Azure DevOps Boards, then assigned and tracked them across 2 teams (15 engineers in total) to meet sprint goals</li>
-          <li>Planned resources and capacity across both teams for each sprint and release using Azure DevOps</li>
-          <li>Provided comprehensive support to team members to ensure task completion</li>
-          <li>Resolved technical challenges and system issues as they arose</li>
-          <li>Monitored Azure Portal dashboards for abnormal behavior in the daily interest and reconciliation jobs and drove fixes before banks were affected</li>
-          <li>Interviewed and assessed candidates to grow both teams</li>
-          <li>Conducted comprehensive testing to validate system functionality</li>
+          <li><strong>Team Management with Azure DevOps:</strong> Managed both teams end to end in Azure DevOps, covering backlog grooming, Epic hierarchy, sprint boards, capacity planning, work-item tracking, and sprint and velocity reporting to London stakeholders</li>
+          <li><strong>Architecture Design:</strong> Analyzed requirements and designed comprehensive system architecture for each sprint</li>
+          <li><strong>London Team Coordination:</strong> Coordinated with and provided support to the London-based team</li>
+          <li><strong>Delivery Planning:</strong> Broke down Epics into user stories and tasks on Azure DevOps Boards, then assigned and tracked them across 2 teams (15 engineers in total) to meet sprint goals</li>
+          <li><strong>Capacity Planning:</strong> Planned resources and capacity across both teams for each sprint and release using Azure DevOps</li>
+          <li><strong>Team Support:</strong> Provided comprehensive support to team members to ensure task completion</li>
+          <li><strong>Issue Resolution:</strong> Resolved technical challenges and system issues as they arose</li>
+          <li><strong>Production Monitoring:</strong> Monitored Azure Portal dashboards for abnormal behavior in the daily interest and reconciliation jobs and drove fixes before banks were affected</li>
+          <li><strong>Hiring:</strong> Interviewed and assessed candidates to grow both teams</li>
+          <li><strong>Testing & Validation:</strong> Conducted comprehensive testing to validate system functionality</li>
         </ul>
       </td>
     </tr>
@@ -568,13 +568,13 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Achievements and Skills Gained</strong></td>
       <td>
         <ul>
-          <li>Enhanced client-centric approach and stakeholder satisfaction</li>
-          <li>Strengthened leadership capabilities and team management skills</li>
-          <li>Advanced technical skills in Azure platform development and management</li>
-          <li>Improved multitasking abilities and project coordination skills</li>
-          <li>Significantly enhanced SCRUM process implementation and team collaboration</li>
-          <li>Set up a shared Azure DevOps workflow so 2 teams could plan, track, and report delivery consistently</li>
-          <li>Improved user interface and user experience design capabilities</li>
+          <li><strong>Stakeholder Satisfaction:</strong> Enhanced client-centric approach and stakeholder satisfaction</li>
+          <li><strong>Leadership:</strong> Strengthened leadership capabilities and team management skills</li>
+          <li><strong>Azure Expertise:</strong> Advanced technical skills in Azure platform development and management</li>
+          <li><strong>Multitasking & Coordination:</strong> Improved multitasking abilities and project coordination skills</li>
+          <li><strong>SCRUM Process:</strong> Significantly enhanced SCRUM process implementation and team collaboration</li>
+          <li><strong>Delivery Process:</strong> Set up a shared Azure DevOps workflow so 2 teams could plan, track, and report delivery consistently</li>
+          <li><strong>UI/UX Design:</strong> Improved user interface and user experience design capabilities</li>
         </ul>
       </td>
     </tr>
@@ -618,19 +618,21 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
   <tbody>
     <tr>
       <td><strong>Project</strong></td>
-      <td>E-commerce platform development and comprehensive system maintenance</td>
+      <td>
+        E-commerce platform development and comprehensive system maintenance<br /><br /><strong>Team Size:</strong> 3 engineers
+      </td>
     </tr>
     <tr>
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Executed assigned development tasks and performed comprehensive product maintenance</li>
-          <li>Served as both developer and team leader to ensure project success</li>
-          <li>Broke down assigned features into smaller development tasks and estimated effort for sprint planning</li>
-          <li>Took part in technical interviews for new developer candidates</li>
-          <li>Provided support to team members to facilitate task completion</li>
-          <li>Resolved technical challenges and system issues as they arose</li>
-          <li>Conducted comprehensive testing to validate system functionality</li>
+          <li><strong>Development & Maintenance:</strong> Executed assigned development tasks and performed comprehensive product maintenance</li>
+          <li><strong>Developer & Team Lead:</strong> Served as both developer and team leader to ensure project success</li>
+          <li><strong>Task Breakdown & Estimation:</strong> Broke down assigned features into smaller development tasks and estimated effort for sprint planning</li>
+          <li><strong>Technical Interviews:</strong> Took part in technical interviews for new developer candidates</li>
+          <li><strong>Team Support:</strong> Provided support to team members to facilitate task completion</li>
+          <li><strong>Issue Resolution:</strong> Resolved technical challenges and system issues as they arose</li>
+          <li><strong>Testing & Validation:</strong> Conducted comprehensive testing to validate system functionality</li>
         </ul>
       </td>
     </tr>
@@ -638,11 +640,11 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Achievements and Skills Gained</strong></td>
       <td>
         <ul>
-          <li>Developed comprehensive understanding of end-user perspectives and requirements</li>
-          <li>Enhanced technical skills in ReactJS with TypeScript and .NET Core Web API development</li>
-          <li>Advanced proficiency in GitLab CI/CD and Docker containerization</li>
-          <li>Gained familiarity with SCRUM methodology and agile development practices</li>
-          <li>Improved user interface and user experience design capabilities</li>
+          <li><strong>User Perspective:</strong> Developed comprehensive understanding of end-user perspectives and requirements</li>
+          <li><strong>Technical Skills:</strong> Enhanced technical skills in ReactJS with TypeScript and .NET Core Web API development</li>
+          <li><strong>DevOps & Containerization:</strong> Advanced proficiency in GitLab CI/CD and Docker containerization</li>
+          <li><strong>Agile Practices:</strong> Gained familiarity with SCRUM methodology and agile development practices</li>
+          <li><strong>UI/UX Design:</strong> Improved user interface and user experience design capabilities</li>
         </ul>
       </td>
     </tr>
