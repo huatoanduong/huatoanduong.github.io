@@ -32,6 +32,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 - **Email:** [huatoan.duong@gmail.com](mailto:huatoan.duong@gmail.com)
 - **Facebook:** [https://www.facebook.com/huatoan.duong](https://www.facebook.com/huatoan.duong)
 - **LinkedIn:** [https://www.linkedin.com/in/hua-toan-duong/](https://www.linkedin.com/in/hua-toan-duong/)
+- **URL:** [https://toanduongl.dev](https://toanduongl.dev)
 <!-- - **Skype:** go_with_me2005 -->
 
 ---
@@ -114,7 +115,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ### Yetty.io
 
-**Founding Engineer / Tech Architect / Principal Engineer** | _Oct 2025 - Present_
+**Founding Engineer / Tech Architect / Principal Engineer** | _Oct 2025 - Oct 2026_
 
 <table>
   <thead>
@@ -175,7 +176,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 
 ### Zuhlke Group
 
-**Expert Software Engineer** | _Sep 2024 - Current_
+**Expert Software Engineer** | _Sep 2024 - Jul 2026_
 
 #### Zurich Neo Project
 
