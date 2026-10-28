@@ -32,7 +32,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
 - **Email:** [huatoan.duong@gmail.com](mailto:huatoan.duong@gmail.com)
 - **Facebook:** [https://www.facebook.com/huatoan.duong](https://www.facebook.com/huatoan.duong)
 - **LinkedIn:** [https://www.linkedin.com/in/hua-toan-duong/](https://www.linkedin.com/in/hua-toan-duong/)
-- **URL:** [https://toanduongl.dev](https://toanduongl.dev)
+- **URL:** [https://toanduong.dev](https://toanduong.dev)
 <!-- - **Skype:** go_with_me2005 -->
 
 ---
