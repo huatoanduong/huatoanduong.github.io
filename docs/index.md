@@ -135,12 +135,12 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Owned end-to-end system architecture and technical direction as Founding Engineer / Tech Architect / Principal Engineer</li>
-          <li>Designed and implemented the Node.js backend and React-based frontend for content generation, scheduling, and virtual influencer management</li>
-          <li>Designed and implemented .NET (ASP.NET Core) microservices for domain-specific backend workloads (e.g., billing/integrations and high-throughput processing), running alongside the Node.js core services</li>
-          <li>Designed MongoDB data models and access patterns to support scalable content, scheduling, and influencer profiles</li>
-          <li>Built a custom MCP integration layer to expose internal tools, APIs, and data sources to AI agents</li>
-          <li>Set up development workflows, coding standards, and tooling around AI agents to accelerate feature delivery and experimentation</li>
+          <li><strong>System Architecture:</strong> Owned end-to-end system architecture and technical direction as Founding Engineer / Tech Architect / Principal Engineer</li>
+          <li><strong>Full-Stack Development:</strong> Designed and implemented the Node.js backend and React-based frontend for content generation, scheduling, and virtual influencer management</li>
+          <li><strong>.NET Microservices:</strong> Designed and implemented .NET (ASP.NET Core) microservices for domain-specific backend workloads (e.g., billing/integrations and high-throughput processing), running alongside the Node.js core services</li>
+          <li><strong>Data Modeling:</strong> Designed MongoDB data models and access patterns to support scalable content, scheduling, and influencer profiles</li>
+          <li><strong>MCP Integration Layer:</strong> Built a custom MCP integration layer to expose internal tools, APIs, and data sources to AI agents</li>
+          <li><strong>AI-Driven Workflow:</strong> Set up development workflows, coding standards, and tooling around AI agents to accelerate feature delivery and experimentation</li>
         </ul>
       </td>
     </tr>
@@ -148,10 +148,10 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
       <td><strong>Achievements and Impact</strong></td>
       <td>
         <ul>
-          <li>Leveraged AI coding agents (Cursor, Claude, Cline) in a coordinated multi-agent workflow to achieve approximately <strong>3× productivity</strong> compared to prior solo development workflows</li>
-          <li>Significantly reduced feature iteration time for new content pipelines and scheduling capabilities</li>
-          <li>Improved reliability and consistency of scheduled content and virtual influencer outputs through better observability and MCP-driven automation</li>
-          <li>Operated a polyglot backend (Node.js + .NET) without added operational overhead, choosing the right stack per workload</li>
+          <li><strong>AI-Assisted Productivity:</strong> Leveraged AI coding agents (Cursor, Claude, Cline) in a coordinated multi-agent workflow to achieve approximately <strong>3× productivity</strong> compared to prior solo development workflows</li>
+          <li><strong>Faster Iteration:</strong> Significantly reduced feature iteration time for new content pipelines and scheduling capabilities</li>
+          <li><strong>Reliability & Consistency:</strong> Improved reliability and consistency of scheduled content and virtual influencer outputs through better observability and MCP-driven automation</li>
+          <li><strong>Polyglot Backend:</strong> Operated a polyglot backend (Node.js + .NET) without added operational overhead, choosing the right stack per workload</li>
         </ul>
       </td>
     </tr>
@@ -206,6 +206,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li><strong>Production Issue Resolution:</strong> Investigate and resolve critical production issues to ensure system reliability</li>
           <li><strong>Cross-Team Integration:</strong> Coordinate with cross-functional teams to facilitate seamless system integration</li>
           <li><strong>Code Quality:</strong> Conduct comprehensive code reviews and maintain elevated code quality standards</li>
+          <li><strong>Technical Interviews:</strong> Conducted technical interviews to assess and hire engineering candidates for Zuhlke</li>
         </ul>
       </td>
     </tr>
@@ -269,6 +270,7 @@ Having dedicated 90% of my career to startup environments, I excel in fast-paced
           <li><strong>React 19 Features:</strong> Introduce and apply new React 19 features (e.g. Actions, <code>use</code> hook, improved Suspense/transitions) where applicable</li>
           <li><strong>Test Coverage:</strong> Maintain and extend Cypress and Playwright test suites to validate upgrades without regressions</li>
           <li><strong>Rollout Coordination:</strong> Coordinate rollout across multiple project teams to minimize disruption</li>
+          <li><strong>Technical Interviews:</strong> Conducted technical interviews to assess and hire frontend engineering candidates for Zuhlke</li>
         </ul>
       </td>
     </tr>
